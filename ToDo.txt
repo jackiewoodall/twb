@@ -1,0 +1,8 @@
+o run asciidoc tutorials
+o learn syntax basics
+o inline images
+o toolchain to create html, pdf, epub
+o toolchain to create mobi
+o book cover (frontmatter?)
+o license and permission
+
