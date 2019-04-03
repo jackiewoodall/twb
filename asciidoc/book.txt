@@ -26,7 +26,7 @@ The benefits of the practices are many and include the following: clearing of pe
 
 In this book I describe the fundamental essence of the practices and how they relate to each other. When this is understood you can more intelligently pursue other sources (books, teachers, training programs, etc.) for more detail and elaboration of the practices.
 
-image::../images/1-overview.jpg[alt="Overview",width="38%",align="center"]
+image::../images/1-overview.jpg[alt="Overview",width="38%",pdfwidth="38%",align="center"]
 
 Transpersonal/spiritual practices are potentially very powerful. This should not be underestimated. They can literally transform your being. Therefore, I must include the following warning: if any such practices cause unpleasant psychological disturbances, then stop the practices and consult a counselor or guide who is experienced in that area. Occasionally, a person’s ego may be overwhelmed by the thoughts and images that arise during meditation. Or you may be upset by the boredom and frustration that may occur during part of the journey. And in yoga, some practices may produce a variety of sensations that could be upsetting to someone who does not understand them.
 
@@ -66,7 +66,7 @@ Now a person’s sense of self continually changes. As we get older and watch ou
 
 Our sense of self may become more identified with the mind and/or social roles. A child asked to answer the question “Who am I?” may answer in terms of body and name, while an older person may answer in terms of social roles, such as vocation and family position. By now the person is probably strongly identified with some sense of self which is the thinker of thoughts, perceiver of perceptions, doer of actions, and consistent subject of many memories.
 
-image::../images/2-the-self.jpg[alt="The Self",width="38%",align="center"]
+image::../images/2-the-self.jpg[alt="The Self",width="38%",pdfwidth="38%",align="center"]
 
 Thus, many people identify with the activity of their minds: “I am the thinker of these thoughts.” Others develop a sense of inner self in which the self is more of an observer: “I am the observer of the mind having thoughts. I am not the thinker of the thoughts, I am the observer of the thinker.”
 
@@ -145,7 +145,7 @@ Similarly, the game of life is filled with potential sources of stress that can 
 
 In the first chapter, I made a distinction between “religious” and “spiritual.” In terms of the analogy of this chapter, we can say that religion is at the level of the game, while spirituality is involved with getting free from the game.
 
-image::../images/4-the-game-of-life.jpg[alt="The Game of Life",width="38%",align="center"]
+image::../images/4-the-game-of-life.jpg[alt="The Game of Life",width="38%",pdfwidth="38%",align="center"]
 
 In many games it is possible occasionally to call a time-out and step out of the game for a while. This gives you a chance to catch your breath, see the game more objectively, and re-evaluate your game strategy. Unfortunately, few players ever take time-out from the game of life; they just keep playing. They may change aspects of the game, such as the setting, but they are always in the game. In this book you will learn how meditation is a way to call time-out in the game of life. And the chapter on retreats discusses additional ways.
 
@@ -163,7 +163,7 @@ Sometimes you might “wake up” in the dream; that is, you might still be drea
 
 So people can be awake in varying degrees during sleeping dreams. But for most people most of the time, when they are dreaming they are lost in the apparent reality of the dream. When they wake up, they see the dream for what it is: the mental activity of a particular state of consciousness, a subset of a broader reality.
 
-image::../images/5-dreaming.jpg[alt="Dreaming",width="38%",align="center"]
+image::../images/5-dreaming.jpg[alt="Dreaming",width="38%",pdfwidth="38%",align="center"]
 
 Now consider the next step, waking up from the normal awake consciousness. What would it be like to wake up from this consensus reality, wake up from this ego-based level of consciousness? In fact, throughout recorded history everywhere in the world there have been people awakening. To these awakened beings, normal conscious reality is like a dream. It seems very real to most people, but once you awaken it is seen for what it is: the mental activity of a particular state of consciousness, a subset of a broader reality.
 
@@ -232,129 +232,3 @@ Retreats
 ~~~~~~~~
 This is some text about retreats.
 
-
-The First Chapter
------------------
-Chapters can contain sub-sections nested up to three deep.
-footnote:[An example footnote.]
-indexterm:[Example index entry]
-
-Chapters can have their own bibliography, glossary and index.
-
-And now for something completely different: ((monkeys)), lions and
-tigers (Bengal and Siberian) using the alternative syntax index
-entries.
-(((Big cats,Lions)))
-(((Big cats,Tigers,Bengal Tiger)))
-(((Big cats,Tigers,Siberian Tiger)))
-Note that multi-entry terms generate separate index entries.
-
-Here are a couple of image examples: an image:images/smallnew.png[]
-example inline image followed by an example block image:
-
-.Tiger block image
-image::images/tiger.png[Tiger image]
-
-Followed by an example table:
-
-.An example table
-[width="60%",options="header"]
-|==============================================
-| Option          | Description
-| -a 'USER GROUP' | Add 'USER' to 'GROUP'.
-| -R 'GROUP'      | Disables access to 'GROUP'.
-|==============================================
-
-.An example example
-===============================================
-Lorum ipum...
-===============================================
-
-[[X1]]
-Sub-section with Anchor
-~~~~~~~~~~~~~~~~~~~~~~~
-Sub-section at level 2.
-
-Chapter Sub-section
-^^^^^^^^^^^^^^^^^^^
-Sub-section at level 3.
-
-Chapter Sub-section
-+++++++++++++++++++
-Sub-section at level 4.
-
-This is the maximum sub-section depth supported by the distributed
-AsciiDoc configuration.
-footnote:[A second example footnote.]
-
-
-The Second Chapter
-------------------
-An example link to anchor at start of the <<X1,first sub-section>>.
-indexterm:[Second example index entry]
-
-An example link to a bibliography entry <<taoup>>.
-
-
-The Third Chapter
------------------
-Book chapters are at level 1 and can contain sub-sections.
-
-
-:numbered!:
-
-[appendix]
-Example Appendix
-----------------
-One or more optional appendixes go here at section level 1.
-
-Appendix Sub-section
-~~~~~~~~~~~~~~~~~~~
-Sub-section body.
-
-
-[bibliography]
-Example Bibliography
---------------------
-The bibliography list is a style of AsciiDoc bulleted list.
-
-[bibliography]
-.Books
-- [[[taoup]]] Eric Steven Raymond. 'The Art of Unix
-  Programming'. Addison-Wesley. ISBN 0-13-142901-9.
-- [[[walsh-muellner]]] Norman Walsh & Leonard Muellner.
-  'DocBook - The Definitive Guide'. O'Reilly & Associates. 1999.
-  ISBN 1-56592-580-7.
-
-[bibliography]
-.Articles
-- [[[abc2003]]] Gall Anonim. 'An article', Whatever. 2003.
-
-
-[glossary]
-Example Glossary
-----------------
-Glossaries are optional. Glossaries entries are an example of a style
-of AsciiDoc labeled lists.
-
-[glossary]
-A glossary term::
-  The corresponding (indented) definition.
-
-A second glossary term::
-  The corresponding (indented) definition.
-
-
-[colophon]
-Example Colophon
-----------------
-Text at the end of a book describing facts about its production.
-
-
-[index]
-Example Index
--------------
-////////////////////////////////////////////////////////////////
-The index is normally left completely empty, it's contents being
-generated automatically by the DocBook toolchain.
-////////////////////////////////////////////////////////////////
