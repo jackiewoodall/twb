@@ -18,4 +18,4 @@ to pdf, epub, mobi: http://kaczanowscy.pl/tomek/2013-07/from-asciidoc-docbook-to
 
 Longterm
 ========
-o conversion to asciidoctor for better formatting: https://asciidoctor.org/
+x conversion to asciidoctor for better formatting: https://asciidoctor.org/
