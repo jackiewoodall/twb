@@ -2,6 +2,8 @@ INPUT_ADOC=book.txt
 
 html: book.html
 
+all: html5 pdf docx
+
 clean:
 	rm -f book.html
 	rm -f book.docx
