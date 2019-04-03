@@ -5,6 +5,7 @@ html: book.html
 clean:
 	rm -f book.html
 	rm -f book.docx
+	rm -f book.pdf
 
 book.html: book.txt ../images/*
 	asciidoctor -a toc -d book $(INPUT_ADOC)
@@ -17,3 +18,6 @@ html5: book.txt ../images/*
 
 docx: book.txt ../images/*
 	asciidoctor --backend docbook -a toc --out-file - $(INPUT_ADOC)|pandoc --from docbook --to docx --output book.docx
+
+pdf: book.txt ../images/*
+	asciidoctor-pdf -a toc $(INPUT_ADOC)
