@@ -14,6 +14,7 @@ asiidoc references:
 ===================
 syntax: https://powerman.name/doc/asciidoc
 user's guide: http://asciidoc.org/userguide.html#_docbook
+to pdf, epub, mobi: http://kaczanowscy.pl/tomek/2013-07/from-asciidoc-docbook-to-pdf-epub-mobi-part-iii
 
 Longterm
 ========
