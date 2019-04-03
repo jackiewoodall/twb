@@ -1,7 +1,7 @@
 The Way Beyond: An Overview of Spiritual Practices
 ==================================================
 William L. Mikulas
-April 2019
+1987
 :doctype: book
 
 
@@ -12,15 +12,6 @@ For Benita
 
 
 [preface]
-Example Preface
----------------
-Optional preface.
-
-Preface Sub-section
-~~~~~~~~~~~~~~~~~~~
-Preface sub-section body.
-
-
 Overview
 --------
 This book is a guide to help you plan the most significant journey you can take. The purpose is to provide you with a practical overview and handbook of fundamental transpersonal and spiritual practices that have been developed throughout the world. When you have such a broad overview, you can more effectively choose those practices and teachings which are best suited for your current position and goals. There is a multitude of good books that provide detailed discussions of various transpersonal theories and practices. This book is more general and provides an integration of the basic practices used in these various approaches.
@@ -35,17 +26,211 @@ The benefits of the practices are many and include the following: clearing of pe
 
 In this book I describe the fundamental essence of the practices and how they relate to each other. When this is understood you can more intelligently pursue other sources (books, teachers, training programs, etc.) for more detail and elaboration of the practices.
 
+image::../images/1-overview.jpg[alt="Overview",width="38%",align="center"]
+
 Transpersonal/spiritual practices are potentially very powerful. This should not be underestimated. They can literally transform your being. Therefore, I must include the following warning: if any such practices cause unpleasant psychological disturbances, then stop the practices and consult a counselor or guide who is experienced in that area. Occasionally, a person’s ego may be overwhelmed by the thoughts and images that arise during meditation. Or you may be upset by the boredom and frustration that may occur during part of the journey. And in yoga, some practices may produce a variety of sensations that could be upsetting to someone who does not understand them.
 
-Finally, it would be useful here to make two distinctions: between “form” and “essence,” and between “religious” and “spiritual.” In this book essence refers to the fundamental nature of a practice or act, while form refers to the particular manifestation or example of the essence. Thus, when I discuss the essence of concentration, I am referring to a fundamental property of the mind (how focused or one-pointed it is) independent of the form the concentration takes (what the mind is focused on’ and related experiences). Thus, the practice of developing the essence of concentration is universal, even though the form of the practice may vary considerably. Thus, the form might involve sitting meditation or listening exercises, while the essence of what is being developed is the same. This book deals with the essence of basic personal and transpersonal practices, with various forms used as examples.
+Finally, it would be useful here to make two distinctions: between “form” and “essence,” and between “religious” and “spiritual.” In this book essence refers to the fundamental nature of a practice or act, while form refers to the particular manifestation or example of the essence. Thus, when I discuss the essence of concentration, I am referring to a fundamental property of the mind (how focused or one-pointed it is) independent of the form the concentration takes (what the mind is focused on and related experiences). Thus, the practice of developing the essence of concentration is universal, even though the form of the practice may vary considerably. Thus, the form might involve sitting meditation or listening exercises, while the essence of what is being developed is the same. This book deals with the essence of basic personal and transpersonal practices, with various forms used as examples.
 
 Confusing form with essence is a common trap for people on the journey. For example, an American who wishes to pursue a Hindu or Buddhist path may get lost in the form of the practice (concepts, culture, dress, vocabulary, etc.) and miss the essence of the practice which is universally independent of form. Now it may be practical and/or desirable to choose a particular form, but the form is only useful to the extent it facilitates developing or manifesting the essence.
 
 People have described transpersonal experiences and insights within the forms of science, philosophy, religion, poetry, paintings, music, and teaching stories. But there is a universal essence to what is being described, some of which is called the Perennial Philosophy (see appendices), regardless of the various forms.
 
-Similarly with the distinction between spiritual and religious: I use the term “spiritual” to refer to those practices, insights, states of being, and frames of reference related to that which is super- ordinate to, prior to, and inclusive of the individual. The essence of the spiritual is often found within the form of religion. By “religious,” I refer to those beliefs, rituals, and social customs which are the result of spiritual, political, and cultural forces. Thus, this is a spiritual book, not a religious book. It deals with spiritual practices, not religious beliefs. However, many of the spiritual practices will be described in forms drawn from the world religions. From a spiritual point of view the beliefs and devotional practices of a particular religion are helpful to the extent that they lead in a transpersonal direction, and harmful to the extent that they bind people to the form or politics. Even those religions which argue that there is nothing to do and/or that faith is sufficient advocate certain ways of being which are facilitated by the spiritual practices.
+Similarly with the distinction between spiritual and religious: I use the term “spiritual” to refer to those practices, insights, states of being, and frames of reference related to that which is super-ordinate to, prior to, and inclusive of the individual. The essence of the spiritual is often found within the form of religion. By “religious,” I refer to those beliefs, rituals, and social customs which are the result of spiritual, political, and cultural forces. Thus, this is a spiritual book, not a religious book. It deals with spiritual practices, not religious beliefs. However, many of the spiritual practices will be described in forms drawn from the world religions. From a spiritual point of view the beliefs and devotional practices of a particular religion are helpful to the extent that they lead in a transpersonal direction, and harmful to the extent that they bind people to the form or politics. Even those religions which argue that there is nothing to do and/or that faith is sufficient advocate certain ways of being which are facilitated by the spiritual practices.
 
 The essence of the spiritual and transpersonal practices is very simple and universal. But the depth and breadth hidden in this simplicity is continually uncovered as one continues the journey.
+
+
+Perspectives
+------------
+
+The Self
+~~~~~~~~
+Since the journey leads beyond the self and is based on getting free from a self-defined reality, it is important to understand what the self is and how it came to be.
+
+A newborn baby must learn to perceive the world. Although entering the world with the ability to sense many things, such as basic sounds and smells, the child must learn how to perceive. For example, in the case of vision, the child must learn how to move and focus the eyes, pick out particular forms, see shapes within shapes, and store some of this information in memory for future comparison.
+
+The culture influences this learning by affecting what the child is exposed to and what the child is rewarded for perceiving. The culture also teaches the child a language with which to label and categorize perceptions. Eventually, the child’s perception and thinking are strongly influenced by language.
+
+The child’s consciousness at first is quite undifferentiated. Sensations rise and fall, but there is little of the discriminating, categorizing, judging, and accepting and rejecting that is common to the adult mind; similarly, at first there is little sense of a personal self, a division of experiences into me and not-me. The child is said to be in a prepersonal stage, a stage of development before a sense of a personal, individualized self.
+
+Then the child gradually develops a sense of self. At first this is influenced by the discovery of the body as something that can be controlled to some degree and as different from things outside the body. So the early sense of self is to some extent identified with the body.
+
+Associated with the sense of self is a sense of will, the action or influence of the self. As the self develops and changes, so does the will. American mothers often talk about the “terrible twos,” referring to the fact that children around two years of age often practice exerting their developing self and will. This may take the form of being willful, controlling, or opinionated.
+
+As a sense of self or “me” develops, so does a sense of “mine.” Not only does the child have a sense of an individualized self, but this self also possesses things in the world.
+
+As this is happening, the child moves from the prepersonal stage to the personal stage, the stage of development centering around the self and will. This is the “fall from Eden,” the gradual “getting lost” in an ego-based reality.
+
+Now a person’s sense of self continually changes. As we get older and watch our body change, we identify less with the body. Rather, the body is perceived as being part of the self, or as something the self inhabits or controls.
+
+Our sense of self may become more identified with the mind and/or social roles. A child asked to answer the question “Who am I?” may answer in terms of body and name, while an older person may answer in terms of social roles, such as vocation and family position. By now the person is probably strongly identified with some sense of self which is the thinker of thoughts, perceiver of perceptions, doer of actions, and consistent subject of many memories.
+
+image::../images/2-the-self.jpg[alt="The Self",width="38%",align="center"]
+
+Thus, many people identify with the activity of their minds: “I am the thinker of these thoughts.” Others develop a sense of inner self in which the self is more of an observer: “I am the observer of the mind having thoughts. I am not the thinker of the thoughts, I am the observer of the thinker.”
+
+Regardless of these distinctions, most adults have a sense of a separate self that exists in some relation to their bodies. Most people I have polled feel that “they” are inside their heads. Some feel they are inside their hearts, diffused through the whole body, or just above or behind the head.
+
+Two important psychological phenomena commonly occur during the personal stage of development. One is that the person acquires a variety of thoughts, feelings, and attitudes toward the self, many of which are often negative in tone. Secondly, the person’s self may fractionate into several different selves and/or aspects of the self.
+
+During development, our sense of self is continually being conditioned by parents, peers, television, and so forth. We come to believe we are smart or stupid, attractive or plain, worthy or unworthy, and so on. Thus, a person develops a self-concept and self-esteem. Now, surprisingly, our self-concept often is not very accurate. For example, a person who is generally perceived by others as clever and charming may perceive himself as being slow and dull. Many of the humanistic therapies focus on our unrealistic and/or overly negative associations to our self.
+
+Many people are more tolerant and accepting of friends than of themselves. Thus, a recurrent theme in this book will be to “make friends with yourself.” This involves clearly seeing your strengths and weaknesses and unconditionally accepting them all, as you hopefully would with a good friend, while also recognizing ways to improve and trying to do so.
+
+When a person dislikes some aspect of the perceived self, the self may be broken into parts and some parts pushed out of consciousness. Thus, the self becomes fragmented.
+
+Similarly, a person may develop different selves for different situations, such as a parent self, an employee self, and a party self. Problems arise when we have trouble integrating these different selves into one self. For example, a person may have trouble combining the tough, hard-headed business person with the warm, compassionate lover and parent, although these are not necessarily incompatible. Some Western therapies, such as Gestalt therapy and Psychosynthesis, and some tantric and Tibetan Buddhist practices are designed to synthesize and integrate the various aspects of the different selves.
+
+What I have described can be seen in the following common example: Parents want their child to be in some way different from the way he or she is. A part of the child’s mind assumes the parents’ position and then negatively evaluates other aspects of self. The child’s self is then split, and suffering results.
+
+An important point to keep in mind is that, as a general rule, before we can adequately move into the next stage of development, we must resolve many of the issues of the personal stage. We need to Uncover and synthesize different aspects of the self, and to make friends with ourselves.
+
+The next stage of development after the personal stage is the transpersonal stage. Here the person gets beyond the limitations and problems which result from identifying with a particular, restricted, individualized sense of self. It is not that the self ceases to exist or loses its functions; rather one transcends the identification with the self. This transcendence opens the person to greater clarity, freedom, and peace of mind. The fundamental essence of the self sits at the border between the personal and transpersonal. When one sees through the self, one sees into the transpersonal.
+
+Ramana Maharshi, a respected Indian yogi, suggested the inquiry “Who am I?” as a major practice for moving from the personal to the transpersonal. The practice involves continually tuning the consciousness toward the subjective experience of the self. Who is reading these words? What is your direct, first-hand experience of this self who is reading? Who is the observer of the self? This is a powerful practice that leads to ever subtler levels of the apparent self.
+
+Similarly, Buddhist vipassana meditation practices lead to a direct experience and insight into the nature of the self. When the mind is sufficiently calm and aware, it is turned on the experience of self. What is found is that there is no constant, unchanging entity of self; rather there is a dynamic set of processes of grasping and contraction. Seeing through this is liberating.
+
+But all of this is getting too far ahead. This book surveys those practices which help to resolve issues at the personal stage and lead to the transpersonal. You can see the exact nature of the self and the transpersonal for “yourself” later in the journey.
+
+
+Levels of Being
+~~~~~~~~~~~~~~~
+There are four levels of being human: the biological, the behavioral, the personal, and the transpersonal. These four levels are totally interrelated and exist in practically everyone, whether we are aware of them or not.
+
+The biological level, the level of the body including the brain, is the exquisite product of dynamic forces that can be viewed evolutionarily and/or teleologically. Its form and nature are the result of the interplay of genetic, environmental, and learning factors. It strongly influences the other three levels and depends on them for most effective functioning.
+
+The biological level is the species level, what it means to be homo sapiens. This includes what we as a species are capable of sensing; our limitations are in what we are capable of seeing, hearing, smelling, tasting, and feeling. For example, the visual spectrum is a very small part of the electromagnetic spectrum. Yet we readily develop a sense of “reality” based on what is perceived through these small windows.
+
+The major characteristic of the human species is that it was biologically selected for its capability to learn, with predispositions for certain types of learning, such as for language. Through learning, humans can adapt to various situations without requiring biological changes in the species. Through learning, humans can communicate, store, and transmit knowledge and, thereby, develop cultures.
+
+The biological level is the level of many individual differences including physical characteristics, reactivity of the nervous system, chemical balances in the brain, and variability of blood sugar level. These and a host of other biological factors can influence emotions, thinking ability, sense of well-being, and ability to maximize processes of the other three levels.
+
+Good breathing, exercise, and nutrition are stressed by many spiritual disciplines. This includes learning deep breathing and the influence of breathing on biological, psychological, and spiritual states. This has been particularly well developed in the yoga of India and the Taoism of China. Exercise strengthens the cardiovascular system and improves flexibility and muscle tone. Appropriate exercise also improves mood, promoting peacefulness of mind. Good nutrition involves establishing a healthy diet and learning how different foods influence energy, mood, and psycho-spiritual state. There are great individual differences here. Ayurvedic nutrition in yoga has much to contribute.
+
+The second level of being human is the behavioral level, which deals with the output of the biological level. What do the body and brain do? Behaviors include moving, talking, emoting, and thinking. Thus the behavioral level includes how we act, feel, and think. Specific behaviors are a function of biological factors interacting with learning and motivation. Behavior modification is an effective current Western therapy for dealing with behaviors, and changes at the behavioral level often produce changes at the biological level.
+
+The third level, the personal, is the level of subjective consciousness, which includes the subjective experience of the first two levels. Somehow related to the behaving body/mind is a sense of conscious awareness. It is the level of mind and perception, as opposed to brain and sensation. I am aware of the thinking and imaging of my mind, however it may be related to the physical brain. I am aware of my perceptions of seeing, however they may be related to visual sensations affecting the eye and brain. The limitations of the biological level and the dynamics of the behavioral level greatly influence what gets into consciousness at the personal level.
+
+Here also is the seat of the personal self discussed in the last chapter. For not only is there consciousness, but the consciousness is often from the vantage point of an individualized self and related will. And this self-based consciousness can also be aware of itself to some extent. I can examine my sense of self. So we say there is self consciousness.
+
+Being the seat of the self, the personal level is also the domain of self-concept, self-esteem, self-determination self-control, self-efficacy, and so forth.
+
+Although such self-based experiences can sometimes be changed by interventions aimed at the personal level, they are often most effectively changed via changes at the biological and behavioral level. Thus, a person with a poor self-concept may not be best helped by confronting the self-concept. Rather, it may be better to help the person learn new social and vocational skills, learn better control of thoughts, and overcome specific behavioral problems. This will lead to more effective and happy living, which will usually improve the self-concept. Thus all the great spiritual traditions recognize the importance of ordering one’s life on moral and practical guidelines and cleaning up one’s life at the biological and behavioral levels to facilitate changes at the personal and transpersonal levels.
+
+Conversely, changes at the personal level, such as improving attitudes toward the self or synthesizing disparate aspects of the self, often produce changes at the behavioral and biological levels. Resolving personal level issues increases awareness of body and behavior, reduces stress, and breaks down some of the apparent barriers between levels. And changes at the personal level are often necessary or useful before one can most effectively work at the transpersonal level.
+
+At the boundary of the personal level and the transpersonal level is the very essence of the self. Existentialists often confront the self and related will around issues concerning individual existence. Topics of importance to many existentialists include personal autonomy, authenticity, self-actualization, mortality, aloneness, meaning, responsibility, and freedom. Imbedded here are many potential sources of anxiety, such as that related to boundaries of being, feelings of isolation, threat of death, sense of fundamental impotence, and perceived absurdity. These existential anxieties are often not resolvable at the personal level, but are transcended in the transpersonal level.
+
+The fourth level, the transpersonal, is beyond and “prior to” the personal level. It is the field of forces in which the apparent self emerges and changes. It is consciousness per se, rather than the contents of consciousness of the personal level. It is pure existence prior to the form of existence. It is a state-of-being of fundamental peace and equanimity, as opposed to the pleasure and pain of the other levels. It is the ground in which one’s vantage point is no longer identified with the individualized self of the personal level.
+
+Although everyone exists at the transpersonal level, most people most of the time are constricted in their awareness to the personal level. It is usually only in special circumstances, such as the birth of a child or a religious experience, that one consciously touches the transpersonal. But this level is always there. Thus, it is not something to be acquired or achieved, only realized. It is not something that the self can experience or possess since it is beyond the self. Developmentally, most people move from the prepersonal stage to the personal stage, and they basically get stuck there, unaware of the transpersonal level of their being. Continued development into the transpersonal stage involves the freeing realization of the transpersonal level, which was always present.
+
+It is difficult to describe the transpersonal in terms of traditional conceptual knowledge, for the transpersonal level is based on insights and knowledge that is of a type different from conceptual knowledge. Transpersonal knowledge is usually validated in a way that seems immediately obvious, like the “ah-ha” experience. This book provides various conceptualizations of the transpersonal. Yet the transpersonal is not adequately approached or understood conceptually, so the concepts are useful only to the extent that they lead beyond themselves to other types of knowing. There is no particular idea, concept, theory, or belief that I am arguing for. You as a reader will agree or disagree with different statements, choosing what is useful to you. Find and develop those ideas and related practices which speak to you. But be careful that clinging to particular ideas or beliefs doesn’t impair your progress into broader domains of knowing and being.
+
+The Game of Life
+~~~~~~~~~~~~~~~~
+Consider popular games like Monopoly, backgammon, and bridge. How well one does in these games is a combination of skill and luck. For many of us the amount of fun we have playing such games depends on whether we win or not. If we are winning, we enjoy the game much more than if we are losing. And some people gloat when they win and complain when they lose.
+
+There is another less common type of game player. For this player, whom I call a meta-player, the fun is in the playing of the game, not in winning or losing. The meta-player tries to win, since that is the objective of the game, but the fun is in playing the game, win or lose. Thus the meta-player always has a good time, while the happiness of the average player cycles up and down.
+
+Next, consider the game of life, the adventure-drama of daily living. Everyone has ideas about what constitutes winning here. Winning might be measured in terms of money, prestige, friends, health, pleasure, or spiritual progress. Most people sometimes win in the game of life and sometimes lose. Like most games, the game of life has components of both skill and luck. Some things you can control and master; some things you can’t.
+
+For everyone who plays the game of life it is important to learn to play the game well, to play skillfully, with clarity, precision, and compassion. We need to acquire the knowledge and skills to maximize winning and to increase the role of skill over luck. Unfortunately, for the average player happiness depends on the amount of winning, but for the meta-player happiness is based on simply playing the game. The meta-player considers the game very important and does his best to win. But the meta-player enjoys and appreciates just the opportunity to play.
+
+The game of life is filled with pleasure and pain, and a common objective of the game is to maximize pleasure and minimize pain. All this is fine at the level of the game. But the common trap is to allow our happiness to be dependent on the amount of pleasure in the game. Happiness is better based on how you play the game, rather than the outcome of the game. This is the “secret” of the meta-player. As one learns this, one gradually gets free from the game, which is the key to the transpersonal. So there is pleasure and pain at the level of the game, and happiness at the level of how you play the game. Beyond this, one finds a peace of mind which is totally independent of the game.
+
+Similarly, the game of life is filled with potential sources of stress that can impair the body and mind. The average player experiences considerable stress in the game, while the meta-player experiences much less stress and can often transform potential sources of stress into sources of energy.
+
+In the first chapter, I made a distinction between “religious” and “spiritual.” In terms of the analogy of this chapter, we can say that religion is at the level of the game, while spirituality is involved with getting free from the game.
+
+image::../images/4-the-game-of-life.jpg[alt="The Game of Life",width="38%",align="center"]
+
+In many games it is possible occasionally to call a time-out and step out of the game for a while. This gives you a chance to catch your breath, see the game more objectively, and re-evaluate your game strategy. Unfortunately, few players ever take time-out from the game of life; they just keep playing. They may change aspects of the game, such as the setting, but they are always in the game. In this book you will learn how meditation is a way to call time-out in the game of life. And the chapter on retreats discusses additional ways.
+
+Another type of game on the market today is the role-playing and/or fantasy game, such as “Dungeons and Dragons.” In these games the player may assume a role, such as that of wizard, pirate, mafia boss, or extra-terrestrial. Thus, a player may be a pirate while in the game, but step out of this role during time-outs and when the game is over. Occasionally problems arise when a player has trouble totally getting out of the role he assumed for the game.
+
+The game of life is a role-playing game in which you have been taught a specific role by parents, friends, teachers, and your culture. As in all role-playing games, it is important to really get into this role and have fun playing it as best you can. The problem with the game of life is that people get so caught up in their roles that they begin to believe and defend them. They get lost in the melodrama and start believing that the game is basic reality. The meta-player sees through this, recognizes the restricted “reality” of the game, and does not identify the “self” with the role. When a person sees through or wakes up from the role-playing game of life, he realizes that whoever he is it isn’t the role. He becomes less vulnerable for he can’t be hurt in many of the ways the character in the game can be hurt. He realizes that a person is not his behavior. Our essence is different from our actions. We can learn the importance of loving ourselves and others unconditionally, regardless of how we or others behave in the game. We may like and dislike some of our own and others’ behaviors and may try to change some of them. That is fine at the level of the game, but beyond this is the unconditional acceptance and love of all players, many of whom are lost in the game.
+
+For practical reasons, most people must continue to play their roles in the game, although they can significantly alter the roles. The trick is to be able to continually play the game but not be lost in it. This is the great spiritual teaching that one should be “in the world but not of it,” emphasized by the Christ, the Buddha, the Sufis, and others.
+
+Dreaming
+~~~~~~~~
+When you are asleep and dreaming, the dream can seem very real; you are living in a different reality, a different state of consciousness. The rules of reality in the dream are different from the rules of the normal non-sleep consensus reality. In the dream, people may pop in and out of existence or change into other people or other beings. In the dream, you may be able to do miraculous things or be many different people. The sense of self can be very different from the sense of self in the normal non-sleep conscious state.
+
+Sometimes you might “wake up” in the dream; that is, you might still be dreaming but be aware that you are dreaming and that the dream is not “real.” This is called “lucid” dreaming. People can learn how to wake up more often in dreams and thus profit more from the dream state. They can then alter the dreams in various ways. Similarly, a hypnogogic state of consciousness may occur as a person starts to fall asleep; this is the drowsy place between awake and asleep. Here a person may have an awake type of conscious awareness of dream-like mental activity beginning to occur.
+
+So people can be awake in varying degrees during sleeping dreams. But for most people most of the time, when they are dreaming they are lost in the apparent reality of the dream. When they wake up, they see the dream for what it is: the mental activity of a particular state of consciousness, a subset of a broader reality.
+
+image::../images/5-dreaming.jpg[alt="Dreaming",width="38%",align="center"]
+
+Now consider the next step, waking up from the normal awake consciousness. What would it be like to wake up from this consensus reality, wake up from this ego-based level of consciousness? In fact, throughout recorded history everywhere in the world there have been people awakening. To these awakened beings, normal conscious reality is like a dream. It seems very real to most people, but once you awaken it is seen for what it is: the mental activity of a particular state of consciousness, a subset of a broader reality.
+
+Some people who are lost in the waking-dream of normal consciousness may occasionally be aware they are dreaming. Some dreamers may even learn ways to wake up in the dream. But for the person who has awakened from the dream, it is clear that all one has to do is wake up. Much of what one does in the dream itself is related only to the melodrama of the dream, not to waking up from the dream.
+
+This leads to a fundamental spiritual truth: there is nothing you must do in order to awaken, just wake up. Activities within the dream are still within the dream; it is a matter of waking from the dream. The self can improve itself and collect experiences and ideas; but this does not necessarily ever lead beyond the self. Zen is founded on this spiritual truth. Zen teachers and practices are continually confounding the student’s attempt to achieve something within the dream. Rather, Zen continually exposes the student to the awakened perspective, which is everyone’s fundamental ground.
+
+Now simply being told to wake up is not very helpful. What is the dreamer to do? Fortunately, the answer is clear. The dreamer follows those practices which improve life within the dream and set the stage for awakening. This book summarizes such practices.
+
+Thus, the seemingly paradoxical truth is that the dreamer carries out practices within the dream that facilitate awakening from the dream, which in turn leads to the realization that nothing had to occur in the dream in order for one to be awakened.
+
+The awakened state has been described in many terms including enlightenment, satori, cosmic consciousness, Christ consciousness, consciousness-without-an-object, at-one-ment, illumination, and return to the source. Although these terms are not equivalent, the fundamental perspective of awakened beings is universal. It is a conscious perspective which is prior to and inclusive of the normal state of consciousness. All the descriptive analogies for moving into this transpersonal domain are inaccurate in many ways. But the analogy of waking from a dream is quite useful and popular. Other common analogies include levels of consciousness, rebirth, escape from prison or bonds, and mythical quests.
+
+Few people suddenly wake up. For most it is a case of gradually awakening, with slow, uneven “progress.” Sometimes there is a good jump “forward,” sometimes a melodramatic fall “backward.” Sometimes there is continual “progress.” Sometimes frustrating stuckness. Eventually the person may have the feeling of waking up, falling asleep, waking up, etc., with the waking up times gradually becoming more frequent, longer, broader, and subtler.
+
+The key here is not to get caught up in the drama of the “progress” of awakening as perceived by the dreamer. This only reinforces the illusionary search within the dream. Rather, one continues the practices within the dream, learns not to equate objectives of the dream with probability of awakening, and continually reorients toward that which is superordinate to the dream.
+
+
+Basic Practices
+---------------
+
+Meditation
+~~~~~~~~~~
+This is some text about meditation.
+
+Concentration
+~~~~~~~~~~~~~
+This is some text about concentration.
+
+Mindfulness
+~~~~~~~~~~~
+This is some text about mindfulness.
+
+Opening the Heart
+~~~~~~~~~~~~~~~~~
+This is some text about opening the heart.
+
+Reducing Attachments
+~~~~~~~~~~~~~~~~~~~~
+This is some text about reducing attachments.
+
+Overall Practice
+----------------
+
+Cleaning House
+~~~~~~~~~~~~~~
+This is some text about cleaning house.
+
+Readiness to Know
+~~~~~~~~~~~~~~~~~
+This is some text about readiness to know.
+
+Finding Your Way
+~~~~~~~~~~~~~~~~
+This is some text about finding your way.
+
+Teachers
+~~~~~~~~
+This is some text about teachers.
+
+Continual Practice
+~~~~~~~~~~~~~~~~~~
+This is some text about continual practice.
+
+Retreats
+~~~~~~~~
+This is some text about retreats.
 
 
 The First Chapter
