@@ -1,5 +1,7 @@
 The Way Beyond
 ==============
-An Overview of Spirtual Practices
----------------------------------
+An Overview of Spiritual Practices
+----------------------------------
 
+Requirements:
+* asciidoctor
