@@ -7,5 +7,4 @@ Requirements:
 * asciidoctor
 
 Pages:
-* http://jackiewoodall.github.io/twb
-
+* https://jackiewoodall.github.io/twb
