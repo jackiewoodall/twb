@@ -10,17 +10,16 @@ clean:
 html: book.html
 
 book.html: book.txt ../images/*
-	asciidoctor -a toc -d book $(INPUT_ADOC)
+	asciidoctor -d book $(INPUT_ADOC)
 
 html5: book.txt ../images/*
-	asciidoctor --backend html5 -a data-uri -a toc book.txt
+	asciidoctor --backend html5 -a data-uri book.txt
 
 pdf: book.txt ../images/*
-	asciidoctor-pdf -a toc $(INPUT_ADOC)
+	asciidoctor-pdf $(INPUT_ADOC)
 
 docx: book.txt ../images/*
-	asciidoctor --backend docbook -a toc --out-file - $(INPUT_ADOC)|pandoc --from docbook --to docx --output book.docx
+	asciidoctor --backend docbook --out-file - $(INPUT_ADOC)|pandoc --from docbook --to docx --output book.docx
 
 txt: book.html
 	html2text -nobs -style pretty book.html > book_out.txt
-
