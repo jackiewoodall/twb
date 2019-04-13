@@ -1,7 +1,8 @@
 ToDo
 ====
-o part 2
-o part 3
+x part 2
+x part 3
+o proof part 3
 
 x run asciidoc tutorials
 x learn syntax basics
@@ -12,8 +13,9 @@ x toolchain to create html, pdf, epub
 o toolchain to create mobi
 o book cover (frontmatter?)
 o license and permission
-o reduce image size by converting to grayscale
+x reduce image size by converting to grayscale
     convert source.jpg -colorspace Gray destination.jpg (true grayscale only)
+o moves output files to project root
     
 asiidoc references:
 ===================
