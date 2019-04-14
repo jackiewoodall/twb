@@ -1,6 +1,6 @@
 INPUT_ADOC=book.txt
 
-all: html5 pdf docx
+all: html5 pdf docx md
 
 clean:
 	rm -f book.html
@@ -8,19 +8,17 @@ clean:
 	rm -f book.pdf
 	rm -f book.md
 
-html: book.html
-
-book.html: book.txt ../images/*
+html: $(INPUT_ADOC) ../images/*
 	asciidoctor -d book $(INPUT_ADOC)
 
-html5: book.txt ../images/*
-	asciidoctor -b html5 -d book -a data-uri book.txt
+html5: $(INPUT_ADOC) ../images/*
+	asciidoctor -b html5 -d book -a data-uri $(INPUT_ADOC)
 
-pdf: book.txt ../images/*
+pdf: $(INPUT_ADOC) ../images/*
 	asciidoctor-pdf $(INPUT_ADOC)
 
-docx: book.txt ../images/*
-	asciidoctor -b docbook -d book --out-file - $(INPUT_ADOC) | pandoc --from docbook --to docx --output book.docx
+docx: $(INPUT_ADOC) ../images/*
+	asciidoctor -b docbook -d book --out-file - $(INPUT_ADOC) | pandoc --from docbook --to docx --toc --toc-depth=2 --output book.docx
 
 md: book.txt ../images/*
 	asciidoctor -b html --out-file - $(INPUT_ADOC) | pandoc -f html -t markdown_strict -o book.md
