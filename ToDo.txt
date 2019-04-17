@@ -1,26 +1,24 @@
 ToDo
 ====
-o part 2
-o part 3
+x part 2
+x part 3
+o proof part 3
 
 x run asciidoc tutorials
 x learn syntax basics
 x inline images
 x export to microsoft word upload to google docs for comments
-o README.md
+x README.md
 x toolchain to create html, pdf, epub
 o toolchain to create mobi
 o book cover (frontmatter?)
 o license and permission
-o reduce image size by converting to grayscale
+x reduce image size by converting to grayscale
     convert source.jpg -colorspace Gray destination.jpg (true grayscale only)
-    
+o moves output files to project root
+
 asiidoc references:
 ===================
 syntax: https://powerman.name/doc/asciidoc
 user's guide: http://asciidoc.org/userguide.html#_docbook
 to pdf, epub, mobi: http://kaczanowscy.pl/tomek/2013-07/from-asciidoc-docbook-to-pdf-epub-mobi-part-iii
-
-Longterm
-========
-x conversion to asciidoctor for better formatting: https://asciidoctor.org/
