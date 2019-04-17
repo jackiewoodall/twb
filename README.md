@@ -12,4 +12,4 @@ Pages:
 * PDF: https://jackiewoodall.github.io/twb/asciidoc/book.pdf
 * DOCX: https://jackiewoodall.github.io/twb/asciidoc/book.docx
 * TXT: https://jackiewoodall.github.io/twb/asciidoc/book_text.txt
-* MD: https://github.com/jackiewoodall/twb/blob/master/asciidoc/book.md
+* MD: https://github.com/jackiewoodall/twb/blob/gh-pages/asciidoc/book.md
