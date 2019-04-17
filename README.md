@@ -11,5 +11,5 @@ Pages:
 * HTML: https://jackiewoodall.github.io/twb/asciidoc/book.html
 * PDF: https://jackiewoodall.github.io/twb/asciidoc/book.pdf
 * DOCX: https://jackiewoodall.github.io/twb/asciidoc/book.docx
-* MD: https://jackiewoodall.github.io/twb/asciidoc/book.md
-
+* TXT: https://jackiewoodall.github.io/twb/asciidoc/book_text.txt
+* MD: https://github.com/jackiewoodall/twb/asciidoc/book.md

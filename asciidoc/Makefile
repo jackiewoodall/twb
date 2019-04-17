@@ -1,12 +1,13 @@
 INPUT_ADOC=book.txt
 
-all: html5 pdf docx md
+all: html5 pdf docx md txt
 
 clean:
 	rm -f book.html
 	rm -f book.docx
 	rm -f book.pdf
 	rm -f book.md
+	rm -f book_text.txt
 
 html: $(INPUT_ADOC) ../images/*
 	asciidoctor -d book $(INPUT_ADOC)
@@ -24,4 +25,4 @@ md: book.txt ../images/*
 	asciidoctor -b html --out-file - $(INPUT_ADOC) | pandoc -f html -t markdown_strict -o book.md
 
 txt: book.html
-	html2text -nobs -style pretty book.html > book_out.txt
+	html2text -nobs -style pretty book.html > book_text.txt
