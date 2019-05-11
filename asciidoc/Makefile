@@ -1,28 +1,30 @@
 INPUT_ADOC=book.txt
+OUTNAME=the_way_beyond
+OUTDIR=../
 
 all: html5 pdf docx md txt
 
 clean:
-	rm -f book.html
-	rm -f book.docx
-	rm -f book.pdf
-	rm -f book.md
-	rm -f book_text.txt
+	rm -f $(OUTDIR)/$(OUTNAME).html
+	rm -f $(OUTDIR)/$(OUTNAME).pdf
+	rm -f $(OUTDIR)/$(OUTNAME).docx
+	rm -f $(OUTDIR)/$(OUTNAME).md
+	rm -f $(OUTDIR)/$(OUTNAME).txt
 
 html: $(INPUT_ADOC) ../images/*
-	asciidoctor -d book $(INPUT_ADOC)
+	asciidoctor -d book $(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).html
 
 html5: $(INPUT_ADOC) ../images/*
-	asciidoctor -b html5 -d book -a data-uri $(INPUT_ADOC)
+	asciidoctor -b html5 -d book -a data-uri $(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).html
 
 pdf: $(INPUT_ADOC) ../images/*
-	asciidoctor-pdf $(INPUT_ADOC)
+	asciidoctor-pdf $(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).pdf
 
 docx: $(INPUT_ADOC) ../images/*
-	asciidoctor -b docbook -d book --out-file - $(INPUT_ADOC) | pandoc --from docbook --to docx --toc --toc-depth=2 --output book.docx
+	asciidoctor -b docbook -d book --out-file - $(INPUT_ADOC) | pandoc --from docbook --to docx --toc --toc-depth=2 --output $(OUTDIR)/$(OUTNAME).docx
 
 md: book.txt ../images/*
-	asciidoctor -b html --out-file - $(INPUT_ADOC) | pandoc -f html -t markdown_strict -o book.md
+	asciidoctor -b html --out-file - $(INPUT_ADOC) | pandoc -f html -t markdown_strict -o $(OUTDIR)/$(OUTNAME).md
 
-txt: book.html
-	html2text -nobs -style pretty book.html > book_text.txt
+txt: $(OUTDIR)/$(OUTNAME).html
+	html2text -nobs -style pretty $(OUTDIR)/$(OUTNAME).html > $(OUTDIR)/$(OUTNAME).txt

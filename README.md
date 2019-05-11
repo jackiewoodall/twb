@@ -8,8 +8,8 @@ Requirements:
 
 Pages:
 * https://jackiewoodall.github.io/twb
-* HTML: https://jackiewoodall.github.io/twb/asciidoc/book.html
-* PDF: https://jackiewoodall.github.io/twb/asciidoc/book.pdf
-* DOCX: https://jackiewoodall.github.io/twb/asciidoc/book.docx
-* TXT: https://jackiewoodall.github.io/twb/asciidoc/book_text.txt
-* MD: https://github.com/jackiewoodall/twb/blob/gh-pages/asciidoc/book.md
+* HTML: https://jackiewoodall.github.io/twb/the_way_beyond.html
+* PDF: https://jackiewoodall.github.io/twb/the_way_beyond.pdf
+* DOCX: https://jackiewoodall.github.io/twb/the_way_beyond.docx
+* TXT: https://jackiewoodall.github.io/twb/the_way_beyond.txt
+* MD: https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md
