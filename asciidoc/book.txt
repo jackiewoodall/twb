@@ -27,7 +27,7 @@ The benefits of the practices are many and include the following: clearing of pe
 
 In this book I describe the fundamental essence of the practices and how they relate to each other. When this is understood you can more intelligently pursue other sources (books, teachers, training programs, etc.) for more detail and elaboration of the practices.
 
-image::../images/1-overview.jpg[alt="Overview",width="40%",pdfwidth="40%",align="center"]
+image::./images/1-overview.jpg[alt="Overview",width="40%",pdfwidth="40%",align="center"]
 
 Transpersonal/spiritual practices are potentially very powerful. This should not be underestimated. They can literally transform your being. Therefore, I must include the following warning: if any such practices cause unpleasant psychological disturbances, then stop the practices and consult a counselor or guide who is experienced in that area. Occasionally, a person’s ego may be overwhelmed by the thoughts and images that arise during meditation. Or you may be upset by the boredom and frustration that may occur during part of the journey. And in yoga, some practices may produce a variety of sensations that could be upsetting to someone who does not understand them.
 
@@ -63,7 +63,7 @@ As a sense of self or “me” develops, so does a sense of “mine.” Not only
 
 As this is happening, the child moves from the prepersonal stage to the personal stage, the stage of development centering around the self and will. This is the “fall from Eden,” the gradual “getting lost” in an ego-based reality.
 
-image::../images/2-the-self.jpg[alt="The Self",width="40%",pdfwidth="40%",align="center"]
+image::./images/2-the-self.jpg[alt="The Self",width="40%",pdfwidth="40%",align="center"]
 
 Now a person’s sense of self continually changes. As we get older and watch our body change, we identify less with the body. Rather, the body is perceived as being part of the self, or as something the self inhabits or controls.
 
@@ -144,7 +144,7 @@ The game of life is filled with pleasure and pain, and a common objective of the
 
 Similarly, the game of life is filled with potential sources of stress that can impair the body and mind. The average player experiences considerable stress in the game, while the meta-player experiences much less stress and can often transform potential sources of stress into sources of energy.
 
-image::../images/4-the-game-of-life.jpg[alt="The Game of Life",width="60%",pdfwidth="60%",align="center"]
+image::./images/4-the-game-of-life.jpg[alt="The Game of Life",width="60%",pdfwidth="60%",align="center"]
 
 In the first chapter, I made a distinction between “religious” and “spiritual.” In terms of the analogy of this chapter, we can say that religion is at the level of the game, while spirituality is involved with getting free from the game.
 
@@ -164,7 +164,7 @@ Sometimes you might “wake up” in the dream; that is, you might still be drea
 
 So people can be awake in varying degrees during sleeping dreams. But for most people most of the time, when they are dreaming they are lost in the apparent reality of the dream. When they wake up, they see the dream for what it is: the mental activity of a particular state of consciousness, a subset of a broader reality.
 
-image::../images/5-dreaming.jpg[alt="Dreaming",width="60%",pdfwidth="60%",align="center"]
+image::./images/5-dreaming.jpg[alt="Dreaming",width="60%",pdfwidth="60%",align="center"]
 
 Now consider the next step, waking up from the normal awake consciousness. What would it be like to wake up from this consensus reality, wake up from this ego-based level of consciousness? In fact, throughout recorded history everywhere in the world there have been people awakening. To these awakened beings, normal conscious reality is like a dream. It seems very real to most people, but once you awaken it is seen for what it is: the mental activity of a particular state of consciousness, a subset of a broader reality.
 
@@ -192,7 +192,7 @@ The word “meditation” is used to refer to many different things. For some it
 
 In this book meditation is a “time-out” from “the game of life.” It is a time to set the body down and relax the mind. It is an opportunity to work with the processes of the mind and disentangle oneself from the ordinary melodrama.
 
-image::../images/6-meditation.jpg[alt="Meditation",width="40%",pdfwidth="40%",align="center"]
+image::./images/6-meditation.jpg[alt="Meditation",width="40%",pdfwidth="40%",align="center"]
 
 The fundamental meditation practices of all the world’s great meditation traditions can be reduced to two basic components: processes of the mind and objects of attention. All the great traditions emphasize the development of one or both of two fundamental processes of the mind: concentration and mindfulness. These will be discussed in the next two chapters.
 
@@ -289,7 +289,7 @@ These and many other problems are caused by the drunken monkey. The solution is 
 
 Meditation practices to develop concentration are also called tranquility meditations. For as we develop concentration, we also quiet and relax the mind, which to some extent relaxes the body. Developing concentration is a good way to learn to relax, particularly if many of the sources of stress and anxiety are primarily mental.
 
-image::../images/7-concentration.jpg[alt="Concentration",width="60%",pdfwidth="60%",align="center"]
+image::./images/7-concentration.jpg[alt="Concentration",width="60%",pdfwidth="60%",align="center"]
 
 From a transpersonal standpoint, there are even stronger reasons for developing concentration. If we are always lost in monkey business, then all we will ever know are our own thoughts and perceptions. Our reality is defined by the monkey. To wake up from the dream, we need to quiet the mind so we can be open to a broader reality and other types of knowing. The door to the transpersonal is found in the spaces between thoughts. Behind and before all the thoughts and perceptions is a domain of consciousness that is very sane and calm. Don Juan, Castaneda’s Yaqui Indian sorcerer, said, “The world of sorcerers opens up after the warrior has learned to shut off internal dialogue.” The Third Chinese Patriarch of Zen stated, "Stop talking and thinking and there is nothing you will not be able to know.” And mystics have continually said that the way to the mystical level requires emptying the mind of all thoughts, images, and perceptions.
 
@@ -323,7 +323,7 @@ Everyone has some degree of awareness, a subjective conscious experience of noti
 
 Developing mindfulness involves cultivating awareness of whatever arises in consciousness. Mindfulness is sometimes called “bare attention” because it is just noticing whatever arises in consciousness. Mindfulness is not thinking about or reacting to what arises; the mind does the thinking and reacting. Mindfulness is just noticing whatever arises in consciousness, including the thoughts and reactions of the mind. Mindfulness is sometimes called “choiceless awareness” because it does not direct or influence what comes into consciousness. It is an open, clear, calm, sane awareness that objectively notices whatever arises in consciousness without elaborating on it, reacting to it, identifying with it, or getting lost in it.
 
-image::../images/8-mindfulness.jpg[alt="Mindfulness",width="60%",pdfwidth="60%",align="center"]
+image::./images/8-mindfulness.jpg[alt="Mindfulness",width="60%",pdfwidth="60%",align="center"]
 
 In intermediate stages of developing mindfulness, one moves into the “witness” space. From this vantage point, one observes the contents of consciousness, including thoughts and images, without getting pulled into them. Here, one’s sense of self is no longer identified with the contents of the mind. This is very liberating and opens the door to the transpersonal.
 
@@ -386,7 +386,7 @@ Opening the heart involves letting other people into your heart and unconditiona
 
 As a general rule, we are all doing the best we can, given our level of understanding, values, experiences, skills, and so forth. Everyone is to be accepted and valued beyond the melodrama of the game or dream. Even when a person acts cruelly or aggressively we need to realize that it is often out of fear or anxiety. So we try to have compassion for the person, not get pulled into a fight, and still do the best thing to encourage more appropriate behavior.
 
-image::../images/9-opening-the-heart.jpg[alt="Opening the Heart",width="40%",pdfwidth="40%",align="center"]
+image::./images/9-opening-the-heart.jpg[alt="Opening the Heart",width="40%",pdfwidth="40%",align="center"]
 
 The early Greeks distinguished three different types of love: _eros_, _philia_, and _agape_. Eros is love primarily based on desire. Philia is based on friendship, brotherly love. And agape is selfless love concerned with the welfare of others. From a transpersonal point of view, eros is a perfectly natural part of being human and is thus respected. Sexual relations can also be the form for powerful _tantric_ spiritual practices, although many people use _tantra_ as an excuse for hedonism. But in terms of spiritual progress, we don’t want the love of opening the heart to be limited to or held back by eros. Eros is usually too tied up in the attachments of the first three centers of consciousness (_chakras_)—which are involved with security, sensation, and power. Eros is often caught in the “more is never enough trap,” inviting a never-ending quest for ever more sexual experiences, sensations, conquests, etc.
 
@@ -423,7 +423,7 @@ These attachments are limiting forces, biases in consciousness, and barriers to 
 
 An attachment often has an emotional component. Ken Keyes, a currently popular teacher, has defined an attachment (he uses the word “addiction”) as an emotion-backed demand, expectation or model that makes you upset or unhappy if it is not satisfied. If I am attached to your acting in a particular way and then you don’t act that way, I may get upset and be unhappy. Instead of unconditionally accepting you as you are and, perhaps, trying to influence your behavior, I unnecessarily get upset because reality did not match my model of how reality was supposed to be. Thus, reducing attachments is a way to gradually increase happiness and peace of mind.
 
-image::../images/10-reducing-attachments.jpg[alt="Reducing Attachments",width="60%",pdfwidth="60%",align="center"]
+image::./images/10-reducing-attachments.jpg[alt="Reducing Attachments",width="60%",pdfwidth="60%",align="center"]
 
 In this chapter is a survey of basic knowledge about causes of attachments, some types of attachments, and ways to reduce attachments. Attachments arise throughout the day, so they provide a lot of opportunity to work on oneself. Many attachments are quite evident and relate to personal and interpersonal problems. Other attachments, to be discovered later, are very subtle and deal with one’s sense of self and how one constructs one’s “reality.”
 
@@ -552,7 +552,7 @@ In a previous book, _Skills of Living_, I summarized many of the practical thing
 
 Over and above these specific topics, there are more general themes that run throughout _Skills of Living_. One is the importance of continually developing objective observation of one’s feelings, thoughts, and other behaviors. This is accomplished through record-keeping and logs, specific exercises, and mindfulness practices. A second general theme is the basic strategy of taking small steps and being committed to a plan of action that often needs to be revised. Finally, there is the importance of cultivating unconditional acceptance of oneself while simultaneously recognizing the desirability of change.
 
-image::../images/11-cleaning-house.jpg[alt="Cleaning House",width="60%",pdfwidth="60%",align="center"]
+image::./images/11-cleaning-house.jpg[alt="Cleaning House",width="60%",pdfwidth="60%",align="center"]
 
 The key here for many people is developing discipline. A person often knows what needs to be done but somehow never seems to have the time or energy to get around to it. The melodrama of daily living has us too tied up. Some convince themselves that discipline is somehow counter to their personality, philosophy of living, or spiritual path. These people are usually greatly impaired in any attempt at self-improvement.
 
@@ -581,7 +581,7 @@ In the domains of personal and transpersonal knowledge, we are continually bomba
 
 So in personal and transpersonal growth, it is not enough just to seek out information. We also need to cultivate readiness to hear and know the lesson, the truth, the broader perspective, and the fundamental insight. The teachings are ever present. It is a matter of quieting the mind and opening the heart so we can hear and see better. It is a common spiritual maxim that the teacher will appear when the student is ready.
 
-image::../images/12-readiness-to-know.jpg[alt="Readiness to Know",width="60%",pdfwidth="60%",align="center"]
+image::./images/12-readiness-to-know.jpg[alt="Readiness to Know",width="60%",pdfwidth="60%",align="center"]
 
 One block to readiness to know is intellectual closed-mindedness. We can get so caught up in a particular set of ideas or forms that we are not open to new experiences and knowledge. We are more interested in defending, justifying, and explaining our own positions. In an oft-told Zen story, a university professor goes to visit the master Nan-in to learn about Zen. While serving tea, Nan-in fills the professor’s cup and keeps on pouring though the cup is overflowing. When the professor finally points this out, Nan-in says, “Like this cup, you are full of your own opinions and speculations. How can I show you Zen unless you first empty your cup?”
 
@@ -620,7 +620,7 @@ Along with finding your way is the recognition that the path which is right for 
 
 It is often the case that the strength of a particular path is also the cause of many of its problems. For example, one person’s path may be largely intellectual, with a lot of reading, thinking, and philosophizing. This can be good to a point, but it can also result in the person being lost in his own conceptual knowledge and not moving into other types of knowing. Or one may be on a devotional path. A common trap here is distorting reality so it takes a form that is easier to love. More important is learning to perceive and love reality as it is.
 
-image::../images/13-finding-your-way.jpg[alt="Finding Your Way",width="60%",pdfwidth="60%",align="center"]
+image::./images/13-finding-your-way.jpg[alt="Finding Your Way",width="60%",pdfwidth="60%",align="center"]
 
 Another common trap is the difficulty in letting go of a particular method, group, teacher, or path after its usefulness is past. You may still respect, honor, and value it; but you need to be able to let it go. Say you come to a difficult river that you wish to cross and eventually find a boat that gets you to the other side. You may appreciate the boat, but you need to leave it at the shore and travel on. It would be a mistake to carry the boat on your back because it had helped you. It would also be a mistake to argue that everyone should have a boat like yours, and the only way across the river is the way you came.
 
@@ -652,7 +652,7 @@ As a general rule, a spiritual teacher should be trying to incorporate spiritual
 
 An enlightened being does not necessarily choose to be a visible public guru or to assume the form that one might expect. Thus, it could be that the bus driver or Aunt Sally might be an awakened being, but most people do not realize them as such because they are not ready to know. Historically, there have been many great gurus that people thought were fools.
 
-image::../images/14-teachers.jpg[alt="Teachers",width="60%",pdfwidth="60%",align="center"]
+image::./images/14-teachers.jpg[alt="Teachers",width="60%",pdfwidth="60%",align="center"]
 
 In fact, everyone is your guru in that you can learn from everyone. Adopting this perspective toward others can help open the heart. For various reasons, you have more intense relationships with some of these gurus, such as your family and friends. With these people it is important always to recognize the spiritual component. Thus, in addition to all the other things a marriage relationship is, it also is a tremendous opportunity for two people to help each other and learn from each other on the spiritual path. Your spouse can be your best guru since he or she knows you so well, and since ideally you are merging in being, although not necessarily in personality.
 
@@ -675,7 +675,7 @@ Although disciplined times of formal sitting meditation are important, each day 
 
 At first, concentration is usually best developed during formal meditation. But with practice we gradually become more and more aware of how focused or one-pointed our minds are in all situations. When listening to a friend or listening to music, we can be aware of how much the mind stays on what we want to hear and how much it runs off to other things, such as sensations, thoughts, and fantasies. We can then apply and develop concentration skills by gently and firmly bringing the mind back to what is to be heard. Thus most of the time you have an opportunity to be aware of how one-pointed your mind is, and to practice developing concentration on whatever you are seeing, hearing, feeling, thinking, smelling, or tasting. When you are eating, how much are you attending to the sensations of eating? When you are reading, how often do you find that you have “completed” a paragraph or page and don’t know what you read?
 
-image::../images/15-continual-practice.jpg[alt="Continual Practice",width="60%",pdfwidth="60%",align="center"]
+image::./images/15-continual-practice.jpg[alt="Continual Practice",width="60%",pdfwidth="60%",align="center"]
 
 The same applies to mindfulness. At almost any instant you can practice being aware of body sensations, breathing, feelings, one-pointedness of mind, specific thoughts and images, intentions, and/or processes of the mind. You can be aware of the functioning and effects of the attachments. You can notice the opening and closing of your heart or mind. Thus situations like brushing your teeth, washing dishes, or driving a car are wonderful opportunities to develop mindfulness. Often people treat such routines as boring and distract themselves by day-dreaming, planning, listening to music, and other diversions. But these moments are rich with sensations to be mindful of. In addition, one can be mindful of the reactions to the sensations and the situation in general.
 
@@ -700,7 +700,7 @@ It is very helpful for most people periodically to step out of their lives, to t
 
 Vacations are a common way to do this and can be fun, interesting, stimulating, and a distraction from many of our usual concerns. When geographically far away, we can look back on our life differently and perhaps see things in a better perspective. But vacations often are so filled with activities that we do not have the opportunity really to step out of our life; rather, we just change the events in our life. People often return from vacations tired and stressed. Thus, although vacations can be therapeutic in many ways, they are seldom the optimal way to develop transpersonal perspective. Usually we are so caught up in the events of a vacation we have little time for spiritual practice.
 
-image::../images/16-retreats.jpg[alt="Retreats",width="60%",pdfwidth="60%",align="center"]
+image::./images/16-retreats.jpg[alt="Retreats",width="60%",pdfwidth="60%",align="center"]
 
 So in terms of personal and transpersonal growth, it is helpful to take periodic retreats in which we step out of our routines and do not fill the time with events. Parents need time away from the children, time they can devote to themselves and/or their spouses. And individuals need time alone, time to regroup, recenter, and intensify spiritual practices.
 

@@ -89,7 +89,7 @@ they relate to each other. When this is understood you can more
 intelligently pursue other sources (books, teachers, training programs,
 etc.) for more detail and elaboration of the practices.
 
-<img src="../images/1-overview.jpg" alt="Overview" style="width:40.0%" />
+<img src="./images/1-overview.jpg" alt="Overview" style="width:40.0%" />
 
 Transpersonal/spiritual practices are potentially very powerful. This
 should not be underestimated. They can literally transform your being.
@@ -203,7 +203,7 @@ personal stage, the stage of development centering around the self and
 will. This is the “fall from Eden,” the gradual “getting lost” in an
 ego-based reality.
 
-<img src="../images/2-the-self.jpg" alt="The Self" style="width:40.0%" />
+<img src="./images/2-the-self.jpg" alt="The Self" style="width:40.0%" />
 
 Now a person’s sense of self continually changes. As we get older and
 watch our body change, we identify less with the body. Rather, the body
@@ -506,7 +506,7 @@ considerable stress in the game, while the meta-player experiences much
 less stress and can often transform potential sources of stress into
 sources of energy.
 
-<img src="../images/4-the-game-of-life.jpg" alt="The Game of Life" style="width:60.0%" />
+<img src="./images/4-the-game-of-life.jpg" alt="The Game of Life" style="width:60.0%" />
 
 In the first chapter, I made a distinction between “religious” and
 “spiritual.” In terms of the analogy of this chapter, we can say that
@@ -583,7 +583,7 @@ in the apparent reality of the dream. When they wake up, they see the
 dream for what it is: the mental activity of a particular state of
 consciousness, a subset of a broader reality.
 
-<img src="../images/5-dreaming.jpg" alt="Dreaming" style="width:60.0%" />
+<img src="./images/5-dreaming.jpg" alt="Dreaming" style="width:60.0%" />
 
 Now consider the next step, waking up from the normal awake
 consciousness. What would it be like to wake up from this consensus
@@ -664,7 +664,7 @@ time to set the body down and relax the mind. It is an opportunity to
 work with the processes of the mind and disentangle oneself from the
 ordinary melodrama.
 
-<img src="../images/6-meditation.jpg" alt="Meditation" style="width:40.0%" />
+<img src="./images/6-meditation.jpg" alt="Meditation" style="width:40.0%" />
 
 The fundamental meditation practices of all the world’s great meditation
 traditions can be reduced to two basic components: processes of the mind
@@ -1003,7 +1003,7 @@ and relax the mind, which to some extent relaxes the body. Developing
 concentration is a good way to learn to relax, particularly if many of
 the sources of stress and anxiety are primarily mental.
 
-<img src="../images/7-concentration.jpg" alt="Concentration" style="width:60.0%" />
+<img src="./images/7-concentration.jpg" alt="Concentration" style="width:60.0%" />
 
 From a transpersonal standpoint, there are even stronger reasons for
 developing concentration. If we are always lost in monkey business, then
@@ -1141,7 +1141,7 @@ open, clear, calm, sane awareness that objectively notices whatever
 arises in consciousness without elaborating on it, reacting to it,
 identifying with it, or getting lost in it.
 
-<img src="../images/8-mindfulness.jpg" alt="Mindfulness" style="width:60.0%" />
+<img src="./images/8-mindfulness.jpg" alt="Mindfulness" style="width:60.0%" />
 
 In intermediate stages of developing mindfulness, one moves into the
 “witness” space. From this vantage point, one observes the contents of
@@ -1423,7 +1423,7 @@ often out of fear or anxiety. So we try to have compassion for the
 person, not get pulled into a fight, and still do the best thing to
 encourage more appropriate behavior.
 
-<img src="../images/9-opening-the-heart.jpg" alt="Opening the Heart" style="width:40.0%" />
+<img src="./images/9-opening-the-heart.jpg" alt="Opening the Heart" style="width:40.0%" />
 
 The early Greeks distinguished three different types of love: *eros*,
 *philia*, and *agape*. Eros is love primarily based on desire. Philia is
@@ -1597,7 +1597,7 @@ get upset because reality did not match my model of how reality was
 supposed to be. Thus, reducing attachments is a way to gradually
 increase happiness and peace of mind.
 
-<img src="../images/10-reducing-attachments.jpg" alt="Reducing Attachments" style="width:60.0%" />
+<img src="./images/10-reducing-attachments.jpg" alt="Reducing Attachments" style="width:60.0%" />
 
 In this chapter is a survey of basic knowledge about causes of
 attachments, some types of attachments, and ways to reduce attachments.
@@ -2073,7 +2073,7 @@ of action that often needs to be revised. Finally, there is the
 importance of cultivating unconditional acceptance of oneself while
 simultaneously recognizing the desirability of change.
 
-<img src="../images/11-cleaning-house.jpg" alt="Cleaning House" style="width:60.0%" />
+<img src="./images/11-cleaning-house.jpg" alt="Cleaning House" style="width:60.0%" />
 
 The key here for many people is developing discipline. A person often
 knows what needs to be done but somehow never seems to have the time or
@@ -2173,7 +2173,7 @@ insight. The teachings are ever present. It is a matter of quieting the
 mind and opening the heart so we can hear and see better. It is a common
 spiritual maxim that the teacher will appear when the student is ready.
 
-<img src="../images/12-readiness-to-know.jpg" alt="Readiness to Know" style="width:60.0%" />
+<img src="./images/12-readiness-to-know.jpg" alt="Readiness to Know" style="width:60.0%" />
 
 One block to readiness to know is intellectual closed-mindedness. We can
 get so caught up in a particular set of ideas or forms that we are not
@@ -2314,7 +2314,7 @@ common trap here is distorting reality so it takes a form that is easier
 to love. More important is learning to perceive and love reality as it
 is.
 
-<img src="../images/13-finding-your-way.jpg" alt="Finding Your Way" style="width:60.0%" />
+<img src="./images/13-finding-your-way.jpg" alt="Finding Your Way" style="width:60.0%" />
 
 Another common trap is the difficulty in letting go of a particular
 method, group, teacher, or path after its usefulness is past. You may
@@ -2437,7 +2437,7 @@ do not realize them as such because they are not ready to know.
 Historically, there have been many great gurus that people thought were
 fools.
 
-<img src="../images/14-teachers.jpg" alt="Teachers" style="width:60.0%" />
+<img src="./images/14-teachers.jpg" alt="Teachers" style="width:60.0%" />
 
 In fact, everyone is your guru in that you can learn from everyone.
 Adopting this perspective toward others can help open the heart. For
@@ -2521,7 +2521,7 @@ attending to the sensations of eating? When you are reading, how often
 do you find that you have “completed” a paragraph or page and don’t know
 what you read?
 
-<img src="../images/15-continual-practice.jpg" alt="Continual Practice" style="width:60.0%" />
+<img src="./images/15-continual-practice.jpg" alt="Continual Practice" style="width:60.0%" />
 
 The same applies to mindfulness. At almost any instant you can practice
 being aware of body sensations, breathing, feelings, one-pointedness of
@@ -2628,7 +2628,7 @@ vacations can be therapeutic in many ways, they are seldom the optimal
 way to develop transpersonal perspective. Usually we are so caught up in
 the events of a vacation we have little time for spiritual practice.
 
-<img src="../images/16-retreats.jpg" alt="Retreats" style="width:60.0%" />
+<img src="./images/16-retreats.jpg" alt="Retreats" style="width:60.0%" />
 
 So in terms of personal and transpersonal growth, it is helpful to take
 periodic retreats in which we step out of our routines and do not fill
@@ -3709,4 +3709,4 @@ University of Nevada and in Thailand. He was chosen for the
 distinguished research award and also for the distinguished teaching
 award at West Florida.
 
-Last updated 2019-05-11 18:13:33 -0500
+Last updated 2019-05-11 18:53:51 -0500

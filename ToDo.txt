@@ -16,6 +16,7 @@ o license and permission
 x reduce image size by converting to grayscale
     convert source.jpg -colorspace Gray destination.jpg (true grayscale only)
 x moves output files to project root
+x fix images for html and md
 
 asiidoc references:
 ===================
