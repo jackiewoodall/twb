@@ -5,6 +5,7 @@ An Overview of Spiritual Practices
 
 Requirements:
 * asciidoctor
+* pandoc
 
 Pages:
 * https://jackiewoodall.github.io/twb
@@ -13,3 +14,4 @@ Pages:
 * DOCX: https://jackiewoodall.github.io/twb/the_way_beyond.docx
 * TXT: https://jackiewoodall.github.io/twb/the_way_beyond.txt
 * MD: https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md
+* EPUB: https://jackiewoodall.github.io/twb/the_way_beyond.epub

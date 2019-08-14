@@ -1,43 +1,76 @@
-The Way Beyond: An Overview of Spiritual Practices
-==================================================
+<div id="header">
+
+# The Way Beyond: An Overview of Spiritual Practices
+
+<div class="details">
 
 <span id="author" class="author">William L. Mikulas</span>  
 <span id="revdate">1987</span>
 
+</div>
+
+<div id="toc" class="toc">
+
+<div id="toctitle">
+
 Table of Contents
 
--   [Dedication](#_dedication)
--   [Overview](#_overview)
--   [Perspectives](#_perspectives)
-    -   [The Self](#_the_self)
-    -   [Levels of Being](#_levels_of_being)
-    -   [The Game of Life](#_the_game_of_life)
-    -   [Dreaming](#_dreaming)
--   [Basic Practices](#_basic_practices)
-    -   [Meditation](#_meditation)
-    -   [Concentration](#_concentration)
-    -   [Mindfulness](#_mindfulness)
-    -   [Opening the Heart](#_opening_the_heart)
-    -   [Reducing Attachments](#_reducing_attachments)
--   [Overall Practice](#_overall_practice)
-    -   [Cleaning House](#_cleaning_house)
-    -   [Readiness to Know](#_readiness_to_know)
-    -   [Finding Your Way](#_finding_your_way)
-    -   [Teachers](#_teachers)
-    -   [Continual Practice](#_continual_practice)
-    -   [Retreats](#_retreats)
--   [Appendix](#_appendix)
-    -   [Some Basic Definitions](#_some_basic_definitions)
-    -   [Suggested Reading](#_suggested_reading)
--   [About the Author](#_about_the_author)
+</div>
 
-Dedication
-----------
+  - [Dedication](#_dedication)
+  - [Overview](#_overview)
+  - [Perspectives](#_perspectives)
+      - [The Self](#_the_self)
+      - [Levels of Being](#_levels_of_being)
+      - [The Game of Life](#_the_game_of_life)
+      - [Dreaming](#_dreaming)
+  - [Basic Practices](#_basic_practices)
+      - [Meditation](#_meditation)
+      - [Concentration](#_concentration)
+      - [Mindfulness](#_mindfulness)
+      - [Opening the Heart](#_opening_the_heart)
+      - [Reducing Attachments](#_reducing_attachments)
+  - [Overall Practice](#_overall_practice)
+      - [Cleaning House](#_cleaning_house)
+      - [Readiness to Know](#_readiness_to_know)
+      - [Finding Your Way](#_finding_your_way)
+      - [Teachers](#_teachers)
+      - [Continual Practice](#_continual_practice)
+      - [Retreats](#_retreats)
+  - [Appendix](#_appendix)
+      - [Some Basic Definitions](#_some_basic_definitions)
+      - [Suggested Reading](#_suggested_reading)
+  - [About the Author](#_about_the_author)
+
+</div>
+
+</div>
+
+<div id="content">
+
+<div class="sect1">
+
+## Dedication
+
+<div class="sectionbody">
+
+<div class="paragraph">
 
 For Benita
 
-Overview
---------
+</div>
+
+</div>
+
+</div>
+
+<div class="sect1">
+
+## Overview
+
+<div class="sectionbody">
+
+<div class="paragraph">
 
 This book is a guide to help you plan the most significant journey you
 can take. The purpose is to provide you with a practical overview and
@@ -49,6 +82,10 @@ multitude of good books that provide detailed discussions of various
 transpersonal theories and practices. This book is more general and
 provides an integration of the basic practices used in these various
 approaches.
+
+</div>
+
+<div class="paragraph">
 
 So, who is going on this journey? Some travelers primarily think about
 the journey psychologically. They are interested in things such as
@@ -63,11 +100,19 @@ spiritual journey, perhaps wishing for some type of experience,
 communion, or merging with that which is greater than themselves and
 which “includes” them.
 
+</div>
+
+<div class="paragraph">
+
 We could describe many other perspectives; it seems that most people are
 on some type of quest that leads them to science, psychology,
 philosophy, religion, or the occult in the hopes of satisfying some
 basic yearnings. In the next four chapters, I describe four different
 ways of thinking about the universal journey.
+
+</div>
+
+<div class="paragraph">
 
 Although there are many different ways to think about the journey and
 where it leads, there is agreement among the great traditions about the
@@ -77,6 +122,10 @@ to do, not what to believe. In fact, relative to the journey it is often
 best to “believe” as little as possible. Just follow the practices, go
 on the journey, and see for yourself.
 
+</div>
+
+<div class="paragraph">
+
 The benefits of the practices are many and include the following:
 clearing of perception, increased mental flexibility and creativity,
 transcendence of assumptions and limitations, new insights about self
@@ -84,12 +133,28 @@ and world, and greater happiness and peace of mind. Life becomes
 simpler, lighter, and more direct. One becomes more effective at helping
 other people achieve the same.
 
+</div>
+
+<div class="paragraph">
+
 In this book I describe the fundamental essence of the practices and how
 they relate to each other. When this is understood you can more
 intelligently pursue other sources (books, teachers, training programs,
 etc.) for more detail and elaboration of the practices.
 
-<img src="./images/1-overview.jpg" alt="Overview" style="width:40.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![Overview](./images/1-overview.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 Transpersonal/spiritual practices are potentially very powerful. This
 should not be underestimated. They can literally transform your being.
@@ -102,9 +167,13 @@ and frustration that may occur during part of the journey. And in yoga,
 some practices may produce a variety of sensations that could be
 upsetting to someone who does not understand them.
 
+</div>
+
+<div class="paragraph">
+
 Finally, it would be useful here to make two distinctions: between
-“form” and “essence,” and between “religious” and “spiritual.” In this
-book essence refers to the fundamental nature of a practice or act,
+“form” and “essence,” and between “religious” and “spiritual.” In
+this book essence refers to the fundamental nature of a practice or act,
 while form refers to the particular manifestation or example of the
 essence. Thus, when I discuss the essence of concentration, I am
 referring to a fundamental property of the mind (how focused or
@@ -117,6 +186,10 @@ being developed is the same. This book deals with the essence of basic
 personal and transpersonal practices, with various forms used as
 examples.
 
+</div>
+
+<div class="paragraph">
+
 Confusing form with essence is a common trap for people on the journey.
 For example, an American who wishes to pursue a Hindu or Buddhist path
 may get lost in the form of the practice (concepts, culture, dress,
@@ -125,11 +198,19 @@ universally independent of form. Now it may be practical and/or
 desirable to choose a particular form, but the form is only useful to
 the extent it facilitates developing or manifesting the essence.
 
+</div>
+
+<div class="paragraph">
+
 People have described transpersonal experiences and insights within the
 forms of science, philosophy, religion, poetry, paintings, music, and
 teaching stories. But there is a universal essence to what is being
 described, some of which is called the Perennial Philosophy (see
 appendices), regardless of the various forms.
+
+</div>
+
+<div class="paragraph">
 
 Similarly with the distinction between spiritual and religious: I use
 the term “spiritual” to refer to those practices, insights, states of
@@ -148,18 +229,39 @@ or politics. Even those religions which argue that there is nothing to
 do and/or that faith is sufficient advocate certain ways of being which
 are facilitated by the spiritual practices.
 
+</div>
+
+<div class="paragraph">
+
 The essence of the spiritual and transpersonal practices is very simple
 and universal. But the depth and breadth hidden in this simplicity is
 continually uncovered as one continues the journey.
 
-Perspectives
-------------
+</div>
+
+</div>
+
+</div>
+
+<div class="sect1">
+
+## Perspectives
+
+<div class="sectionbody">
+
+<div class="sect2">
 
 ### The Self
+
+<div class="paragraph">
 
 Since the journey leads beyond the self and is based on getting free
 from a self-defined reality, it is important to understand what the self
 is and how it came to be.
+
+</div>
+
+<div class="paragraph">
 
 A newborn baby must learn to perceive the world. Although entering the
 world with the ability to sense many things, such as basic sounds and
@@ -168,11 +270,19 @@ of vision, the child must learn how to move and focus the eyes, pick out
 particular forms, see shapes within shapes, and store some of this
 information in memory for future comparison.
 
+</div>
+
+<div class="paragraph">
+
 The culture influences this learning by affecting what the child is
 exposed to and what the child is rewarded for perceiving. The culture
 also teaches the child a language with which to label and categorize
 perceptions. Eventually, the child’s perception and thinking are
 strongly influenced by language.
+
+</div>
+
+<div class="paragraph">
 
 The child’s consciousness at first is quite undifferentiated. Sensations
 rise and fall, but there is little of the discriminating, categorizing,
@@ -182,10 +292,18 @@ of experiences into me and not-me. The child is said to be in a
 prepersonal stage, a stage of development before a sense of a personal,
 individualized self.
 
+</div>
+
+<div class="paragraph">
+
 Then the child gradually develops a sense of self. At first this is
 influenced by the discovery of the body as something that can be
 controlled to some degree and as different from things outside the body.
 So the early sense of self is to some extent identified with the body.
+
+</div>
+
+<div class="paragraph">
 
 Associated with the sense of self is a sense of will, the action or
 influence of the self. As the self develops and changes, so does the
@@ -194,21 +312,45 @@ to the fact that children around two years of age often practice
 exerting their developing self and will. This may take the form of being
 willful, controlling, or opinionated.
 
+</div>
+
+<div class="paragraph">
+
 As a sense of self or “me” develops, so does a sense of “mine.” Not only
 does the child have a sense of an individualized self, but this self
 also possesses things in the world.
+
+</div>
+
+<div class="paragraph">
 
 As this is happening, the child moves from the prepersonal stage to the
 personal stage, the stage of development centering around the self and
 will. This is the “fall from Eden,” the gradual “getting lost” in an
 ego-based reality.
 
-<img src="./images/2-the-self.jpg" alt="The Self" style="width:40.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![The Self](./images/2-the-self.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 Now a person’s sense of self continually changes. As we get older and
 watch our body change, we identify less with the body. Rather, the body
 is perceived as being part of the self, or as something the self
 inhabits or controls.
+
+</div>
+
+<div class="paragraph">
 
 Our sense of self may become more identified with the mind and/or social
 roles. A child asked to answer the question “Who am I?” may answer in
@@ -218,11 +360,19 @@ probably strongly identified with some sense of self which is the
 thinker of thoughts, perceiver of perceptions, doer of actions, and
 consistent subject of many memories.
 
+</div>
+
+<div class="paragraph">
+
 Thus, many people identify with the activity of their minds: “I am the
 thinker of these thoughts.” Others develop a sense of inner self in
 which the self is more of an observer: “I am the observer of the mind
 having thoughts. I am not the thinker of the thoughts, I am the observer
 of the thinker.”
+
+</div>
+
+<div class="paragraph">
 
 Regardless of these distinctions, most adults have a sense of a separate
 self that exists in some relation to their bodies. Most people I have
@@ -230,11 +380,19 @@ polled feel that “they” are inside their heads. Some feel they are
 inside their hearts, diffused through the whole body, or just above or
 behind the head.
 
+</div>
+
+<div class="paragraph">
+
 Two important psychological phenomena commonly occur during the personal
 stage of development. One is that the person acquires a variety of
 thoughts, feelings, and attitudes toward the self, many of which are
 often negative in tone. Secondly, the person’s self may fractionate into
 several different selves and/or aspects of the self.
+
+</div>
+
+<div class="paragraph">
 
 During development, our sense of self is continually being conditioned
 by parents, peers, television, and so forth. We come to believe we are
@@ -246,6 +404,10 @@ perceive himself as being slow and dull. Many of the humanistic
 therapies focus on our unrealistic and/or overly negative associations
 to our self.
 
+</div>
+
+<div class="paragraph">
+
 Many people are more tolerant and accepting of friends than of
 themselves. Thus, a recurrent theme in this book will be to “make
 friends with yourself.” This involves clearly seeing your strengths and
@@ -253,9 +415,17 @@ weaknesses and unconditionally accepting them all, as you hopefully
 would with a good friend, while also recognizing ways to improve and
 trying to do so.
 
+</div>
+
+<div class="paragraph">
+
 When a person dislikes some aspect of the perceived self, the self may
 be broken into parts and some parts pushed out of consciousness. Thus,
 the self becomes fragmented.
+
+</div>
+
+<div class="paragraph">
 
 Similarly, a person may develop different selves for different
 situations, such as a parent self, an employee self, and a party self.
@@ -267,17 +437,29 @@ Western therapies, such as Gestalt therapy and Psychosynthesis, and some
 tantric and Tibetan Buddhist practices are designed to synthesize and
 integrate the various aspects of the different selves.
 
+</div>
+
+<div class="paragraph">
+
 What I have described can be seen in the following common example:
 Parents want their child to be in some way different from the way he or
 she is. A part of the child’s mind assumes the parents’ position and
 then negatively evaluates other aspects of self. The child’s self is
 then split, and suffering results.
 
+</div>
+
+<div class="paragraph">
+
 An important point to keep in mind is that, as a general rule, before we
 can adequately move into the next stage of development, we must resolve
 many of the issues of the personal stage. We need to Uncover and
 synthesize different aspects of the self, and to make friends with
 ourselves.
+
+</div>
+
+<div class="paragraph">
 
 The next stage of development after the personal stage is the
 transpersonal stage. Here the person gets beyond the limitations and
@@ -289,6 +471,10 @@ and peace of mind. The fundamental essence of the self sits at the
 border between the personal and transpersonal. When one sees through the
 self, one sees into the transpersonal.
 
+</div>
+
+<div class="paragraph">
+
 Ramana Maharshi, a respected Indian yogi, suggested the inquiry “Who am
 I?” as a major practice for moving from the personal to the
 transpersonal. The practice involves continually tuning the
@@ -297,6 +483,10 @@ reading these words? What is your direct, first-hand experience of this
 self who is reading? Who is the observer of the self? This is a powerful
 practice that leads to ever subtler levels of the apparent self.
 
+</div>
+
+<div class="paragraph">
+
 Similarly, Buddhist vipassana meditation practices lead to a direct
 experience and insight into the nature of the self. When the mind is
 sufficiently calm and aware, it is turned on the experience of self.
@@ -304,17 +494,33 @@ What is found is that there is no constant, unchanging entity of self;
 rather there is a dynamic set of processes of grasping and contraction.
 Seeing through this is liberating.
 
+</div>
+
+<div class="paragraph">
+
 But all of this is getting too far ahead. This book surveys those
 practices which help to resolve issues at the personal stage and lead to
 the transpersonal. You can see the exact nature of the self and the
 transpersonal for “yourself” later in the journey.
 
+</div>
+
+</div>
+
+<div class="sect2">
+
 ### Levels of Being
+
+<div class="paragraph">
 
 There are four levels of being human: the biological, the behavioral,
 the personal, and the transpersonal. These four levels are totally
 interrelated and exist in practically everyone, whether we are aware of
 them or not.
+
+</div>
+
+<div class="paragraph">
 
 The biological level, the level of the body including the brain, is the
 exquisite product of dynamic forces that can be viewed evolutionarily
@@ -323,12 +529,20 @@ interplay of genetic, environmental, and learning factors. It strongly
 influences the other three levels and depends on them for most effective
 functioning.
 
+</div>
+
+<div class="paragraph">
+
 The biological level is the species level, what it means to be homo
 sapiens. This includes what we as a species are capable of sensing; our
 limitations are in what we are capable of seeing, hearing, smelling,
 tasting, and feeling. For example, the visual spectrum is a very small
 part of the electromagnetic spectrum. Yet we readily develop a sense of
 “reality” based on what is perceived through these small windows.
+
+</div>
+
+<div class="paragraph">
 
 The major characteristic of the human species is that it was
 biologically selected for its capability to learn, with predispositions
@@ -337,12 +551,20 @@ humans can adapt to various situations without requiring biological
 changes in the species. Through learning, humans can communicate, store,
 and transmit knowledge and, thereby, develop cultures.
 
+</div>
+
+<div class="paragraph">
+
 The biological level is the level of many individual differences
 including physical characteristics, reactivity of the nervous system,
 chemical balances in the brain, and variability of blood sugar level.
 These and a host of other biological factors can influence emotions,
 thinking ability, sense of well-being, and ability to maximize processes
 of the other three levels.
+
+</div>
+
+<div class="paragraph">
 
 Good breathing, exercise, and nutrition are stressed by many spiritual
 disciplines. This includes learning deep breathing and the influence of
@@ -355,6 +577,10 @@ healthy diet and learning how different foods influence energy, mood,
 and psycho-spiritual state. There are great individual differences here.
 Ayurvedic nutrition in yoga has much to contribute.
 
+</div>
+
+<div class="paragraph">
+
 The second level of being human is the behavioral level, which deals
 with the output of the biological level. What do the body and brain do?
 Behaviors include moving, talking, emoting, and thinking. Thus the
@@ -363,6 +589,10 @@ behaviors are a function of biological factors interacting with learning
 and motivation. Behavior modification is an effective current Western
 therapy for dealing with behaviors, and changes at the behavioral level
 often produce changes at the biological level.
+
+</div>
+
+<div class="paragraph">
 
 The third level, the personal, is the level of subjective consciousness,
 which includes the subjective experience of the first two levels.
@@ -375,6 +605,10 @@ affecting the eye and brain. The limitations of the biological level and
 the dynamics of the behavioral level greatly influence what gets into
 consciousness at the personal level.
 
+</div>
+
+<div class="paragraph">
+
 Here also is the seat of the personal self discussed in the last
 chapter. For not only is there consciousness, but the consciousness is
 often from the vantage point of an individualized self and related will.
@@ -382,9 +616,17 @@ And this self-based consciousness can also be aware of itself to some
 extent. I can examine my sense of self. So we say there is self
 consciousness.
 
+</div>
+
+<div class="paragraph">
+
 Being the seat of the self, the personal level is also the domain of
 self-concept, self-esteem, self-determination self-control,
 self-efficacy, and so forth.
+
+</div>
+
+<div class="paragraph">
 
 Although such self-based experiences can sometimes be changed by
 interventions aimed at the personal level, they are often most
@@ -399,6 +641,10 @@ importance of ordering one’s life on moral and practical guidelines and
 cleaning up one’s life at the biological and behavioral levels to
 facilitate changes at the personal and transpersonal levels.
 
+</div>
+
+<div class="paragraph">
+
 Conversely, changes at the personal level, such as improving attitudes
 toward the self or synthesizing disparate aspects of the self, often
 produce changes at the behavioral and biological levels. Resolving
@@ -406,6 +652,10 @@ personal level issues increases awareness of body and behavior, reduces
 stress, and breaks down some of the apparent barriers between levels.
 And changes at the personal level are often necessary or useful before
 one can most effectively work at the transpersonal level.
+
+</div>
+
+<div class="paragraph">
 
 At the boundary of the personal level and the transpersonal level is the
 very essence of the self. Existentialists often confront the self and
@@ -419,6 +669,10 @@ perceived absurdity. These existential anxieties are often not
 resolvable at the personal level, but are transcended in the
 transpersonal level.
 
+</div>
+
+<div class="paragraph">
+
 The fourth level, the transpersonal, is beyond and “prior to” the
 personal level. It is the field of forces in which the apparent self
 emerges and changes. It is consciousness per se, rather than the
@@ -427,6 +681,10 @@ prior to the form of existence. It is a state-of-being of fundamental
 peace and equanimity, as opposed to the pleasure and pain of the other
 levels. It is the ground in which one’s vantage point is no longer
 identified with the individualized self of the personal level.
+
+</div>
+
+<div class="paragraph">
 
 Although everyone exists at the transpersonal level, most people most of
 the time are constricted in their awareness to the personal level. It is
@@ -440,6 +698,10 @@ basically get stuck there, unaware of the transpersonal level of their
 being. Continued development into the transpersonal stage involves the
 freeing realization of the transpersonal level, which was always
 present.
+
+</div>
+
+<div class="paragraph">
 
 It is difficult to describe the transpersonal in terms of traditional
 conceptual knowledge, for the transpersonal level is based on insights
@@ -456,7 +718,15 @@ develop those ideas and related practices which speak to you. But be
 careful that clinging to particular ideas or beliefs doesn’t impair your
 progress into broader domains of knowing and being.
 
+</div>
+
+</div>
+
+<div class="sect2">
+
 ### The Game of Life
+
+<div class="paragraph">
 
 Consider popular games like Monopoly, backgammon, and bridge. How well
 one does in these games is a combination of skill and luck. For many of
@@ -465,12 +735,20 @@ win or not. If we are winning, we enjoy the game much more than if we
 are losing. And some people gloat when they win and complain when they
 lose.
 
+</div>
+
+<div class="paragraph">
+
 There is another less common type of game player. For this player, whom
 I call a meta-player, the fun is in the playing of the game, not in
 winning or losing. The meta-player tries to win, since that is the
 objective of the game, but the fun is in playing the game, win or lose.
 Thus the meta-player always has a good time, while the happiness of the
 average player cycles up and down.
+
+</div>
+
+<div class="paragraph">
 
 Next, consider the game of life, the adventure-drama of daily living.
 Everyone has ideas about what constitutes winning here. Winning might be
@@ -480,6 +758,10 @@ sometimes lose. Like most games, the game of life has components of both
 skill and luck. Some things you can control and master; some things you
 can’t.
 
+</div>
+
+<div class="paragraph">
+
 For everyone who plays the game of life it is important to learn to play
 the game well, to play skillfully, with clarity, precision, and
 compassion. We need to acquire the knowledge and skills to maximize
@@ -488,6 +770,10 @@ the average player happiness depends on the amount of winning, but for
 the meta-player happiness is based on simply playing the game. The
 meta-player considers the game very important and does his best to win.
 But the meta-player enjoys and appreciates just the opportunity to play.
+
+</div>
+
+<div class="paragraph">
 
 The game of life is filled with pleasure and pain, and a common
 objective of the game is to maximize pleasure and minimize pain. All
@@ -500,18 +786,38 @@ the transpersonal. So there is pleasure and pain at the level of the
 game, and happiness at the level of how you play the game. Beyond this,
 one finds a peace of mind which is totally independent of the game.
 
+</div>
+
+<div class="paragraph">
+
 Similarly, the game of life is filled with potential sources of stress
 that can impair the body and mind. The average player experiences
 considerable stress in the game, while the meta-player experiences much
 less stress and can often transform potential sources of stress into
 sources of energy.
 
-<img src="./images/4-the-game-of-life.jpg" alt="The Game of Life" style="width:60.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![The Game of Life](./images/4-the-game-of-life.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 In the first chapter, I made a distinction between “religious” and
 “spiritual.” In terms of the analogy of this chapter, we can say that
 religion is at the level of the game, while spirituality is involved
 with getting free from the game.
+
+</div>
+
+<div class="paragraph">
 
 In many games it is possible occasionally to call a time-out and step
 out of the game for a while. This gives you a chance to catch your
@@ -522,6 +828,10 @@ as the setting, but they are always in the game. In this book you will
 learn how meditation is a way to call time-out in the game of life. And
 the chapter on retreats discusses additional ways.
 
+</div>
+
+<div class="paragraph">
+
 Another type of game on the market today is the role-playing and/or
 fantasy game, such as “Dungeons and Dragons.” In these games the player
 may assume a role, such as that of wizard, pirate, mafia boss, or
@@ -529,6 +839,10 @@ extra-terrestrial. Thus, a player may be a pirate while in the game, but
 step out of this role during time-outs and when the game is over.
 Occasionally problems arise when a player has trouble totally getting
 out of the role he assumed for the game.
+
+</div>
+
+<div class="paragraph">
 
 The game of life is a role-playing game in which you have been taught a
 specific role by parents, friends, teachers, and your culture. As in all
@@ -550,13 +864,25 @@ to change some of them. That is fine at the level of the game, but
 beyond this is the unconditional acceptance and love of all players,
 many of whom are lost in the game.
 
+</div>
+
+<div class="paragraph">
+
 For practical reasons, most people must continue to play their roles in
 the game, although they can significantly alter the roles. The trick is
 to be able to continually play the game but not be lost in it. This is
 the great spiritual teaching that one should be “in the world but not of
 it,” emphasized by the Christ, the Buddha, the Sufis, and others.
 
+</div>
+
+</div>
+
+<div class="sect2">
+
 ### Dreaming
+
+<div class="paragraph">
 
 When you are asleep and dreaming, the dream can seem very real; you are
 living in a different reality, a different state of consciousness. The
@@ -567,15 +893,23 @@ may be able to do miraculous things or be many different people. The
 sense of self can be very different from the sense of self in the normal
 non-sleep conscious state.
 
+</div>
+
+<div class="paragraph">
+
 Sometimes you might “wake up” in the dream; that is, you might still be
 dreaming but be aware that you are dreaming and that the dream is not
-“real.” This is called “lucid” dreaming. People can learn how to wake up
-more often in dreams and thus profit more from the dream state. They can
-then alter the dreams in various ways. Similarly, a hypnogogic state of
-consciousness may occur as a person starts to fall asleep; this is the
-drowsy place between awake and asleep. Here a person may have an awake
-type of conscious awareness of dream-like mental activity beginning to
-occur.
+“real.” This is called “lucid” dreaming. People can learn how to wake
+up more often in dreams and thus profit more from the dream state. They
+can then alter the dreams in various ways. Similarly, a hypnogogic state
+of consciousness may occur as a person starts to fall asleep; this is
+the drowsy place between awake and asleep. Here a person may have an
+awake type of conscious awareness of dream-like mental activity
+beginning to occur.
+
+</div>
+
+<div class="paragraph">
 
 So people can be awake in varying degrees during sleeping dreams. But
 for most people most of the time, when they are dreaming they are lost
@@ -583,7 +917,19 @@ in the apparent reality of the dream. When they wake up, they see the
 dream for what it is: the mental activity of a particular state of
 consciousness, a subset of a broader reality.
 
-<img src="./images/5-dreaming.jpg" alt="Dreaming" style="width:60.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![Dreaming](./images/5-dreaming.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 Now consider the next step, waking up from the normal awake
 consciousness. What would it be like to wake up from this consensus
@@ -594,12 +940,20 @@ like a dream. It seems very real to most people, but once you awaken it
 is seen for what it is: the mental activity of a particular state of
 consciousness, a subset of a broader reality.
 
+</div>
+
+<div class="paragraph">
+
 Some people who are lost in the waking-dream of normal consciousness may
 occasionally be aware they are dreaming. Some dreamers may even learn
 ways to wake up in the dream. But for the person who has awakened from
 the dream, it is clear that all one has to do is wake up. Much of what
 one does in the dream itself is related only to the melodrama of the
 dream, not to waking up from the dream.
+
+</div>
+
+<div class="paragraph">
 
 This leads to a fundamental spiritual truth: there is nothing you must
 do in order to awaken, just wake up. Activities within the dream are
@@ -611,15 +965,27 @@ the student’s attempt to achieve something within the dream. Rather, Zen
 continually exposes the student to the awakened perspective, which is
 everyone’s fundamental ground.
 
+</div>
+
+<div class="paragraph">
+
 Now simply being told to wake up is not very helpful. What is the
 dreamer to do? Fortunately, the answer is clear. The dreamer follows
 those practices which improve life within the dream and set the stage
 for awakening. This book summarizes such practices.
 
+</div>
+
+<div class="paragraph">
+
 Thus, the seemingly paradoxical truth is that the dreamer carries out
 practices within the dream that facilitate awakening from the dream,
 which in turn leads to the realization that nothing had to occur in the
 dream in order for one to be awakened.
+
+</div>
+
+<div class="paragraph">
 
 The awakened state has been described in many terms including
 enlightenment, satori, cosmic consciousness, Christ consciousness,
@@ -633,13 +999,21 @@ waking from a dream is quite useful and popular. Other common analogies
 include levels of consciousness, rebirth, escape from prison or bonds,
 and mythical quests.
 
+</div>
+
+<div class="paragraph">
+
 Few people suddenly wake up. For most it is a case of gradually
 awakening, with slow, uneven “progress.” Sometimes there is a good jump
-“forward,” sometimes a melodramatic fall “backward.” Sometimes there is
-continual “progress.” Sometimes frustrating stuckness. Eventually the
+“forward,” sometimes a melodramatic fall “backward.” Sometimes there
+is continual “progress.” Sometimes frustrating stuckness. Eventually the
 person may have the feeling of waking up, falling asleep, waking up,
 etc., with the waking up times gradually becoming more frequent, longer,
 broader, and subtler.
+
+</div>
+
+<div class="paragraph">
 
 The key here is not to get caught up in the drama of the “progress” of
 awakening as perceived by the dreamer. This only reinforces the
@@ -648,10 +1022,25 @@ within the dream, learns not to equate objectives of the dream with
 probability of awakening, and continually reorients toward that which is
 superordinate to the dream.
 
-Basic Practices
----------------
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="sect1">
+
+## Basic Practices
+
+<div class="sectionbody">
+
+<div class="sect2">
 
 ### Meditation
+
+<div class="paragraph">
 
 The word “meditation” is used to refer to many different things. For
 some it means to think about or ponder over something (“I’ll meditate on
@@ -659,12 +1048,28 @@ that”). For others it means to fantasize or daydream. For still others
 meditation is necessarily a religious or occult practice. None of these
 interpretations is what is meant here.
 
+</div>
+
+<div class="paragraph">
+
 In this book meditation is a “time-out” from “the game of life.” It is a
 time to set the body down and relax the mind. It is an opportunity to
 work with the processes of the mind and disentangle oneself from the
 ordinary melodrama.
 
-<img src="./images/6-meditation.jpg" alt="Meditation" style="width:40.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![Meditation](./images/6-meditation.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 The fundamental meditation practices of all the world’s great meditation
 traditions can be reduced to two basic components: processes of the mind
@@ -673,6 +1078,10 @@ development of one or both of two fundamental processes of the mind:
 concentration and mindfulness. These will be discussed in the next two
 chapters.
 
+</div>
+
+<div class="paragraph">
+
 The second basic component of meditation, the object of attention, is
 what the meditator focuses Consciousness on, with eyes open or closed.
 It might be something you look at, such as a photograph or mandala. It
@@ -680,6 +1089,10 @@ might be sounds, such as a prayer, chant, or mantra. Or it might be an
 image called up in the mind. The object is chosen because of particular
 properties of the object itself and/or associations it has for the
 meditator.
+
+</div>
+
+<div class="paragraph">
 
 In the spiritual exercises of St. Ignatius, the objects of attention are
 scenes from Christ’s life, used as a way of opening to Christ. A yogi
@@ -693,6 +1106,10 @@ specific imagined scenes. Therapeutic change is attributed to processes
 such as covert conditioning, modeling, reprogramming the unconscious,
 and altering expectations.
 
+</div>
+
+<div class="paragraph">
+
 The multitude of objects of meditation is not within the domain of this
 book, with a few exceptions to come later. Rather, the emphasis is on
 the basic form, attitude, and mental processes of meditation. When these
@@ -700,7 +1117,13 @@ are mastered to some extent, the meditator can more profitably choose
 and utilize various objects of meditation which are more specialized to
 particular paths and/or individual needs.
 
+</div>
+
+<div class="sect3">
+
 #### Physical Form
+
+<div class="paragraph">
 
 The Buddha suggested four basic forms for meditation—sitting, lying,
 standing, and walking. As sitting is the best form for most people, this
@@ -708,6 +1131,10 @@ is the form I will describe. You can later adapt what is said to other
 forms. Lying down is a good form for some people, but most are more
 likely to fall asleep. In the mindfulness chapter I describe a walking
 meditation.
+
+</div>
+
+<div class="paragraph">
 
 For sitting meditation, you want to set your body down so that the spine
 is basically vertical, the body is relaxed and balanced, and you are not
@@ -720,6 +1147,10 @@ lotus is too unbalanced.) The key is to have a firm, balanced base so
 that you can sit for a while without strain or expending much energy.
 Shift around and settle into a balanced position.
 
+</div>
+
+<div class="paragraph">
+
 Set your hands in your lap, palms up, with the non-dominant hand on top.
 If you are right- handed, your right hand is dominant. One way to
 position the hands is with corresponding fingers on top of each other
@@ -728,7 +1159,15 @@ hips, head forward and allowed to hang down, and eyes closed. Take a
 couple of deep breaths, and then let your breathing go naturally,
 breathing through the nose as much as possible.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Breath as Object
+
+<div class="paragraph">
 
 Now what do you do while sitting like this? Simply observe your breath.
 Worldwide, the breath is the most used object of meditation. There are
@@ -744,6 +1183,10 @@ when you breathe out. Notice how the air coming in is cooler than the
 air going out. Notice how sometimes you breathe primarily through one
 nostril.
 
+</div>
+
+<div class="paragraph">
+
 A second way to follow the breath is to watch the rising and falling of
 the diaphragm, the partition of muscles and sinews between your chest
 cavity and stomach cavity. Whereas shallow or frightened breathing
@@ -752,6 +1195,10 @@ the diaphragm. When the diaphragm rises, it forces air out of the lungs.
 When the diaphragm falls, air comes into the lungs and the stomach is
 pushed out. Thus, a third way to follow the breath is by watching the
 rising and falling of the abdomen itself.
+
+</div>
+
+<div class="paragraph">
 
 In the next few days practice sitting a number of times as described
 above, and try watching your breath in the three different ways. Find
@@ -762,12 +1209,24 @@ suggested that following the breath at the tip of the nose or at the
 diaphragm is best for quieting the mind **(Chapter 7)**, while watching
 the abdomen rise and fall is best for mindfulness **(Chapter 8)**.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Setting
+
+<div class="paragraph">
 
 Where and when you meditate is important. Have a special place, perhaps
 with a special Cushion or robe. Over time these props may help get you
 in the right “mood” for meditation. Free yourself from interruptions by
 taking the phone off the hook, putting out a “do not disturb” sign, etc.
+
+</div>
+
+<div class="paragraph">
 
 Find your best time of day to meditate, a time when you are relaxed, not
 tired, and not too hungry or too full. Experiment to find the time that
@@ -779,10 +1238,18 @@ one in a positive direction. At the end of the day, before one gets too
 tired, is another good time as it quiets the mind and allows for the
 day’s activities to be more processed and resolved.
 
+</div>
+
+<div class="paragraph">
+
 At first it is good if you meditate ten to fifteen minutes a day four or
 more days a week, then gradually build up to fifteen to thirty minutes a
 day at least six days a week. If you can meditate more than once a day,
 that is great.
+
+</div>
+
+<div class="paragraph">
 
 In fact, just a minute of being quiet and aware is very powerful. But
 most people, at least for a while, need to sit longer for such minutes
@@ -790,7 +1257,15 @@ occasionally to occur. Also, there will be times when your mood and
 circumstances encourage you to sit longer than usual, and there may be
 times you crave meditation simply to relax and re-center yourself.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### The Practice
+
+<div class="paragraph">
 
 The practice is very simple, although most meditators make it very
 difficult. All you do is sit down, relax, and watch your breath whenever
@@ -798,9 +1273,17 @@ you can. Now much of the time your mind will be running all over,
 perceiving, thinking, planning, and remembering. Only some of the time
 will you actually watch your breath. This is common and to be expected.
 
+</div>
+
+<div class="paragraph">
+
 However, you do not want to actively encourage this mental activity or
 choose to let yourself get lost in it. Rather, you want just to notice
 any mental activity and return to your breath whenever you can.
+
+</div>
+
+<div class="paragraph">
 
 Similarly, many sounds, body feelings, and other sensations will arise
 and attract your attention. Whenever this happens, simply notice the
@@ -808,13 +1291,25 @@ sensation and return to your breath. If you have to move, such as
 readjusting your legs or scratching your nose, simply move, notice all
 related sensations, and return to your breath.
 
+</div>
+
+<div class="paragraph">
+
 Various insights and new ideas may arise during meditation, such as
 solutions to problems or new perspectives on yourself or others.
 Whenever these arise, simply notice them and return to the breath.
 
+</div>
+
+<div class="paragraph">
+
 For a few people, some of the things that arise during meditation can be
 disturbing. If this happens to you, stop meditating until you consult a
 qualified meditation teacher and/or psychological Counselor.
+
+</div>
+
+<div class="paragraph">
 
 So the practice is very simple. You just sit and watch your breath; no
 matter what arises in your consciousness, you simply note it and return
@@ -824,6 +1319,10 @@ and natural. Just return to your breath when you can. Don’t worry about
 how often any of this happens. Just return to your breath whenever you
 can.
 
+</div>
+
+<div class="paragraph">
+
 When you return to the breath, it is a matter of gently and firmly
 bringing your attention back to the direct experience of breathing at
 the chosen point of focus, such as the tip of the nose. It is not
@@ -831,6 +1330,10 @@ thinking about breathing or thinking about where your attention was. It
 simply is returning to the experience of breathing. Don’t try to hold
 your attention on your breathing; that won’t work. Just bring your
 attention back when you can.
+
+</div>
+
+<div class="paragraph">
 
 An effective way to help focus your attention on your breathing is
 through the simple labeling of “in-out” or “rising-falling.” When
@@ -843,6 +1346,10 @@ mantra *“Budd-ho.”* In the first, you would say *So* (pronounced SOH) on
 the outbreath and *HAM* (pronounced HUM) on the inbreath. In the latter,
 you would say *Budd* on the inbreath and *Ho* on the outbreath. If in
 doubt, simply use “in-out” or “rising-falling.”
+
+</div>
+
+<div class="paragraph">
 
 So the practice consists of just sitting and noticing whatever
 sensations, thoughts, and images arise in consciousness, and then gently
@@ -862,11 +1369,23 @@ meditate, today or this week or until. . . . Don’t fall for any of these
 reasons; just do it. And if one of the reasons arises during meditation?
 Notice it and return to your breath.
 
+</div>
+
+<div class="paragraph">
+
 With practice, the distinction between when you are meditating and when
 you are not will gradually dissolve, and a lot of the initial inertia
 and struggling will be overcome.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Attitude
+
+<div class="paragraph">
 
 The attitude you have toward meditation is very important. How you
 approach it is as important as the form and practice you use. Meditation
@@ -874,9 +1393,17 @@ should be something you regularly do, like brushing your teeth. If you
 make it into a major task, if you make a big deal out of being a
 meditator, you may struggle with the practice. So, just do it.
 
+</div>
+
+<div class="paragraph">
+
 There are three significant and totally interrelated attitudes to
 cultivate: making friends with yourself, being in the here and now, and
 letting be.
+
+</div>
+
+<div class="paragraph">
 
 *Making friends with yourself*. During meditation, at least at first,
 you will have many thoughts and reactions about meditation and your
@@ -888,6 +1415,10 @@ may have some negative feelings toward yourself as a competent
 meditator. You may tell yourself why meditation is not for you, why this
 is not the best time in your life for you to be meditating, and so
 forth.
+
+</div>
+
+<div class="paragraph">
 
 This type of evaluation is counterproductive, for meditation involves
 developing a non-evaluative quality of mind. Also, you must begin and be
@@ -903,6 +1434,10 @@ continue the practice and cultivate unconditionally accepting yourself.
 You will want to alter your practice based on what you encounter and
 learn, but always accept yourself.
 
+</div>
+
+<div class="paragraph">
+
 *Being in the here and now*. In the early stages of meditation your mind
 will run all over, including going to plans and anticipations of the
 future and memories of the past. Meditation practice involves
@@ -911,6 +1446,10 @@ and now. With experience, you will see that your mind spends little time
 in the here and now and a lot of time in the imaginary past and future.
 During meditation let the past and future go (you can tend to them
 later). You want to cultivate the ability to simply be here and now.
+
+</div>
+
+<div class="paragraph">
 
 The purpose of singing is not to get to the end of the song. The purpose
 of dancing is not to get across the dance floor. Rather, the singing and
@@ -924,6 +1463,10 @@ meditation instant by instant. Regardless of what happened an instant
 before, each instant is an opportunity to pull into the here and now.
 Each instant is an opportunity to relax, center, and be more aware.
 
+</div>
+
+<div class="paragraph">
+
 *Letting be*. During meditation you want to let things be as they are
 and perceive them as clearly as possible. You want to simply be in the
 here and now, not involved in some struggle or quest. You want to be
@@ -936,6 +1479,10 @@ settle in the here and now and let things be as they are. This is true
 even for active meditation practices, such as the cultivation of
 concentration or mindfulness.
 
+</div>
+
+<div class="paragraph">
+
 Finally, it is important to note that these attitudes of meditation
 apply to many aspects of living and spiritual practice in general (see
 appendix). But they are often harder to notice and work with when one is
@@ -946,13 +1493,27 @@ Meditation practice is a microcosm for living in general. For example,
 learning to make friends with yourself during meditation will lead to
 your recognizing the importance of doing so at other times.
 
+</div>
+
+<div class="paragraph">
+
 Meditation is a very simple and very powerful practice for personal and
 transpersonal growth. But just reading about it is of little value. One
 must do it regularly for some time. The results can be dramatic, but
 they often come slowly and subtly. Patience and practice are highly
 rewarded.
 
+</div>
+
+</div>
+
+</div>
+
+<div class="sect2">
+
 ### Concentration
+
+<div class="paragraph">
 
 When most people are awake in the world, their minds are continually
 running—think, think, see, see, feel, feel, see, think, feel, hear,
@@ -963,6 +1524,10 @@ wonderful power tool that is usually running out of control. Since this
 is the “normal” state of affairs, most people are not aware that their
 minds are out of control or how advantageous it would be to have more
 control over this power tool.
+
+</div>
+
+<div class="paragraph">
 
 In Eastern analogies the mind is described as a drunken monkey, which
 runs wildly about in a room with six windows. Five windows correspond to
@@ -984,6 +1549,10 @@ people have trouble reading or studying as the monkey keeps running off.
 Do you periodically get to the bottom of a page and realize you don’t
 know what you have just “read”?
 
+</div>
+
+<div class="paragraph">
+
 Some people can’t leave their work at the office. When they are at home
 with the family, their minds keep returning to the business. Some people
 have trouble getting to sleep at night because their minds keep going to
@@ -991,11 +1560,19 @@ personal concerns, plans for the next day, and so forth. And some are
 readily thrown into depression because they can’t prevent their minds
 from thinking certain thoughts that lead to depression.
 
+</div>
+
+<div class="paragraph">
+
 These and many other problems are caused by the drunken monkey. The
 solution is to tame the monkey through developing concentration or
 one-pointedness. Concentration is the ability to hold the mind where we
 want without it running off. Even developing a small amount of
 concentration can be a big help.
+
+</div>
+
+<div class="paragraph">
 
 Meditation practices to develop concentration are also called
 tranquility meditations. For as we develop concentration, we also quiet
@@ -1003,7 +1580,19 @@ and relax the mind, which to some extent relaxes the body. Developing
 concentration is a good way to learn to relax, particularly if many of
 the sources of stress and anxiety are primarily mental.
 
-<img src="./images/7-concentration.jpg" alt="Concentration" style="width:60.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![Concentration](./images/7-concentration.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 From a transpersonal standpoint, there are even stronger reasons for
 developing concentration. If we are always lost in monkey business, then
@@ -1020,6 +1609,10 @@ you will not be able to know.” And mystics have continually said that
 the way to the mystical level requires emptying the mind of all
 thoughts, images, and perceptions.
 
+</div>
+
+<div class="paragraph">
+
 Now this does not involve impairing the useful functioning of the mind.
 (Did your drunken monkey tell you it would?) In fact, getting control of
 your mind lets you use it more effectively. You control what your mind
@@ -1030,17 +1623,29 @@ your consciousness is open to a broader and more fundamental reality.
 You are open to insights and knowledge different from the conceptual
 knowledge of the monkey.
 
+</div>
+
+<div class="paragraph">
+
 But this is all much further down the road. At the beginning, you want
 to develop concentration for its many personal benefits. As your
 concentration improves, it will aid many other aspects of your spiritual
 practice, and as your mind quiets, you will gradually have access to the
 transpersonal domain.
 
+</div>
+
+<div class="paragraph">
+
 For most people, meditation is the best place to start developing
 concentration. This is particularly true for people who lead a complex
 life, such as most Americans. The practices outlined here assume you
 have spent some time, at least a couple of weeks, doing meditation as
 described in the previous chapter.
+
+</div>
+
+<div class="paragraph">
 
 Each time the monkey runs off, gently and firmly reel it back in. In
 meditation whenever the mind leaves the breath (or other focus of
@@ -1057,6 +1662,10 @@ about how long you were lost or judge yourself. Just return to your
 breath. Forget about the past. Develop concentration here and now in
 each instant of meditation that you can.
 
+</div>
+
+<div class="paragraph">
+
 For a while your mind will be readily distracted, regardless of how you
 structure the meditation. If it is not one thing, it will be another
 until you have developed some degree of concentration. So, if one day
@@ -1065,11 +1674,19 @@ reduce these sounds. But don’t blame your lack of concentration on the
 sound . Even if you eliminate the sounds, something else will distract
 you. The problem is in the control of your mind.
 
+</div>
+
+<div class="paragraph">
+
 Sometimes a particular distraction, such as a sound or feeling, is so
 strong that it keeps pulling your mind to itself. In this situation,
 focus on the distraction and keep bringing your attention back to it.
 After the distraction has lost much of its power over your mind, return
 to your breath as the focus of attention.
+
+</div>
+
+<div class="paragraph">
 
 At first, most people have a lot of trouble concentrating and are
 surprised at how little control they have over their minds. Even after
@@ -1081,6 +1698,10 @@ will probably be subtle at first, but will grow stronger, and after a
 few weeks you may notice that you concentrate better on your reading
 and/or listen better when others are talking.
 
+</div>
+
+<div class="paragraph">
+
 As your concentration improves, you can further develop it in almost any
 situation. For example, when listening to others or to music, keep your
 attention on what you are hearing. Whenever you are aware your attention
@@ -1090,6 +1711,10 @@ seeing), exercising (focus on body sensations), bathing (smells and
 feelings), eating (tastes and smells), praying (absorption in devotion
 and communion), or almost any other activity.
 
+</div>
+
+<div class="paragraph">
+
 Concentration helps brings you more into the here and now and allows you
 to stop and smell the flowers, to experience the beauty of reality in
 the midst of monkey business. In a popular story told by the Buddha, a
@@ -1098,7 +1723,11 @@ comes to a precipice, grabs a vine, and hangs over the edge. Hanging
 there, he sees the tiger above him, and far below a second tiger
 waiting. Two mice, one white and one black, begin to gnaw on the vine.
 Seeing a strawberry nearby, the man reaches over with one hand and
-plucks it. How sweet it tastes!
+plucks it. How sweet it tastes\!
+
+</div>
+
+<div class="paragraph">
 
 The Buddhist/yogic literature describes eight jhanas, levels of samadhi
 (concentration and absorption) that can be achieved by advanced
@@ -1112,12 +1741,24 @@ perception of form and involve consciousness of infinite space,
 objectless infinite consciousness, awareness of nothing-ness, and
 finally, neither- perception-nor-nonperception.
 
+</div>
+
+<div class="paragraph">
+
 Such meditative levels need not concern us now, nor should they be taken
 as necessary for optimal spiritual work. Rather, seek to gradually
 increase your concentration and discover how it aids your personal and
 transpersonal growth.
 
+</div>
+
+</div>
+
+<div class="sect2">
+
 ### Mindfulness
+
+<div class="paragraph">
 
 Everyone has some degree of awareness, a subjective conscious experience
 of noticing. Not only do the eyes and the brain process visual
@@ -1128,6 +1769,10 @@ are often confused. But it is possible to develop this awareness over
 and above what you are aware of. You can increase the range of your
 consciousness, developing an intentional awareness that Buddhists call
 “mindfulness.”
+
+</div>
+
+<div class="paragraph">
 
 Developing mindfulness involves cultivating awareness of whatever arises
 in consciousness. Mindfulness is sometimes called “bare attention”
@@ -1141,7 +1786,19 @@ open, clear, calm, sane awareness that objectively notices whatever
 arises in consciousness without elaborating on it, reacting to it,
 identifying with it, or getting lost in it.
 
-<img src="./images/8-mindfulness.jpg" alt="Mindfulness" style="width:60.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![Mindfulness](./images/8-mindfulness.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 In intermediate stages of developing mindfulness, one moves into the
 “witness” space. From this vantage point, one observes the contents of
@@ -1150,12 +1807,20 @@ into them. Here, one’s sense of self is no longer identified with the
 contents of the mind. This is very liberating and opens the door to the
 transpersonal.
 
+</div>
+
+<div class="paragraph">
+
 Many people at first confuse mindfulness with thinking. Thus, a person
 may have a thought and then think about having the thought. But this is
 not mindfulness; it is just more thinking. Mindfulness is the awareness
 of the thought and the awareness of the thinking about the thought. But
 it is not the thinking itself. It takes a while for many people to
 distinguish thinking and mindfulness.
+
+</div>
+
+<div class="paragraph">
 
 Developing mindfulness is helpful at all four levels of being. For
 example, many people are out of touch with their bodies and do not
@@ -1168,6 +1833,10 @@ mindful of our behavior, we can more readily produce the changes we want
 and become more effective personally and socially. Developing
 mindfulness decreases accidents, forgetting, and the need for
 doublechecking.
+
+</div>
+
+<div class="paragraph">
 
 So developing mindfulness includes expanding our range of awareness. As
 we increase mindfulness, we can become aware of our behavior earlier in
@@ -1190,6 +1859,10 @@ meditating. Also, for many people, it is best to have developed a
 certain degree of concentration before emphasizing mindfulness during
 meditation.
 
+</div>
+
+<div class="paragraph">
+
 Here is what to do. Sit in meditation (or lie down if that is your
 form). Put your attention on your breath and quiet your mind with your
 concentration practice. Then simply let your mind go where it will and
@@ -1207,12 +1880,20 @@ lost in the specific contents of consciousness. Gradually encourage the
 mindfulness, accepting yourself where you are. Like all of our
 meditation practices, this is slow and subtle, yet very powerful.
 
+</div>
+
+<div class="paragraph">
+
 If during meditation you need to move your legs, scratch, swallow,
 cough, or anything else, then do it mindfully. Do it slowly if possible,
 noticing all intentions, sensations of movement, and other feelings.
 Notice the rising and falling of your abdomen during breathing. This is
 often an appropriate point at which to follow the breathing during
 mindfulness meditation.
+
+</div>
+
+<div class="paragraph">
 
 In the same way that saying “in-out” or “rising-falling” may help you to
 follow your breath, so other labeling may help develop mindfulness. If
@@ -1223,6 +1904,10 @@ yourself, not out loud. Eventually, this labeling becomes very subtle, a
 whisper at the edge of your consciousness. The labeling is an aid to
 active noticing, a tool to encourage mindfulness.
 
+</div>
+
+<div class="paragraph">
+
 At first there are only six labels: hearing, seeing, feeling, smelling,
 tasting, and thinking. “Thinking” includes mental activity such as
 remembering, planning, evaluating, worrying, and so forth. These six
@@ -1230,12 +1915,20 @@ labels correspond to the six windows of the drunken monkey’s room. Thus,
 the labeling during part of a meditation practice might go “thinking,
 thinking, hearing, thinking, feeling, feeling, feeling, thinking,. . .”
 
+</div>
+
+<div class="paragraph">
+
 As you get more proficient at this use of labels, you can add others
 such as “moving,” “swallowing,” “bending,” and “scratching.” You can use
 labels for types of thinking, like “planning,” “remembering,” “judging,”
 and “wanting.” Eventually start to notice “intending.” Add those labels
 that are useful to you. But don’t get caught up in the process of
 labeling; this will lead to thinking, not mindfulness.
+
+</div>
+
+<div class="paragraph">
 
 In this chapter and the previous one, we have seen two major components
 of meditation—concentration and mindfulness. In concentration meditation
@@ -1247,6 +1940,10 @@ contain both components; it is a matter of emphasis. In both forms we
 want to notice what catches our attention (mindfulness) and develop
 moment-to-moment one-pointedness (concentration).
 
+</div>
+
+<div class="paragraph">
+
 With experience you will learn how to find the optimal balance of
 concentration and mindfulness for any particular meditation session.
 Sometimes your mind will be scattered and upset and you will want to
@@ -1254,6 +1951,10 @@ emphasize concentration; sometimes you will be more tranquil and will
 want to emphasize mindfulness. But you will always want to be mindful of
 both components and to develop both to some extent, even when
 emphasizing one over the other.
+
+</div>
+
+<div class="paragraph">
 
 One thing is important to keep in mind at all times in meditation: no
 matter what arises in consciousness, treat it as a distraction and just
@@ -1264,6 +1965,10 @@ interest or value to you, perhaps even changing your life in an
 important way. This is fine after meditation. But during meditation,
 treat everything that arises as just something to notice and leave.
 Don’t let the drunken monkey disrupt your meditation.
+
+</div>
+
+<div class="paragraph">
 
 After some experience with sitting meditation, you may wish to add
 walking meditation. For this you need a length of space, about ten to
@@ -1280,6 +1985,10 @@ sensations of walking and related mental events. When slowly turning
 around at the end of the path, one can be mindful of “stopping,”
 “turning,” “standing,” and “intending.”
 
+</div>
+
+<div class="paragraph">
+
 Almost everything said earlier about meditation in general applies to
 walking meditation. For example, you should start doing it for about ten
 minutes and gradually build up. And the attitude toward meditation is
@@ -1289,6 +1998,10 @@ walking meditation. In Buddhist meditation intensives where people
 meditate for many hours a day, the practice consists of alternating
 between sitting and walking.
 
+</div>
+
+<div class="paragraph">
+
 After you have developed some degree of mindfulness during meditation,
 you can start cultivating mindfulness while doing almost anything,
 including gardening, taking out the garbage, or talking. What you do is
@@ -1297,6 +2010,10 @@ slowly if practical), and notice in detail all the various sensations
 and thoughts involved. Try to experience all sensations as if they were
 totally new to you, as if you had never done the activity before, or as
 if you had just been given vision or hearing.
+
+</div>
+
+<div class="paragraph">
 
 For example, listen to music as if you had never heard anything before.
 Exactly what do you experience? Where do you experience it? Eat
@@ -1311,12 +2028,20 @@ detail the wide range of feelings, smells, Sights, and sounds. Try
 mindfully doing many different things, such as looking at a friend,
 seeing yourself in a mirror, reading, visualizing, and thinking.
 
+</div>
+
+<div class="paragraph">
+
 Eventually you will come to realize that anything you do is an
 opportunity to cultivate more mindfulness. A Zen story tells of the
 student who visited his master on a rainy day, leaving his shoes and
 umbrella in the vestibule. The master asked him whether his umbrella was
 to the left or right of the shoes. Not knowing, the student realized he
 had much more work to do in developing continual mindfulness.
+
+</div>
+
+<div class="paragraph">
 
 Try to spend parts of every day increasing mindfulness. After you have
 been doing this for a while, periodically set aside a day in which you
@@ -1326,12 +2051,20 @@ doing the task and enjoy the activity itself, regardless of what it
 accomplishes. Try to do everything slowly, precisely, reverently, and
 mindfully.
 
+</div>
+
+<div class="paragraph">
+
 Whatever we do can be done more mindfully and thus is usually done
 better. The Buddha considered the development of mindfulness of prime
 importance, often more important than anything else. He described four
 foundations of mindfulness, four domains where mindfulness can be
 developed. These are mindfulness of body, feelings, mind, and mental
 factors.
+
+</div>
+
+<div class="paragraph">
 
 Mindfulness of body includes being aware of position, such as when
 sitting or standing, and of movement, as in the walking meditation. Also
@@ -1342,6 +2075,10 @@ cycle, including experiences of ovulation and the effects of different
 aspects of the cycle, such as changes of energy level, mood, and whether
 one is inner or outer directed.
 
+</div>
+
+<div class="paragraph">
+
 Mindfulness of feelings involves developing greater awareness of
 stresses, pains, and degree of relaxation. It involves noticing that we
 tend to classify all feelings immediately as pleasant, unpleasant, or
@@ -1349,9 +2086,17 @@ neutral. It involves noticing later effects of the feeling, such as
 movement toward or away, and tendencies toward specific emotions, such
 as anger or sexual arousal.
 
+</div>
+
+<div class="paragraph">
+
 Mindfulness of mind includes noticing how concentrated and mindful the
 mind is. It involves becoming aware of how affected the mind is by
 passion, hatred, confusion, and distraction.
+
+</div>
+
+<div class="paragraph">
 
 Mindfulness of mental factors involves developing awareness of those
 aspects of the mind that aid or impair spiritual awakening, such as many
@@ -1359,6 +2104,10 @@ of the processes discussed in this book. The Buddha included many things
 in this foundation of mindfulness. One example is mindfulness of the
 five hindrances—sense desire (lust), hatred or anger, sloth and torpor,
 restlessness and worry, and doubt.
+
+</div>
+
+<div class="paragraph">
 
 Most meditation traditions emphasize concentration/absorption over
 mindfulness. Buddhism’s great contribution is the emphasis given to
@@ -1372,7 +2121,15 @@ impermanence, suffering, and egolessness). Beyond this, the practices
 lead to the ultimate spiritual awakening, including various levels of
 enlightenment.
 
+</div>
+
+</div>
+
+<div class="sect2">
+
 ### Opening the Heart
+
+<div class="paragraph">
 
 Opening the heart is based on opening oneself to people and experiences
 and accepting reality as it is. It involves gradually transcending the
@@ -1388,10 +2145,18 @@ effective decisions when it is less impaired by emotion-backed
 attachments, and when it is less thrown off by emotional upset caused by
 differences between reality and models of how reality “should” be.
 
+</div>
+
+<div class="paragraph">
+
 Meditation is a time to practice opening the heart. You need only to be
 open to perceiving reality as it is in the moment-to-moment here and
 flow. When meditating, one wants to develop an openness to the
 experiences and insights of one’s own being.
+
+</div>
+
+<div class="paragraph">
 
 Opening the heart also involves opening to experiencing and accepting
 the whole world and all people. It involves opening your whole being to
@@ -1399,6 +2164,10 @@ what you perceive and how you respond to it. It is based on a relaxed
 receptivity to other people and situations. The heart opens with
 unconditional acceptance, even while you are doing things to alter
 reality.
+
+</div>
+
+<div class="paragraph">
 
 Opening the heart involves letting other people into your heart and
 unconditionally accepting them. It often takes great courage to let
@@ -1415,6 +2184,10 @@ behaviors and trying to change them. It is important for children and
 others to know that they are continually loved, even when there are
 conflicts.
 
+</div>
+
+<div class="paragraph">
+
 As a general rule, we are all doing the best we can, given our level of
 understanding, values, experiences, skills, and so forth. Everyone is to
 be accepted and valued beyond the melodrama of the game or dream. Even
@@ -1423,7 +2196,19 @@ often out of fear or anxiety. So we try to have compassion for the
 person, not get pulled into a fight, and still do the best thing to
 encourage more appropriate behavior.
 
-<img src="./images/9-opening-the-heart.jpg" alt="Opening the Heart" style="width:40.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![Opening the Heart](./images/9-opening-the-heart.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 The early Greeks distinguished three different types of love: *eros*,
 *philia*, and *agape*. Eros is love primarily based on desire. Philia is
@@ -1440,6 +2225,10 @@ and power. Eros is often caught in the “more is never enough trap,”
 inviting a never-ending quest for ever more sexual experiences,
 sensations, conquests, etc.
 
+</div>
+
+<div class="paragraph">
+
 Opening the heart involves transcending all this and moving to the
 fourth center of consciousness, the heart chakra. The heart chakra is
 the transition between the lower levels of humanness and the upper
@@ -1447,9 +2236,17 @@ transpersonal levels. The need for love is fundamental and is not
 satisfied by the stuff of attachments (sex, power, drugs, money, etc.).
 It is satisfied only by opening the heart.
 
+</div>
+
+<div class="paragraph">
+
 Transpersonal practice involves assuming and acting from the position of
 philia, brotherly love, and moving toward agape, selfless love. Selfless
 love implies getting beyond the self.
+
+</div>
+
+<div class="paragraph">
 
 Learning to love another, in the broadest sense of the word, includes
 developing unconditional acceptance, unconditional positive regard,
@@ -1461,10 +2258,18 @@ unnecessary heaviness, complexities, expectations, or psychological
 interpretations. Relax into the relationship and enjoy it and learn from
 it.
 
+</div>
+
+<div class="paragraph">
+
 Close relationships usually involve sharing of thoughts, feelings,
 concerns, goals, insights, touch, conscious spaces, and spiritual
 movement. Thomas Merton suggested that “infinite sharing is the law of
 God’s inner life.”
+
+</div>
+
+<div class="paragraph">
 
 A common trap is confusing the form of a person’s behavior with the
 essence of how loving the person is. A person who becomes more loving
@@ -1472,6 +2277,10 @@ does not necessarily act in any particular way. Similarly, just because
 a person hugs more or uses the word “love” more often does not mean the
 person’s heart is more open. Of course, as a person learns to love more,
 it will influence behavior, but not necessarily in stereotypical ways.
+
+</div>
+
+<div class="paragraph">
 
 To open your heart maximally and learn to love others unconditionally,
 you must also learn to love yourself unconditionally. For many people
@@ -1485,6 +2294,10 @@ unconditionally love and accept yourself as you are. You must be patient
 with yourself and perhaps forgive yourself. If you argue that it is
 difficult or impossible to love yourself, then simply love yourself as a
 person who has trouble loving himself. There is no way out.
+
+</div>
+
+<div class="paragraph">
 
 In Buddhism a popular meditation for opening the heart is the loving
 kindness (metta) meditation. To do this, assume your meditation form and
@@ -1504,6 +2317,10 @@ not like. You can learn to love them even though you don’t like many of
 their behaviors. Learning to love one’s enemies is a goal of true
 Christian practices.
 
+</div>
+
+<div class="paragraph">
+
 By definition the transpersonal domain is entered by getting beyond
 (trans) the self (the personal level). One practice to facilitate this
 is selfless service, giving help to others merely for the sake of
@@ -1517,6 +2334,10 @@ selflessly. At first it may seem that love requires preferring the
 happiness and welfare of the loved one over one’s own. But eventually
 one realizes that at another level there is no difference.
 
+</div>
+
+<div class="paragraph">
+
 In the spiritual awakening of the world, as reflected in religion, the
 period 550-450 B.C. was very significant. In India there were Mahavira,
 the reformer of the Jain religion, and Siddhartha Gautama, the father of
@@ -1525,6 +2346,10 @@ and Lao Tsu, the latter the father of Taoism. The religion of Yahweh was
 coming together as the world religion of Judaism. It was the beginning
 of the Golden Age of Greece, which would later strongly influence
 Western religious thought.
+
+</div>
+
+<div class="paragraph">
 
 Then came the opening of the world’s heart, the emphasis on love in
 religion. The next 500 years brought the rise, spread, and culmination
@@ -1551,6 +2376,10 @@ committed in the name of Christianity (e.g., the Inquisition, witch
 hunts, aspects of the Crusades, religious intolerance). By contrast, no
 major war has ever been fought in the name of Buddhism.
 
+</div>
+
+<div class="paragraph">
+
 Bhatki yoga, Mahayana Buddhism, and Christianity, in their purest forms,
 all encourage the opening of the heart through selfless service,
 unconditional love, and devotion. Many people have a need for some type
@@ -1565,12 +2394,24 @@ to love that goes beyond forms. A powerful bhakti teacher is one who
 fully realizes in what way she or he is one with God and in what ways
 not.
 
+</div>
+
+<div class="paragraph">
+
 Opening the heart is a fundamental and critical part of the universal
 spiritual path. It can be cultivated within a religious context, but it
 need not be. Opening the heart will increase happiness, improve
 interpersonal relations, and lead to transpersonal domains.
 
+</div>
+
+</div>
+
+<div class="sect2">
+
 ### Reducing Attachments
+
+<div class="paragraph">
 
 There is a strong tendency of the mind to grasp at and cling to certain
 objects of consciousness. Of the myriad of perceptions, images, and
@@ -1579,12 +2420,20 @@ the expense of others. Thus, the mind will become attached to certain
 sensations, rituals, expectancies, images of the self, and models of
 reality.
 
+</div>
+
+<div class="paragraph">
+
 These attachments are limiting forces, biases in consciousness, and
 barriers to personal and transpersonal growth. When the mind clings to
 certain perceptions, it misses and/or distorts others. When the mind is
 attached to a particular image of self, it distorts information which
 doesn’t fit the image, it restricts changes in the self, and it impairs
 getting beyond the self.
+
+</div>
+
+<div class="paragraph">
 
 An attachment often has an emotional component. Ken Keyes, a currently
 popular teacher, has defined an attachment (he uses the word
@@ -1597,7 +2446,19 @@ get upset because reality did not match my model of how reality was
 supposed to be. Thus, reducing attachments is a way to gradually
 increase happiness and peace of mind.
 
-<img src="./images/10-reducing-attachments.jpg" alt="Reducing Attachments" style="width:60.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![Reducing Attachments](./images/10-reducing-attachments.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 In this chapter is a survey of basic knowledge about causes of
 attachments, some types of attachments, and ways to reduce attachments.
@@ -1607,7 +2468,13 @@ relate to personal and interpersonal problems. Other attachments, to be
 discovered later, are very subtle and deal with one’s sense of self and
 how one constructs one’s “reality.”
 
+</div>
+
+<div class="sect3">
+
 #### Four Noble Truths
+
+<div class="paragraph">
 
 Fundamental to Buddhist understanding and practice are the Four Noble
 Truths, described by the Buddha in his first sermon after his
@@ -1621,6 +2488,10 @@ reach, and the conviction that one can’t get free. Dukkha is often part
 of the motivation that drives people to religion, spirituality, science,
 psychology, and other possible “cures.”
 
+</div>
+
+<div class="paragraph">
+
 The second Noble Truth is that the cause of dukkha is craving. It is the
 clinging of the mind, the forming of attachments, that causes suffering,
 not the object of craving itself. For example, money in itself is
@@ -1632,6 +2503,10 @@ be too concerned with getting more money (more is never enough), be
 anxious about losing it, seek happiness through money, and overlook many
 more important things.
 
+</div>
+
+<div class="paragraph">
+
 One reason that craving causes dukkha is that everything is impermanent,
 everything changes. If you become attached to your youth, a favorite
 vacation spot, a specific relationship, the nature of your work place,
@@ -1641,12 +2516,20 @@ as you want them to be. The attachments make you less flexible, decrease
 your happiness, and make you less effective in dealing with and
 influencing the changes.
 
+</div>
+
+<div class="paragraph">
+
 If reality does not match your model or expectation of how it should be,
 then this can be good information and motivate you to accept reality
 unconditionally and, perhaps, to try to alter reality in a way you see
 as desirable. But if you cling to your model or expectation and let the
 discrepancy with reality upset you, then you are suffering unnecessarily
 and impairing your effectiveness.
+
+</div>
+
+<div class="paragraph">
 
 The third Noble Truth is that dukkha ends when craving ceases. As one
 gets free from attachments, suffering decreases. The totally free person
@@ -1659,6 +2542,10 @@ water. The person free of dukkha is not apathetic, unmotivated, or
 non-compassionate. The opposite is true. But the person free of dukkha
 has awakened from the dream.
 
+</div>
+
+<div class="paragraph">
+
 The fourth Noble Truth is that the way to end craving and dukkha is the
 Eight-fold Path (see appendix). This includes understanding the
 psycho-spiritual problem of craving, seeing how the teachings relate to
@@ -1667,13 +2554,25 @@ requires ordering one’s life along moral and practical guidelines and
 developing concentration and mindfulness. It involves consciously doing
 things that are harmonious and in balance.
 
+</div>
+
+<div class="paragraph">
+
 In Buddhism there are four kinds of clinging: to sensual attachments, to
 views and opinions, to rites and rituals, and to an idea of selfhood.
 There are three kinds of desires: sensual desire, desire for becoming,
 and desire not to become (not be this or that). And there are three
 defilements of the mind: hatred, greed, and lust.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Chakras
+
+<div class="paragraph">
 
 In yogic philosophy it is suggested that there are seven centers of
 consciousness called chakras. The word “chakra” means “wheel” in
@@ -1687,6 +2586,10 @@ attachments associated with the chakras. The arising of kundalini is
 often a byproduct of various spiritual practices. But some practices
 (e.g., siddha yoga) are aimed at directly influencing the kundalini.
 
+</div>
+
+<div class="paragraph">
+
 According to contemporary interpretation, each chakra corresponds to a
 particular category of attachments. The anal chakra corresponds to
 security attachments. Here we find fear, worry, and paranoia about such
@@ -1699,6 +2602,10 @@ The navel chakra corresponds to power attachments, including issues of
 will, domination and submission, socio-political influence, prestige,
 pride, and energy.
 
+</div>
+
+<div class="paragraph">
+
 Most people’s attachments fall into the three categories of security,
 sensation, and power. Therefore, the above description is often helpful
 when you are learning to notice attachments. When you become aware of
@@ -1706,6 +2613,10 @@ the results of an attachment, described below, or the dynamics of the
 attachment itself, then think about how the attachment is based on
 security, sensation, and/or power. This will help you notice other
 attachments and the interrelationships among them.
+
+</div>
+
+<div class="paragraph">
 
 A common trap at this level is the “more is never enough” trap. A person
 is driven to getting more and more security, sensation, or power. If one
@@ -1717,12 +2628,20 @@ realizing enough is enough. It involves realizing that happiness and
 spiritual progress are not achieved by questing for more. They are
 achieved by letting go of attachments.
 
+</div>
+
+<div class="paragraph">
+
 The heart chakra is the transition from the three lower level chakras,
 which are strongly tied to the physical world, to the three higher level
 chakras, which are more spiritual. The heart chakra is based on opening
 the heart, including the development of nurturance, empathy, compassion,
 and unconditional love. Attachments at this level block the opening of
 the heart and may lead to irritation or anger.
+
+</div>
+
+<div class="paragraph">
 
 The throat chakra corresponds to creativity, trust, receptivity, and the
 ability to receive nurturance and grace from others and from “above.”
@@ -1734,16 +2653,32 @@ consciousness. And the crown chakra corresponds to enlightenment, the
 highest state. This is often represented in paintings by a halo over the
 head.
 
+</div>
+
+<div class="paragraph">
+
 Yoga as a discipline is intended to lead the practitioner through the
 lower chakras until the ego is transcended and union with the
 fundamental ground is achieved. The word “yoga” means “union” or “yoke”
 to this fundamental ground, pure consciousness, Godhead.
 
+</div>
+
+<div class="paragraph">
+
 In yoga it is suggested there are five causes of suffering (klesas):
 lack of awareness of reality, sense of egoism, attraction to persons or
 objects, repulsion from persons or objects, and strong desire for life.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Effects of Attachments
+
+<div class="paragraph">
 
 At first, the easiest way to know the presence of an attachment is by
 its effects. These effects might include undesired emotions, distorted
@@ -1753,6 +2688,10 @@ sensation, or power. Then you gradually cultivate mindfulness so that it
 occurs earlier and earlier until you are aware of the dynamic processes
 of the attachments while they are happening. But first let us consider
 the effects.
+
+</div>
+
+<div class="paragraph">
 
 When a craving is not satisfied, it often causes an unwanted emotion
 such as anxiety, anger, or jealousy. This often arises when a model or
@@ -1780,6 +2719,10 @@ politician obsessed with personal power will see the world in terms of
 what increases or threatens that power. Blinded by attachments, the
 politician overlooks and distorts much that is more important.
 
+</div>
+
+<div class="paragraph">
+
 Dick worked for the police department and saw a lot of crime. This led
 to attachments regarding the security of his home and family. One day a
 carpenter came to Dick’s home to give him an estimate for some work to
@@ -1793,6 +2736,10 @@ attachments caused him to see threats which probably did not exist. This
 upset him, caused him weeks of worry, and made it much more difficult to
 find a carpenter.
 
+</div>
+
+<div class="paragraph">
+
 There is an old story about a person who approaches the gatekeeper of a
 town and asks what type of people live there. The gatekeeper in turn
 asks, “What type of people live in the town you came from?” The person
@@ -1803,6 +2750,10 @@ people live in the town you came from?” The traveler replies, “Pleasant,
 helpful, and friendly.” The gatekeeper says, “You will find the same
 here.”
 
+</div>
+
+<div class="paragraph">
+
 Finally, attachments may impair thinking. Students anxious about their
 performance on a test don’t think as clearly as they could. Those who
 are convinced they cannot understand machines, such as automobiles or
@@ -1812,13 +2763,25 @@ machine; they will not apply problem-solving skills they would apply in
 other situations. Attachments impair creativity and tend to lead to set
 mental habits and quick “solutions.”
 
+</div>
+
+<div class="paragraph">
+
 Numerous Western psychologies have dealt with these types of effects of
 attachments. Examples include psychodynamic defenses, cognitive
 dissonance theory, and perceptual defense and vigilance. But
 understanding the effects in terms of attachments is more basic and
 general.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Getting Free
+
+<div class="paragraph">
 
 The first step in freeing yourself from attachments is having the right
 attitude toward them. If you don’t like them and wish you didn’t have
@@ -1833,11 +2796,19 @@ thoughts, feelings, and actions. Cultivate openness, clarity, and
 unconditional acceptance of attachments. Have a good time doing all of
 this.
 
+</div>
+
+<div class="paragraph">
+
 With the right attitude toward attachments, you can practice developing
 greater and greater awareness of them. Notice common traps such as “more
 is never enough” or “reality versus model/expectancy.” Use
 classification schemes, such as the chakra system, to help you label and
 explore attachments.
+
+</div>
+
+<div class="paragraph">
 
 Another common problem to look for is the tendency to multiply emotions.
 A person who gets angry at someone may get angry at being “made” angry,
@@ -1849,11 +2820,19 @@ struggling with the fact that they are struggling. In all these cases,
 you will usually want first to stop the multiplying effect and then to
 deal with the initial emotion or sensation.
 
+</div>
+
+<div class="paragraph">
+
 Quieting your mind through meditation can help you see attachments and
 their effects more clearly. It can also help you step back and
 dissociate from the attachments, making it easier to work with them.
 Developing mindfulness of attachments and their effects increases your
 awareness of attachments and increases your mindfulness.
+
+</div>
+
+<div class="paragraph">
 
 Once you notice an attachment, you have the chance to get free from it.
 Being free does not mean being apathetic. A common misconception is that
@@ -1867,6 +2846,10 @@ destructive. The free person has unattached motives and preferences.
 Thus the major work, according to Ken Keyes, is to upgrade attachments
 to preferences.
 
+</div>
+
+<div class="paragraph">
+
 Some people who try to get free adopt phony states of happiness, love,
 or acceptance. Phoniness seldom works in the long run. We must see and
 accept attachments as they are and do something about them. It is not
@@ -1874,6 +2857,10 @@ helpful to pretend the attachments aren’t there. It is destructive to
 pretend you are free when you aren’t. It is limiting to think you will
 optimize love or happiness by acting loving or happy in a superficial
 way.
+
+</div>
+
+<div class="paragraph">
 
 When you become aware of an attachment, what should you do? The simple
 universal answer is Just to let go of the attachment. A popular Eastern
@@ -1883,6 +2870,10 @@ small to get the food back out. When the monkey grabs the food, its paw
 is trapped. Now to get free all the monkey has to do is let go; but it
 won’t. All people have to do to get free from an attachment is let go;
 but they usually don’t.
+
+</div>
+
+<div class="paragraph">
 
 A more practical answer is that when you become aware of an attachment,
 you should actively do something to stop the undesired chain of
@@ -1898,6 +2889,10 @@ some people may be able just to let go of such an attachment, it is
 usually more effective to engage a comprehensive program of change
 geared to the particular addiction.
 
+</div>
+
+<div class="paragraph">
+
 When you notice an attachment, you need to take an action that is
 appropriate for that attachment. Examples are quieting the mind,
 stopping unwanted thoughts, saying affirmations, imaging specific
@@ -1905,6 +2900,10 @@ scenes, deep breathing, relaxing the body, tightening incompatible
 muscles, and leaving the situation. For some attachments you may wish to
 devise a systematic treatment program, while other attachments can be
 taken on as they arise.
+
+</div>
+
+<div class="paragraph">
 
 At times you will be fairly free of gross attachments. During these free
 times develop mindfulness of what it is like to be free. Sometimes gross
@@ -1917,12 +2916,20 @@ effects. Be mindful of mental justifications for undesired behaviors.
 Don’t multiply emotions. And don’t let being a robot now justify being a
 robot later.
 
+</div>
+
+<div class="paragraph">
+
 Important working times are those between being free and being a robot.
 These are the times you can be lazy and let yourself slide into robot.
 Or you can be a warrior, take responsibility for yourself, apply your
 change techniques, and move into being free. The more you take advantage
 of these working times, the more the free times will expand and the
 robot times will decrease.
+
+</div>
+
+<div class="paragraph">
 
 Get to know your attachments. Play with them. Develop systematic ways to
 gradually reduce them. Don’t be impatient. Have a good sense of humor
@@ -1932,11 +2939,19 @@ profitable ways. Tantric practices, particularly within Tibetan
 Buddhism, deal with converting energy from attachments into a better
 form.
 
+</div>
+
+<div class="paragraph">
+
 Remember when working with attachments that you are not your behaviors,
 and that includes the behaviors of the mind, such as thoughts and
 imaginings. Don’t identify with your behaviors. See them as accurately
 as you can and accept them unconditionally. Make friends with yourself.
 Then change those behaviors that need changing.
+
+</div>
+
+<div class="paragraph">
 
 The more you get free from attachments, the subtler the attachments get.
 At first the most obvious and significant attachments are security,
@@ -1951,72 +2966,109 @@ primary change approach. The more one moves in a spiritual or
 transpersonal direction, the more the spiritual practices have an
 immediate practical application.
 
+</div>
+
+<div class="paragraph">
+
 One of the last attachments to go is the attachment to being free from
 attachments. A yogic analogy is of a fire burning up attachments. You
 use a stick to stir up the fire and keep it going. This stick is the
 desire to be free. When the fire nears the end, you throw in the stick
 to burn.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Practice Exercise
+
+<div class="paragraph">
 
 Here is a list of attachments I have collected from a group of students.
 As an exercise, read each attachment and think about how it functions
 and what effects it produces. How would you work with such an
 attachment? What attachment of yours is similar in some way?
 
--   I get irritated when others are late, but not when I am late. When I
+</div>
+
+<div class="ulist">
+
+  - I get irritated when others are late, but not when I am late. When I
     am late, I know good reasons for it.
 
--   If I have an idea for the perfect music for a situation and others
+  - If I have an idea for the perfect music for a situation and others
     disagree, it upsets me.
 
--   I am caught up in self-importance. If I do something foolish in
+  - I am caught up in self-importance. If I do something foolish in
     public, I think people pay more attention or care more than they do.
 
--   I interrupt others when they are studying, but I don’t like to be
+  - I interrupt others when they are studying, but I don’t like to be
     interrupted myself.
 
--   I want others to agree with me, to assume what I assume.
+  - I want others to agree with me, to assume what I assume.
 
--   I feel like less of a person if I make a mistake.
+  - I feel like less of a person if I make a mistake.
 
--   I worry before I have any reason to worry: “But what if. . . .“
+  - I worry before I have any reason to worry: “But what if. . . .“
 
--   I often use the strategy of anticipating the worst so I won’t be
+  - I often use the strategy of anticipating the worst so I won’t be
     disappointed.
 
--   I can’t gracefully accept a compliment. I can’t believe it or at
+  - I can’t gracefully accept a compliment. I can’t believe it or at
     least I respond as if I don’t.
 
--   I degrade people with whom I feel in competition.
+  - I degrade people with whom I feel in competition.
 
--   If I think a person is upset about something I did, then I get mad
+  - If I think a person is upset about something I did, then I get mad
     at him or her.
 
--   I don’t properly listen to a person who is too fat. A person’s
+  - I don’t properly listen to a person who is too fat. A person’s
     appearance affects his or her credibility.
 
--   I am holding onto an old gratifying relationship.
+  - I am holding onto an old gratifying relationship.
 
--   I have inertia about new relationships or redefining old
+  - I have inertia about new relationships or redefining old
     relationships which may not be as gratifying.
 
--   I often need to explain myself.
+  - I often need to explain myself.
 
--   When talking with my girlfriend on the phone, I get defensive if she
+  - When talking with my girlfriend on the phone, I get defensive if she
     says “I have to go now” before I do.
 
--   Bad drivers are frustrating to me, particularly slow drivers in the
+  - Bad drivers are frustrating to me, particularly slow drivers in the
     wrong lane.
+
+</div>
+
+<div class="paragraph">
 
 Every day is filled with attachments that you can practice being mindful
 of and work at reducing. Reducing attachments will improve your daily
 living and free you to move toward higher levels of being.
 
-Overall Practice
-----------------
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="sect1">
+
+## Overall Practice
+
+<div class="sectionbody">
+
+<div class="sect2">
 
 ### Cleaning House
+
+<div class="paragraph">
 
 As is made clear in all the major spiritual disciplines, for us to make
 optimal progress at the personal level and toward the transpersonal, we
@@ -2028,6 +3080,10 @@ are considerable grace and “miracles” in the game, we will continually
 get thrown back on unresolved issues and problems. Transpersonal
 practices may help us see and approach the problems better, but the
 problems still need to be dealt with at their level.
+
+</div>
+
+<div class="paragraph">
 
 In terms of our “levels of being” **(Chapter 3)**, we need to resolve
 issues at the biological level before we can optimally work on the
@@ -2042,6 +3098,10 @@ Finally, we must deal with matters at the personal level before we can
 most effectively move toward the transpersonal. We must resolve problems
 related to self-concept, self-esteem, and fragmentation of the self.
 
+</div>
+
+<div class="paragraph">
+
 The transpersonal is always present and available and is not
 “achievable” by changes at the biological, behavioral, and personal
 levels. However, by removing problems at these three levels, we clear
@@ -2050,6 +3110,10 @@ is filled with stories of “instant enlightenment.” But what is not
 stressed enough in the West is the many years of training the Zen
 practitioner went through to prepare for the sudden experience of
 enlightenment.
+
+</div>
+
+<div class="paragraph">
 
 In a previous book, *Skills of Living*, I summarized many of the
 practical things we can do to get control over our lives and to clear up
@@ -2063,6 +3127,10 @@ last part of that book I move into those areas that overlap the domain
 of this book: personal freedom, happiness, love, inner peace, and
 mindfulness.
 
+</div>
+
+<div class="paragraph">
+
 Over and above these specific topics, there are more general themes that
 run throughout *Skills of Living*. One is the importance of continually
 developing objective observation of one’s feelings, thoughts, and other
@@ -2073,7 +3141,19 @@ of action that often needs to be revised. Finally, there is the
 importance of cultivating unconditional acceptance of oneself while
 simultaneously recognizing the desirability of change.
 
-<img src="./images/11-cleaning-house.jpg" alt="Cleaning House" style="width:60.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![Cleaning House](./images/11-cleaning-house.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 The key here for many people is developing discipline. A person often
 knows what needs to be done but somehow never seems to have the time or
@@ -2082,12 +3162,20 @@ tied up. Some convince themselves that discipline is somehow counter to
 their personality, philosophy of living, or spiritual path. These people
 are usually greatly impaired in any attempt at self-improvement.
 
+</div>
+
+<div class="paragraph">
+
 As the spiritual warrior ready to grab hold of our lives and move on, we
 can recognize the value of precision and discipline in everything we do.
 We may even do things simply for the sake of developing discipline. Thus
 we take the things we must do or want to do—like meditation—and simply
 do them, with precision and awareness and without making a big deal of
 it. This then gradually leads to more power, freedom, and choice.
+
+</div>
+
+<div class="paragraph">
 
 In addition to cleaning up our lives in practical and psychological
 ways, we must also order them along ethical principles. In all the major
@@ -2098,6 +3186,10 @@ Commandments of Judaism and Christianity, the various precepts of
 Buddhism (see appendices), and many other ethical codes that discourage
 killing, violence, stealing, lying, and greed, and that encourage
 appropriate respect and devotion.
+
+</div>
+
+<div class="paragraph">
 
 In the domain of religion, people are told to obey the ethical codes to
 achieve certain rewards and avoid certain punishments. This might be
@@ -2110,6 +3202,10 @@ Rather, it simply makes no sense to steal or lie. The awakened or
 enlightened being is motivated by compassion and a cosmic perspective,
 not the grasping and clinging that motivates most unethical behavior.
 
+</div>
+
+<div class="paragraph">
+
 The various ethical codes basically describe the way a spiritually
 advanced person would normally act. So a good part of a spiritual
 practice is to adopt such an ethical code as a way to predispose your
@@ -2117,12 +3213,20 @@ understanding and progress toward a more advanced position. And changes
 in overt behavior often lead to changes in thoughts, attitudes, and
 sense of self.
 
+</div>
+
+<div class="paragraph">
+
 It is also worthwhile to reflect on the great depth and generality of
 most ethical injunctions. For example, the yama of yoga includes
 non-violence. Overt violence is easy to see, but what about the violence
 in thoughts and subtle mental Predispositions toward negative judgments.
 One of the Judeo-Christian commandments is against coveting, the craving
 for something not yours.
+
+</div>
+
+<div class="paragraph">
 
 Dealing with coveting is very difficult and involves subtle cravings and
 attachments of the mind. And what about stealing? What should not be
@@ -2133,6 +3237,10 @@ principles at increasingly more general and more subtle levels, rather
 than just trying to follow the principles superficially and
 understanding them philosophically or religiously.
 
+</div>
+
+<div class="paragraph">
+
 Finally, it is worth repeating that very many people would do better
 relative to transpersonal goals if they spent less time thinking and
 reading about spiritual topics and more time cleaning up and ordering
@@ -2142,10 +3250,18 @@ insights and understanding. From this more advanced perspective, they
 will see that many of the philosophical issues that seemed important
 before are now no longer significant or meaningful.
 
+</div>
+
+<div class="paragraph">
+
 When the Buddha was asked metaphysical questions, about such matters as
 previous lives or levels of heaven, he usually told the questioner it is
 more important to tend to more practical concerns, such as interpersonal
 and vocational problems.
+
+</div>
+
+<div class="paragraph">
 
 Of course, all of this interacts with other aspects of transpersonal
 practice, such as opening the heart, quieting the mind, and reducing
@@ -2157,7 +3273,15 @@ to develop concentration during meditation, for the meditation is less
 disrupted by ethical concerns and their consequences. And conversely, as
 you quiet your mind, it is easier to see and work with moral concerns.
 
+</div>
+
+</div>
+
+<div class="sect2">
+
 ### Readiness to Know
+
+<div class="paragraph">
 
 In the domains of personal and transpersonal knowledge, we are
 continually bombarded by teachings and information. But most people miss
@@ -2166,6 +3290,10 @@ Their attachments limit their ability to perceive and understand those
 things they want and/or need to know. Often the more basic and important
 the teaching, the harder it is to hear.
 
+</div>
+
+<div class="paragraph">
+
 So in personal and transpersonal growth, it is not enough just to seek
 out information. We also need to cultivate readiness to hear and know
 the lesson, the truth, the broader perspective, and the fundamental
@@ -2173,7 +3301,19 @@ insight. The teachings are ever present. It is a matter of quieting the
 mind and opening the heart so we can hear and see better. It is a common
 spiritual maxim that the teacher will appear when the student is ready.
 
-<img src="./images/12-readiness-to-know.jpg" alt="Readiness to Know" style="width:60.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![Readiness to Know](./images/12-readiness-to-know.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 One block to readiness to know is intellectual closed-mindedness. We can
 get so caught up in a particular set of ideas or forms that we are not
@@ -2185,6 +3325,10 @@ keeps on pouring though the cup is overflowing. When the professor
 finally points this out, Nan-in says, “Like this cup, you are full of
 your own opinions and speculations. How can I show you Zen unless you
 first empty your cup?”
+
+</div>
+
+<div class="paragraph">
 
 Now if what we need to learn is a challenge to our images of self or
 world, then we often are not ready to hear. We misperceive, lie to
@@ -2199,6 +3343,10 @@ gets worse and worse as we resist learning. Bob’s job situation and
 Sue’s relationships with men both deteriorate and lead to other
 problems.
 
+</div>
+
+<div class="paragraph">
+
 All of us have lessons to learn about ourselves and our relationships
 with others and the world. When we learn the lessons our lives will be
 easier and happier. But our attachments blind us so that we resist
@@ -2208,12 +3356,20 @@ again. Still we don’t hear. Each time we get hit harder and harder until
 we finally pay attention and are motivated to hear. It is amazing how
 hard people can get hit and still not listen.
 
+</div>
+
+<div class="paragraph">
+
 One can reduce some of the blocks by a change in attitude about
 self-discovery. Rather than feeling anxious or threatened by what you
 may learn about yourself, cultivate a positive attitude toward whatever
 you discover, for the discovery will help you move on. Take delight in
 discovering attachments, barriers, and assumptions that are limiting
 your personal and transpersonal growth. Have a good time on the journey.
+
+</div>
+
+<div class="paragraph">
 
 A problem in hearing spiritual truths is that many of them are so simple
 and basic that they usually are understood superficially. It is in
@@ -2222,12 +3378,20 @@ not in philosophical and conceptual understanding. Intellectual
 understanding of the Buddha’s idea of impermanence is quite different
 from a direct experience of the impermanence of everything.
 
+</div>
+
+<div class="paragraph">
+
 Moving toward the spiritual and transpersonal realms is moving in a
 direction that gets simpler, not more complex. Life gets lighter, not
 heavier. Spiritual teachings, like ethical principles, are known in many
 ways other than conceptual knowledge alone. They are best known through
 direct experience resulting from a continually evolving journey into the
 nature of one’s being and beyond.
+
+</div>
+
+<div class="paragraph">
 
 As an exercise, consider the next paragraph carefully. It is a commonly
 held postulate from the Perennial Philosophy, an enduring and fairly
@@ -2236,6 +3400,10 @@ whether the statement is true or false. Simply read and consider it
 carefully. Note your thoughts and reactions and how they relate to
 readiness to hear.
 
+</div>
+
+<div class="paragraph">
+
 *The highest spiritual levels cannot be obtained. For if they could,
 they would be limited in time, Occurring after some time, and separable
 from you, since it is something you obtain. Rather, these higher levels
@@ -2243,10 +3411,18 @@ are one without a second, unlimited, and outside of time and space.
 Therefore, they are always already here. You are already enlightened,
 even if “you” don’t “realize” it.*
 
+</div>
+
+<div class="paragraph">
+
 Now even if this is true, just reading it will not make it self-evident
 to most people. They are not able to hear it in a way that transforms
 them. The practices surveyed in this book help cultivate the readiness
 to hear and know, even though there is nothing you have to do.
+
+</div>
+
+<div class="paragraph">
 
 So how can you tell when you are understanding clearly as opposed to
 being caught in one of your attachments? How can you tell true spiritual
@@ -2258,12 +3434,24 @@ in to the still small voice within. We learn to identify a sense of
 clarity and obviousness that is part of basic insights. We come to see
 how such insights alter our perceptions, values, and behaviors.
 
+</div>
+
+<div class="paragraph">
+
 After the last supper when Jesus was leaving his disciples, they were
 concerned about what they would do when their teacher was gone. Jesus
 told them not to worry for he would send the Holy Spirit to be their
 inner guide.
 
+</div>
+
+</div>
+
+<div class="sect2">
+
 ### Finding Your Way
+
+<div class="paragraph">
 
 When a person decides to pursue a spiritual path, the question is often
 which path to follow. Sometimes circumstances dictate a particular path.
@@ -2271,15 +3459,27 @@ But often one is confronted by a variety of paths with associated
 stories and promises. Which path to take? What are some general
 guidelines for making such decisions?
 
+</div>
+
+<div class="paragraph">
+
 First, it must be realized that finding your way is part of the path
 itself. Learning how and why you choose different paths is an important
 part of the overall process. What attachments are involved? What entices
 you in the spiritual supermarket? Cultivating a readiness to hear and
 know is important here.
 
+</div>
+
+<div class="paragraph">
+
 Along the way, you may make many mistakes; this is the norm. But don’t
 be anxious about this or be obsessed with not making mistakes. Everyone
 makes mistakes and they are wonderful opportunities to learn.
+
+</div>
+
+<div class="paragraph">
 
 Different paths are right for different people at different times. One’s
 personality, attachments, psychological needs, and readiness to know may
@@ -2294,6 +3494,10 @@ devotion, and ritual worship. *Jnana* yoga is built on self-analysis,
 awareness, and discrimination, while *raja* yoga, as codified by
 Patanjali, includes all of these yogas.
 
+</div>
+
+<div class="paragraph">
+
 Along with finding your way is the recognition that the path which is
 right for you is not necessarily right for someone else. Thus, an
 important part of spiritual practice is developing unconditional respect
@@ -2303,6 +3507,10 @@ American Indians’ use of the medicine wheel often incorporated this
 understanding. People with different perspectives and understandings
 would sit together at the wheel to share their different views. It was
 understood that the Great Way encompasses all the points of the wheel.
+
+</div>
+
+<div class="paragraph">
 
 It is often the case that the strength of a particular path is also the
 cause of many of its problems. For example, one person’s path may be
@@ -2314,7 +3522,19 @@ common trap here is distorting reality so it takes a form that is easier
 to love. More important is learning to perceive and love reality as it
 is.
 
-<img src="./images/13-finding-your-way.jpg" alt="Finding Your Way" style="width:60.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![Finding Your Way](./images/13-finding-your-way.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 Another common trap is the difficulty in letting go of a particular
 method, group, teacher, or path after its usefulness is past. You may
@@ -2327,16 +3547,28 @@ helped you. It would also be a mistake to argue that everyone should
 have a boat like yours, and the only way across the river is the way you
 came.
 
+</div>
+
+<div class="paragraph">
+
 Related to this is the more-is-never-enough trap. Because a particular
 method or teacher has been helpful to you does not mean that more of the
 same will be more helpful. Realize when you have had enough and move on.
 Don’t be attached to just more of the same.
+
+</div>
+
+<div class="paragraph">
 
 It is important to follow your path with great precision, willfulness,
 and skill. You need to give your path the importance it deserves without
 getting lost in its forms. You need to stay with your path through all
 its obstacles and not jump from path to path. Yet you need to be able to
 take a new path when the time has come.
+
+</div>
+
+<div class="paragraph">
 
 There is an important paradox in the analogy of following a path. That
 is, the essence of the ultimate spiritual path is not to get you
@@ -2346,6 +3578,10 @@ intended to bring you into a more direct experience of reality here and
 now. It is not an issue of getting “there”; it is an issue of being
 “here. “It is not “then,” but “now.”
 
+</div>
+
+<div class="paragraph">
+
 As in dancing, it is not so much where meditation takes you that is
 important. Rather, it is how you do the activity itself. Where a
 spiritual path may lead is of secondary importance to the here and now
@@ -2354,6 +3590,10 @@ take responsibility for your current psychological and spiritual state.
 You need to let go of anticipations of the future and confront the
 present. Pets can be good teachers in this area, for animals appear to
 live much more in the here and now than humans.
+
+</div>
+
+<div class="paragraph">
 
 In fact, you are always only in the here and now. No matter where you
 go, if you ask where you are, the answer is “here.” And no matter when
@@ -2369,6 +3609,10 @@ does not mean they become irresponsible or no longer plan for the
 future. They still think and plan appropriately, but do not get lost in
 the contents of the thoughts and plans.
 
+</div>
+
+<div class="paragraph">
+
 Finally, the hardest and most subtle teaching in finding our way is the
 basic fallacy of “seeking” itself. If the highest spiritual levels
 cannot be obtained and are already always there, then anything which
@@ -2379,6 +3623,10 @@ free as soon as we cease to believe we need to free ourselves. Thus,
 many contemporary teachers, such as Krishnamurti and Da Free John, have
 continued to attack the search itself.
 
+</div>
+
+<div class="paragraph">
+
 But this teaching is very difficult to hear and has not been
 particularly useful or practical. How do you stop seeking? How do you
 realize the chains are illusions? So one follows a path until one is
@@ -2387,15 +3635,31 @@ path was both unnecessary and necessary. Meditation is a good place for
 many people first to come to grips with being involved in a spiritual
 practice without trying to obtain anything.
 
+</div>
+
+<div class="paragraph">
+
 It is important to be able to relax into a spiritual path and not make
 it unnecessarily unpleasant or heavy. So, follow the path with
 precision, compassion, and clarity. But relax and enjoy it.
 
+</div>
+
+</div>
+
+<div class="sect2">
+
 ### Teachers
+
+<div class="paragraph">
 
 Most people on a spiritual path can profit from the input of spiritual
 teachers (gurus), and many spiritual traditions consider this necessary,
 although many people have done well without one.
+
+</div>
+
+<div class="paragraph">
 
 There are many ways a teacher can help. In some cases, it is useful to
 get practical advice from someone who is further along the path. Some
@@ -2406,6 +3670,10 @@ here and now or into particular conscious spaces. Some teachers can fill
 one with love or spiritual energy (e.g., *shaktipat*). Some offer
 themselves as the personification of what they teach, while others are
 only passing on spiritual information.
+
+</div>
+
+<div class="paragraph">
 
 Unfortunately, many people who publicly function as spiritual teachers
 are not very spiritually advanced or are outright frauds, whether they
@@ -2419,6 +3687,10 @@ most popular teachers are not necessarily the best teachers. On the
 other hand, among the better known teachers are many legitimate,
 sincere, powerful, advanced gurus.
 
+</div>
+
+<div class="paragraph">
+
 As a general rule, a spiritual teacher should be trying to incorporate
 spiritual ideals and practices into his or her own life. Thus, there
 should be evidence of such things as a quieting mind, opening heart, and
@@ -2430,6 +3702,10 @@ have a sense of humor about the game of life. On the other hand, many
 spiritual teachers choose to act in outrageous ways to challenge the
 students’ preconceptions about the form spirituality must take.
 
+</div>
+
+<div class="paragraph">
+
 An enlightened being does not necessarily choose to be a visible public
 guru or to assume the form that one might expect. Thus, it could be that
 the bus driver or Aunt Sally might be an awakened being, but most people
@@ -2437,7 +3713,19 @@ do not realize them as such because they are not ready to know.
 Historically, there have been many great gurus that people thought were
 fools.
 
-<img src="./images/14-teachers.jpg" alt="Teachers" style="width:60.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![Teachers](./images/14-teachers.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 In fact, everyone is your guru in that you can learn from everyone.
 Adopting this perspective toward others can help open the heart. For
@@ -2450,12 +3738,20 @@ each other on the spiritual path. Your spouse can be your best guru
 since he or she knows you so well, and since ideally you are merging in
 being, although not necessarily in personality.
 
+</div>
+
+<div class="paragraph">
+
 Children are often incredible teachers. A parent can learn much from the
 clarity and innocence of the child. And the parent has the opportunity
 to help the child learn and develop in a way that will facilitate later
 spiritual work. In addition, the drama of the family is an excellent
 arena for personal and transpersonal learning, from basic behavioral and
 personal issues to more general concerns such as loyalty and protection.
+
+</div>
+
+<div class="paragraph">
 
 Many people involved in spiritual work seek and value associating with
 others with similar interests, perhaps through a church, discussion
@@ -2465,17 +3761,33 @@ each other, bring in teachers, and initiate various activities. Several
 of the great spiritual traditions, such as Buddhism, emphasize the value
 of such a community of spiritually-minded people.
 
+</div>
+
+<div class="paragraph">
+
 Finally, teachers can occur in many forms including animals, phenomena
 in nature, guides within consciousness, books, and everything else. When
 the student is ready, the teacher will appear. The form of the teacher
 is not as important as the essence of the teaching.
 
+</div>
+
+</div>
+
+<div class="sect2">
+
 ### Continual Practice
+
+<div class="paragraph">
 
 At first, spiritual practice is something one does every now and then,
 such as going to church once a week, meditating periodically, or working
 for a charity on some afternoons. There is a sense that there is a real
 difference between the sacred and the profane.
+
+</div>
+
+<div class="paragraph">
 
 But as our spiritual practice becomes more sophisticated, these
 distinctions break down. Everything that we do can be approached
@@ -2485,6 +3797,10 @@ opportunity for spiritual awakening as meditating in the Himalayas. The
 form of what one does should not be confused with the essence of
 spirituality.
 
+</div>
+
+<div class="paragraph">
+
 Associated with this is the practical realization that every instant of
 one’s life is an opportunity to do spiritual work. Every moment is an
 opportunity for one to do things such as quiet the mind, increase
@@ -2492,6 +3808,10 @@ mindfulness, open the heart, or reduce attachments. Every situation is
 an opportunity to choose to wake up or to stay lost in the dream. At any
 time and place you can catch yourself, relax, pull into the here and
 now, and apply one or more of your spiritual practices.
+
+</div>
+
+<div class="paragraph">
 
 Although disciplined times of formal sitting meditation are important,
 each day is filled with many opportunities for mini-meditations. A good
@@ -2505,6 +3825,10 @@ time out from the game and recenter yourself. By having a number of
 mini-meditations throughout the day, you increase your meditation skills
 and facilitate the development of a meditative stance in daily living.
 And you loosen your attachments for the moment.
+
+</div>
+
+<div class="paragraph">
 
 At first, concentration is usually best developed during formal
 meditation. But with practice we gradually become more and more aware of
@@ -2521,7 +3845,19 @@ attending to the sensations of eating? When you are reading, how often
 do you find that you have “completed” a paragraph or page and don’t know
 what you read?
 
-<img src="./images/15-continual-practice.jpg" alt="Continual Practice" style="width:60.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![Continual Practice](./images/15-continual-practice.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 The same applies to mindfulness. At almost any instant you can practice
 being aware of body sensations, breathing, feelings, one-pointedness of
@@ -2536,6 +3872,10 @@ these moments are rich with sensations to be mindful of. In addition,
 one can be mindful of the reactions to the sensations and the situation
 in general.
 
+</div>
+
+<div class="paragraph">
+
 Thus throughout the day one can develop concentration and mindfulness.
 But you need to gradually build it up, doing it more and more, so you
 don’t overwhelm yourself or make it an unpleasant task. Relax and have a
@@ -2548,6 +3888,10 @@ dissolve. What you do when meditating involves a widening range of
 situations and forms. Sometimes you are sitting on a cushion watching
 your breath. Sometimes you are raking leaves.
 
+</div>
+
+<div class="paragraph">
+
 Throughout the day you can be aware of and cultivate opening the heart.
 For example, notice bow open you are to experiencing reality as it is.
 How much do you distort reality to fit some model in your mind? How much
@@ -2557,6 +3901,10 @@ yourself? To what extent can you see the spiritual aspect of another
 person beyond his or her personality and behavior? “Namaste” is a common
 Hindu greeting in Nepal and India. It means, “I greet the spiritual
 within you.”
+
+</div>
+
+<div class="paragraph">
 
 In the Christian monastic tradition is the prayer of the heart or “Jesus
 prayer.” This involves keeping Jesus ever present in the ground of one’s
@@ -2571,6 +3919,10 @@ Similar practices are the “practice of the presence of God” and the
 of God. Mahatma Gandhi practiced keeping the name “Ram” always on his
 mind. Ram is one of the Hindu manifestations of God.
 
+</div>
+
+<div class="paragraph">
+
 Retrospection is a useful practice to help cultivate a more continual
 spiritual perspective. Retrospection is done near the end of each day.
 You quiet your mind and then try to maintain a meditative stance as you
@@ -2579,6 +3931,10 @@ need only take about ten minutes; but it will vary from day to day and
 person to person. The purpose is to let issues resolve themselves, to
 see things more clearly when you are less pulled into them, and to
 notice the subtle attachments you overlooked earlier.
+
+</div>
+
+<div class="paragraph">
 
 Finally, many people find that keeping a journal is a valuable aid in
 personal and transpersonal growth. The journal of writings and drawings
@@ -2595,11 +3951,19 @@ interrelationships you might otherwise overlook. It can also help you
 see progress where you think there is none. Reading over a journal you
 have kept for a while gives you a good perspective of yourself.
 
+</div>
+
+<div class="paragraph">
+
 The act of writing down things relating to problems may help you better
 define the issue, see resolutions, or come up with new ideas and
 perceptions about the problem. Sometimes the act of writing gives you a
 chance to release emotions. It can also be a way to put down and throw
 away some attachments, finished business, and old ideas.
+
+</div>
+
+<div class="paragraph">
 
 So the serious practitioner of a spiritual/transpersonal path recognizes
 that the overall practice is applicable all the time. This is not
@@ -2608,7 +3972,15 @@ of it. Formal sitting meditation, mini- meditations, retrospection, and
 journal-keeping are some of the ways gradually to cultivate a more
 general and more continual spiritual perspective.
 
+</div>
+
+</div>
+
+<div class="sect2">
+
 ### Retreats
+
+<div class="paragraph">
 
 It is very helpful for most people periodically to step out of their
 lives, to take a time-out from the game. This helps us get a better
@@ -2616,6 +3988,10 @@ perspective on our life, to see and think more clearly about what we are
 doing. Meditation is a good and easy way to do this, but we occasionally
 need a bigger change of scene. We need periodically to get out of town,
 or some equivalent.
+
+</div>
+
+<div class="paragraph">
 
 Vacations are a common way to do this and can be fun, interesting,
 stimulating, and a distraction from many of our usual concerns. When
@@ -2628,7 +4004,19 @@ vacations can be therapeutic in many ways, they are seldom the optimal
 way to develop transpersonal perspective. Usually we are so caught up in
 the events of a vacation we have little time for spiritual practice.
 
-<img src="./images/16-retreats.jpg" alt="Retreats" style="width:60.0%" />
+</div>
+
+<div class="imageblock text-center">
+
+<div class="content">
+
+![Retreats](./images/16-retreats.jpg)
+
+</div>
+
+</div>
+
+<div class="paragraph">
 
 So in terms of personal and transpersonal growth, it is helpful to take
 periodic retreats in which we step out of our routines and do not fill
@@ -2637,15 +4025,27 @@ they can devote to themselves and/or their spouses. And individuals need
 time alone, time to regroup, recenter, and intensify spiritual
 practices.
 
+</div>
+
+<div class="paragraph">
+
 The retreat might be an afternoon each week in which we leave the daily
 routine and go for quiet drives and walks alone. The retreat might be a
 day each week in which we rest from the usual activities and cultivate
 the spiritual. This is one of the Judeo-Christian commandments.
 
+</div>
+
+<div class="paragraph">
+
 Every now and then a retreat of a few days or more can be useful. This
 might involve staying in a motel in a nearby town, staying in the house
 of friends while they are away, camping out, or going to a lodge in a
 state park or church camp.
+
+</div>
+
+<div class="paragraph">
 
 Retreat time is a time to be quiet and introspective, a time to get out
 of the melodrama of daily living and reflect on it. It is a time to
@@ -2655,12 +4055,20 @@ be devoted to reading spiritual and/or inspirational materials, but the
 retreat should not be filled with reading. The retreat is an opportunity
 for intensive meditation practice.
 
+</div>
+
+<div class="paragraph">
+
 Although much can be accomplished in daily meditation, even more can be
 accomplished by the addition of retreats in which one meditates for many
 hours a day for a number of days. In such intensive meditation one can
 reach depths that are hard to reach in shorter sessions. This will also
 facilitate daily practice, making it easier to achieve these levels
 again. In addition, powerful insights may arise during intense practice.
+
+</div>
+
+<div class="paragraph">
 
 Of course, one has to build up to such intense practice. A beginner
 would probably have more negative than positive results from five days
@@ -2672,6 +4080,10 @@ alternated with thirty-minute walking periods. Longer sitting periods
 can be good. Walking meditations can help overcome drowsiness that comes
 with sitting. Finding your own rhythm is important.
 
+</div>
+
+<div class="paragraph">
+
 You can also set up your own intensive meditation retreat. Find a place
 such as those mentioned above, where you can be alone and undisturbed.
 Make living there as simple as possible. Eat the minimum amount
@@ -2681,6 +4093,10 @@ routine of sleeping, eating, cleaning, and exercise. Perhaps you can
 provide a little spiritual input from books or tapes, but meditate as
 much as possible, alternating sitting and walking meditations.
 
+</div>
+
+<div class="paragraph">
+
 Throughout the United States and the world there are many meditation
 retreat centers. Many are inexpensive and open to the public. Some are
 church sponsored; some are not. Some provide instruction in meditation;
@@ -2689,27 +4105,43 @@ meditation and wish to pursue the practice beyond the basics outlined in
 this book, it would be advantageous for you to seek personal
 instruction, such as is found at many meditation retreats.
 
+</div>
+
+<div class="paragraph">
+
 When one has been out of the routine of life for a while, as when on
 vacation or retreat, one needs to attend carefully to re-entry. You
-don’t want to jump back into your ordinary life as it was with the same
-old thoughts and feelings. Rather, you want to re-enter more gradually,
-being mindful of your old thoughts, reactions, habits, and attachments.
-Schedule your time so you can do this slowly. Don’t arrive home late on
-Sunday and then start work early Monday. Try to keep your mind as quiet
-and aware for as long as possible. Avoid old attachments. Intentionally
-break undesired habits. Be a warrior. Approach the game of life with new
-clarity, compassion, and precision. Avoid getting pulled into the
-melodrama.
+don’t want to jump back into your ordinary life as it was with the
+same old thoughts and feelings. Rather, you want to re-enter more
+gradually, being mindful of your old thoughts, reactions, habits, and
+attachments. Schedule your time so you can do this slowly. Don’t arrive
+home late on Sunday and then start work early Monday. Try to keep your
+mind as quiet and aware for as long as possible. Avoid old attachments.
+Intentionally break undesired habits. Be a warrior. Approach the game of
+life with new clarity, compassion, and precision. Avoid getting pulled
+into the melodrama.
+
+</div>
+
+<div class="paragraph">
 
 Slowly you will get pulled more and more into the dream of your daily
 life until eventually you will be asleep again. But the longer you stay
 awake during re-entry, the easier it will to be wake up again.
+
+</div>
+
+<div class="paragraph">
 
 This book summarizes the practices for gradual awakening. These
 practices can improve daily living as well as leading to that which is
 beyond. There is little more you need to know. But you need to
 incorporate these practices, in whatever form is appropriate, into your
 daily living. You need to do the practices, not just think about them.
+
+</div>
+
+<div class="paragraph">
 
 Of course, there is much more that could be said on any of the topics
 covered here and many more practices that could be useful to you. You
@@ -2718,17 +4150,42 @@ particular path leads you to. But the basics, as outlined in this book,
 are fairly universal; you will keep coming back to the basics. It is all
 very simple.
 
+</div>
+
+<div class="paragraph">
+
 I wish you well on the journey and offer this book to help you along the
 way.
 
-Appendix
---------
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="sect1">
+
+## Appendix
+
+<div class="sectionbody">
+
+<div class="sect2">
 
 ### Some Basic Definitions
 
+<div class="sect3">
+
 #### General Principles
 
+<div class="paragraph">
+
 (Chapters in parentheses discuss principles)
+
+</div>
+
+<div class="paragraph">
 
 Make friends with yourself (2, 6, 9, 10, 15)  
 Accept unconditionally (2, 4, 6, 9, 10, 11, 13, 15)  
@@ -2736,16 +4193,36 @@ Relax (9, 13, 15)
 Be in the here and now (6, 7, 8, 9, 13, 15, 16)  
 Have a good time (4, 6, 8, 9, 12, 13, 15)  
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Common Traps
 
+<div class="paragraph">
+
 (Chapters in parentheses discuss principles)
+
+</div>
+
+<div class="paragraph">
 
 Form vs. essence (1, 9, 13, 14, 15)  
 Reality vs. mind model (4, 5, 9, 10, 15)  
 Person vs. behavior (4, 9, 10, 15)  
 More is never enough (9, 10, 13)  
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Four Noble Truths (The Buddha)
+
+<div class="olist arabic">
 
 1.  Life is filled with dukkha (suffering/unsatisfactoriness).
 
@@ -2755,7 +4232,15 @@ More is never enough (9, 10, 13)
 
 4.  The way to end dukkha and craving is the Eight fold Path.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Eight-Fold Path (The Buddha)
+
+<div class="olist arabic">
 
 1.  Right understanding (Buddhist and equivalent teachings)
 
@@ -2773,9 +4258,21 @@ More is never enough (9, 10, 13)
 
 8.  Right concentration (Chapters 7 and 15)
 
+</div>
+
+<div class="paragraph">
+
 “Right” = perfect, harmonious, in balance, conscious
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Eight Limbs of Yoga (compiled by Patanjali)
+
+<div class="olist arabic">
 
 1.  Yama: abstention from evil conduct
 
@@ -2793,31 +4290,51 @@ More is never enough (9, 10, 13)
 
 8.  Samadhi: union with divine ground
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Yama and Niyama (Yoga)
 
--   Non-violence
+<div class="ulist">
 
--   Non-stealing
+  - Non-violence
 
--   Avoiding sexual excess, control over sexual cravings
+  - Non-stealing
 
--   Non-possessiveness, non-hoarding, non-greed
+  - Avoiding sexual excess, control over sexual cravings
 
--   Truthfulness
+  - Non-possessiveness, non-hoarding, non-greed
 
--   Cleanliness and purity of body and mind
+  - Truthfulness
 
--   Practices to perfect body and mind
+  - Cleanliness and purity of body and mind
 
--   Contentment
+  - Practices to perfect body and mind
 
--   Study of self and spiritual works
+  - Contentment
 
--   Surrender to God/ultimate truth
+  - Study of self and spiritual works
+
+  - Surrender to God/ultimate truth
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Five Basic Precepts (Buddhism)
 
+<div class="paragraph">
+
 Abstain from:
+
+</div>
+
+<div class="olist arabic">
 
 1.  Killing
 
@@ -2830,7 +4347,15 @@ Abstain from:
 5.  Intoxicating or mind-altering drugs, particularly ones causing
     heedlessness
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Ten Commandments (Judaism/Christianity)
+
+<div class="olist arabic">
 
 1.  Have no other gods before the fundamental God
 
@@ -2852,7 +4377,15 @@ Abstain from:
 
 10. Do not covet what is not yours
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### The Perennial Philosophy (ala Aldous Huxley)
+
+<div class="olist arabic">
 
 1.  The phenomenal world of matter and individualized consciousness, the
     world of things, animals, people, and gods, is a manifestation of a
@@ -2874,7 +4407,17 @@ Abstain from:
     the eternal Self and so come to unitive knowledge of the Divine
     Ground.
 
+</div>
+
+</div>
+
+</div>
+
+<div class="sect2">
+
 ### Suggested Reading
+
+<div class="paragraph">
 
 Many of the books in this list go in and out of print with various
 publishers. There are also many different translations of some of the
@@ -2882,7 +4425,15 @@ non-English books, particularly classic spiritual texts. I cannot say
 which translation is the most “accurate” or “appropriate” for any
 particular reader.
 
+</div>
+
+<div class="paragraph">
+
 The books are grouped by the following overlapping categories:
+
+</div>
+
+<div class="paragraph">
 
 American Indians  
 Attachments/Addictions  
@@ -2917,7 +4468,13 @@ Transpersonal Psychology: East and West
 Yoga: General  
 Yoga: Hatha  
 
+</div>
+
+<div class="sect3">
+
 #### American Indians
+
+<div class="paragraph">
 
 These books deal with the American Indian spiritual perspective,
 relationship to the Earth, and problems with the white man. Storm tells
@@ -2925,75 +4482,111 @@ the philosophy of the Plains people through stories. Freesoul discusses
 Indian spiritual practices and symbols, including the ceremonial pipe
 and the medicine wheel.
 
--   Freesoul, J.R. Breath of the invisible. Quest Books, 1986.
+</div>
 
--   McLuhan, T.C. Touch the earth. Outerbridge and Dienstfrey, 1971.
+<div class="ulist">
 
--   Niehardt, J.G. Black Elk speaks. Pocket Books, 1972.
+  - Freesoul, J.R. Breath of the invisible. Quest Books, 1986.
 
--   Storm, H. Seven arrows. Ballantine, 1973.
+  - McLuhan, T.C. Touch the earth. Outerbridge and Dienstfrey, 1971.
+
+  - Niehardt, J.G. Black Elk speaks. Pocket Books, 1972.
+
+  - Storm, H. Seven arrows. Ballantine, 1973.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Attachments/Addictions
+
+<div class="paragraph">
 
 Goleman surveys the “psychology of self-deception.” Keyes has written
 many popular books about getting free from attachments. The Mauls’
 textbook summarizes many of the barriers to personal growth.
 
--   Goleman, D. Vital lies, simple truths. Simon & Schuster, 1985.
+</div>
 
--   Keyes, K. Handbook to higher consciousness. Living Love Center,
+<div class="ulist">
+
+  - Goleman, D. Vital lies, simple truths. Simon & Schuster, 1985.
+
+  - Keyes, K. Handbook to higher consciousness. Living Love Center,
     fifth edition, 1975.
 
--   Keyes, K. & P. Keyes. Gathering power through insight and love.
+  - Keyes, K. & P. Keyes. Gathering power through insight and love.
     Living Love Publications, 1987.
 
--   Maul, G. & T. Maul. Beyond limit: Ways to growth and freedom. Scott,
+  - Maul, G. & T. Maul. Beyond limit: Ways to growth and freedom. Scott,
     Foresman, 1983.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Autobiographies
+
+<div class="paragraph">
 
 The personal stories of people involved with pursuing a spiritual path
 and/or consciousness expansion within the contexts of Christianity
 (Merton, Roberts), American Indian (Castaneda), Buddhism
-(HamiltonMerritt, Trungpa, Watts), yoga Oones, Muktananda, Ram Dass,
+(HamiltonMerritt, Trungpa, Watts), yoga (Jones, Muktananda, Ram Dass,
 Swami Rama, Yogananda), psychedelic drugs (Castaneda, Lilly, Ram Dass,
 Watts), and “other” (Lilly, Merrell-Wolff, Watts).
 
--   Castaneda, C. The teachings of Don Juan. Ballantine Books, 1969. A
+</div>
+
+<div class="ulist">
+
+  - Castaneda, C. The teachings of Don Juan. Ballantine Books, 1969. A
     separate reality. Simon & Schuster, 1971. Journey to Ixtian. Simon &
     Schuster, 1972. Tales of power. Simon & Schuster, 1974.
 
--   Dass, Ram. Be here now. Lama Foundation, 1971.
+  - Dass, Ram. Be here now. Lama Foundation, 1971.
 
--   Hamilton-Merritt, J. A meditator’s diary. Pelican Books, 1979.
+  - Hamilton-Merritt, J. A meditator’s diary. Pelican Books, 1979.
 
--   Jones, F. The knee of listening. Dawn Horse Press, 1972. Garbage and
+  - Jones, F. The knee of listening. Dawn Horse Press, 1972. Garbage and
     the goddess. Dawn Horse Press, 1974. (Jones later calls himself
     “Bubba Free John.”)
 
--   Lilly, J. The center of the cyclone. Bantam Books, 1973.
+  - Lilly, J. The center of the cyclone. Bantam Books, 1973.
 
--   Merrell-Wolff, F. Pathways through to space. Warner Books, 1976.
+  - Merrell-Wolff, F. Pathways through to space. Warner Books, 1976.
 
--   Merton, T. The seven storey mountain. Harcourt Brace
-    Jovanovich, 1948.
+  - Merton, T. The seven storey mountain. Harcourt Brace Jovanovich,
+    1948.
 
--   Muktananda Paramahansa, Swami. The play of consciousness. S.Y.D.A.
+  - Muktananda Paramahansa, Swami. The play of consciousness. S.Y.D.A.
     Foundation, 1974.
 
--   Rama, Swami. Living with the Himalayan masters. Himalayan
+  - Rama, Swami. Living with the Himalayan masters. Himalayan
     International Institute of Yoga Science & Philosophy, 1978.
 
--   Roberts, B. The experience of no-self. Shambhala, 1984.
+  - Roberts, B. The experience of no-self. Shambhala, 1984.
 
--   Trungpa, Chbgyam. Born in Tibet. Random House, 1985.
+  - Trungpa, Chbgyam. Born in Tibet. Random House, 1985.
 
--   Watts, A. In my own way. Vintage Books, 1972.
+  - Watts, A. In my own way. Vintage Books, 1972.
 
--   Yogananda, Paramahansa. Autobiography of a Yogi. Self-Realization
+  - Yogananda, Paramahansa. Autobiography of a Yogi. Self-Realization
     Fellowship, 1946.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Buddhism and the Buddha
+
+<div class="paragraph">
 
 Rahula provides a good introduction to the Buddha and his teachings.
 Rice and Woodward provide some of the Buddha’s teachings. Byles tells a
@@ -3002,30 +4595,42 @@ disciple’s eyes. Conze and Ross overview some of the development and
 different schools of Buddhism, and the other three books are
 compilations of some of the vast Buddhist literature.
 
--   Burtt, E.A. The teachings of the compassionate Buddha. Mentor, 1955.
+</div>
 
--   Byles, M.B. Footprints of Gautama the Buddha. Quest Books, 1967.
+<div class="ulist">
 
--   Conze, E. Buddhism: Its essence and development. Harper
-    Colophon, 1975.
+  - Burtt, E.A. The teachings of the compassionate Buddha. Mentor, 1955.
 
--   Conze, E. & I.B. Horner, D. Sneligrove, & A. Waley. Bud dhist texts
+  - Byles, M.B. Footprints of Gautama the Buddha. Quest Books, 1967.
+
+  - Conze, E. Buddhism: Its essence and development. Harper Colophon,
+    1975.
+
+  - Conze, E. & I.B. Horner, D. Sneligrove, & A. Waley. Bud dhist texts
     through the ages. Harper Torchbooks, 1954.
 
--   Rahula, W. What the Buddha taught. Grove Press, enlarged
-    edition, 1974.
+  - Rahula, W. What the Buddha taught. Grove Press, enlarged edition,
+    1974.
 
--   Rice, S. The Buddha speaks here and now. Buddhist Publication
+  - Rice, S. The Buddha speaks here and now. Buddhist Publication
     Society, 1981. (Buddhist scriptures in contemporary idiom.)
 
--   Ross, N.W. Buddhism: A way of life and thought. Vintage Books, 1981.
+  - Ross, N.W. Buddhism: A way of life and thought. Vintage Books, 1981.
 
--   Stryk, L. World of the Buddha. Grove Press, 1968.
+  - Stryk, L. World of the Buddha. Grove Press, 1968.
 
--   Woodward, F.L. Some sayings of the Buddha. Oxford University
-    Press, 1973.
+  - Woodward, F.L. Some sayings of the Buddha. Oxford University Press,
+    1973.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Buddhism: Tantric/Tibetan
+
+<div class="paragraph">
 
 The book by Blofeld and the one by Guenther & Tmungpa provide an
 introductory overview. Chögyam Trungpa, who died recently, and Tarthang
@@ -3033,23 +4638,35 @@ Tulku, Tibetan Buddhists, have taught in the United States. The book by
 Guenther and the one by Hopkins are more academically philosophical and
 psychological.
 
--   Blofeld, J. The tantric mysticism of Tibet. E.P. Dutton, 1970.
+</div>
 
--   Guenther, H.V. Tibetan Buddhism in Western perspective. Dharma
+<div class="ulist">
+
+  - Blofeld, J. The tantric mysticism of Tibet. E.P. Dutton, 1970.
+
+  - Guenther, H.V. Tibetan Buddhism in Western perspective. Dharma
     Publishing, 1977.
 
--   Guenther, H.V. & Chögyam Trungpa. The dawn of tantra.
-    Shambhala, 1975.
+  - Guenther, H.V. & Chögyam Trungpa. The dawn of tantra. Shambhala,
+    1975.
 
--   Hopkins, J. The tantric distinction. Wisdom Publications, 1984.
+  - Hopkins, J. The tantric distinction. Wisdom Publications, 1984.
 
--   Tarthang Tulku. Gesture of balance. Dharma Publishing, 1977.
+  - Tarthang Tulku. Gesture of balance. Dharma Publishing, 1977.
 
--   Trungpa, Chögyam. Journey without goal. Prajna Press, 1981. The myth
+  - Trungpa, Chögyam. Journey without goal. Prajna Press, 1981. The myth
     of freedom. Shambhala, 1976. Cutting through spiritual materialism.
     Shambhala, 1973.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Buddhism: Zen
+
+<div class="paragraph">
 
 During the 1950s and 1960s many books by Alan Watts and D. T. Suzuki
 were part of Zen’s strong influx into the West. The books by Watts and
@@ -3058,36 +4675,60 @@ discuss Zen practice. And Suzuki’s (not D. T. Suzuki) book is an
 excellent set of talks on Zen meditation and attitude. See also
 “Stories” category.
 
--   Kapleau, P. The three pillars of Zen. Anchor Books, expanded
+</div>
+
+<div class="ulist">
+
+  - Kapleau, P. The three pillars of Zen. Anchor Books, expanded
     edition, 1980.
 
--   Ross, N.W. The world of Zen: An East-West anthology. Vintage
-    Books, 1960.
+  - Ross, N.W. The world of Zen: An East-West anthology. Vintage Books,
+    1960.
 
--   Sekida, K. Zen training. Weatherhill, 1975.
+  - Sekida, K. Zen training. Weatherhill, 1975.
 
--   Suzuki, S. Zen mind, beginners mind. Weatherhill, 1970.
+  - Suzuki, S. Zen mind, beginners mind. Weatherhill, 1970.
 
--   Watts, A.W. The way of Zen. Vintage Books, 1957.
+  - Watts, A.W. The way of Zen. Vintage Books, 1957.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Chakras and Kundalini
+
+<div class="paragraph">
 
 Sannella describes some of the psychological problems associated with
 and/or confused with the rising of kundalini. The other books go further
 into the chakras and kundalini.
 
--   Motoyama, H. Theories of the chakras: Bridge to higher
+</div>
+
+<div class="ulist">
+
+  - Motoyama, H. Theories of the chakras: Bridge to higher
     consciousness. Quest Books, 1981.
 
--   Pandit, M.P. Kundalini yoga. Ganesh & Co., 1968.
+  - Pandit, M.P. Kundalini yoga. Ganesh & Co., 1968.
 
--   Sannella, L. Kundalini —Psychosis or transcendence? H. S.
-    Dakin, 1976.
+  - Sannella, L. Kundalini —Psychosis or transcendence? H. S. Dakin,
+    1976.
 
--   Scott, M. Kundalini in the physical world. Routledge & Kegan
-    Paul, 1983.
+  - Scott, M. Kundalini in the physical world. Routledge & Kegan Paul,
+    1983.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Christian Practice
+
+<div class="paragraph">
 
 The books by French, Brother Lawrence, Bunyan, and a Kempis are classics
 in Christian living and practices, with the originals respectively over
@@ -3100,22 +4741,34 @@ popular books encourage forgiveness and changes in attitudes and
 thoughts. See also the categories “Meditation: Practice” and “Journals/
 Diaries.”
 
--   A course in miracles. Foundation for Inner Peace, 1975.
+</div>
 
--   Bunyan, J. Pilgrim’s progress. Zondervan Publishing House, 1967.
+<div class="ulist">
 
--   French, R.M. (trans.). The way of the pilgrim. Ballantine
-    Books, 1974.
+  - A course in miracles. Foundation for Inner Peace, 1975.
 
--   Lawrence, Brother. The practice of the presence of God. Whitaker
+  - Bunyan, J. Pilgrim’s progress. Zondervan Publishing House, 1967.
+
+  - French, R.M. (trans.). The way of the pilgrim. Ballantine Books,
+    1974.
+
+  - Lawrence, Brother. The practice of the presence of God. Whitaker
     House, 1982.
 
--   Powell, J. The Christian vision. Argus Communications, 1984.
+  - Powell, J. The Christian vision. Argus Communications, 1984.
 
--   Thomas a Kempis. The imitation of Christ. Image Books, 1985
-    (Editor: H. C. Gardiner).
+  - Thomas a Kempis. The imitation of Christ. Image Books, 1985 (Editor:
+    H. C. Gardiner).
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Christian Theory
+
+<div class="paragraph">
 
 To best understand the Bible it is useful to have a handbook, such as
 Eerdmans’, to provide additional information, such as historical and
@@ -3126,6 +4779,10 @@ consider early Christian writings which were not included. The current
 best example is the gnostic gospels found at Nag Hammadi. Pagels
 discusses these gospels, which are given in total by Robinson.
 
+</div>
+
+<div class="paragraph">
+
 Lewis is currently one of the most popular traditional Christian
 writers. Jesuit paleontologist Teilhard de Chardin provides a
 provocative theory of the biological/spiritual evolution of man, which
@@ -3134,24 +4791,36 @@ centered Christian spirituality, as opposed to the dominant
 fall-redemption approach. Swami Prabhavananda discusses the Sermon on
 the Mount from a Hindu/ yogic point of view.
 
--   Alexander, D. & P. Alexander (eds.). Eerdmans’ concise Bible
+</div>
+
+<div class="ulist">
+
+  - Alexander, D. & P. Alexander (eds.). Eerdmans’ concise Bible
     handbook. Wm. B. Eerdmans, 1980.
 
--   Fox, M. Original blessing. Bear & Co., 1983.
+  - Fox, M. Original blessing. Bear & Co., 1983.
 
--   Lewis, C.S. Mere Christianity. Macmillan, 1943.
+  - Lewis, C.S. Mere Christianity. Macmillan, 1943.
 
--   Pagels, E. The gnostic gospels. Vintage Books, 1981.
+  - Pagels, E. The gnostic gospels. Vintage Books, 1981.
 
--   Prabhavananda, Swami. The Sermon on the Mount ac cording to Vedanta.
+  - Prabhavananda, Swami. The Sermon on the Mount ac cording to Vedanta.
     Mentor Book, 1972.
 
--   Robinson, J.M. (ed.). The Nag Hammadi library. Harper & Row, 1981.
+  - Robinson, J.M. (ed.). The Nag Hammadi library. Harper & Row, 1981.
 
--   Teilhard de Chardin, P. The phenomenon of man. Harper
-    Torchbook, 1961.
+  - Teilhard de Chardin, P. The phenomenon of man. Harper Torchbook,
+    1961.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Consciousness
+
+<div class="paragraph">
 
 Ornstein (1977), Pelletier, and Tart (1975) synthesize some of our
 knowledge about consciousness. Lilly summarizes work with isolation
@@ -3159,72 +4828,120 @@ tanks, while Masters and Houston summarize what has been learned via
 psychedelic drugs. The other five books are collections of articles
 about consciousness.
 
--   Goleman, D. & R.J. Davidson (eds.). Consciousness: Brain, states of
+</div>
+
+<div class="ulist">
+
+  - Goleman, D. & R.J. Davidson (eds.). Consciousness: Brain, states of
     awareness, and mysticism. Harper & Row, 1979.
 
--   Lilly, J.C. The deep self. Warner Books, 1978.
+  - Lilly, J.C. The deep self. Warner Books, 1978.
 
--   Masters, R.E.L. & J. Houston. The varieties of psychedelic
+  - Masters, R.E.L. & J. Houston. The varieties of psychedelic
     experience. Delta Book, 1966.
 
--   Ornstein, R.E. (ed.). The nature of human consciousness. W. H.
+  - Ornstein, R.E. (ed.). The nature of human consciousness. W. H.
     Freeman, 1973.
 
--   Ornstein, R.E. The psychology of consciousness. Harcourt Brace
+  - Ornstein, R.E. The psychology of consciousness. Harcourt Brace
     Jovanovich, second edition, 1977.
 
--   Pelletier, K.R. Toward a science of consciousness. Delta Book, 1978.
+  - Pelletier, K.R. Toward a science of consciousness. Delta Book, 1978.
 
--   Tart, C.T. (ed.). Altered states of consciousness. Wiley, 1969.
+  - Tart, C.T. (ed.). Altered states of consciousness. Wiley, 1969.
 
--   Tart, C.T. States of consciousness. E. P. Dutton, 1975.
+  - Tart, C.T. States of consciousness. E. P. Dutton, 1975.
 
--   White, J. (ed.). The highest state of consciousness. Anchor
-    Books, 1972.
+  - White, J. (ed.). The highest state of consciousness. Anchor Books,
+    1972.
 
--   Wolman, B.B. & M. Ullmann (eds.). Handbook of states of
+  - Wolman, B.B. & M. Ullmann (eds.). Handbook of states of
     consciousness. Van Nostrand Reinhold, 1986.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Death
+
+<div class="paragraph">
 
 Kubler-Ross discusses the psychological needs of the dying person.
 Levine considers how to die consciously, a spiritual approach to death.
 Moody surveys the experiences of people who almost died, some of whom
 were “clinically dead.”
 
--   Kubler-Ross, E. On death and dying. Macmillan, 1970.
+</div>
 
--   Levine, S. Who dies? Anchor Books, 1982.
+<div class="ulist">
 
--   Moody, R.A. Life after life. Bantam Book, 1976.
+  - Kubler-Ross, E. On death and dying. Macmillan, 1970.
+
+  - Levine, S. Who dies? Anchor Books, 1982.
+
+  - Moody, R.A. Life after life. Bantam Book, 1976.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Dreams
+
+<div class="paragraph">
 
 Faraday discusses how to interpret dreams, Garfield how to plan and work
 with dreaming, and LaBerge how to “awake” while dreaming.
 
--   Faraday, A. The dream game. Perennial Library, 1976.
+</div>
 
--   Garfield, P. Creative dreaming. Ballantine Books, 1976.
+<div class="ulist">
 
--   LaBerge, S. Lucid dreaming. Ballantine Books, 1986.
+  - Faraday, A. The dream game. Perennial Library, 1976.
+
+  - Garfield, P. Creative dreaming. Ballantine Books, 1976.
+
+  - LaBerge, S. Lucid dreaming. Ballantine Books, 1986.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Happiness
+
+<div class="paragraph">
 
 These books offer various ideas about how to cultivate happiness,
 including unconditional acceptance(Kaufman), reducing worry (Carnegie),
 Western perspectives (Houston), and Eastern perspectives (Watts).
 
--   Carnegie, D. How to stop worrying and start living. Pocket
-    Book, 1953.
+</div>
 
--   Houston, J.P. The pursuit of happiness. Scott Foresman, 1981.
+<div class="ulist">
 
--   Kaufman, B.N. To love is to be happy with. Fawcett Crest, 1977.
+  - Carnegie, D. How to stop worrying and start living. Pocket Book,
+    1953.
 
--   Watts, A.W. The meaning of happiness. Harper Colophon, 1979.
+  - Houston, J.P. The pursuit of happiness. Scott Foresman, 1981.
+
+  - Kaufman, B.N. To love is to be happy with. Fawcett Crest, 1977.
+
+  - Watts, A.W. The meaning of happiness. Harper Colophon, 1979.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Journals / Diaries
+
+<div class="paragraph">
 
 Progoff describes how to use his “intensive journal” for personal and
 transpersonal growth. It is a structured journal with many components
@@ -3232,13 +4949,25 @@ and exercises. Rainer shows how to use a journal for “self-guidance and
 expanded creativity.” Kelsey covers “Christian growth through personal
 journal writing.”
 
--   Kelsey, M. Adventure inward. Augsburg Publishing House, 1980.
+</div>
 
--   Progoff, I. At a journal workshop. Dialogue House Library, 1975.
+<div class="ulist">
 
--   Rainer, T. The new diary. J. P. Tarcher, 1978.
+  - Kelsey, M. Adventure inward. Augsburg Publishing House, 1980.
+
+  - Progoff, I. At a journal workshop. Dialogue House Library, 1975.
+
+  - Rainer, T. The new diary. J. P. Tarcher, 1978.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Judaism
+
+<div class="paragraph">
 
 Williams provides a history of the Jewish people from 538 B.C. to 1500
 A.D. Buber’s book is a classic work in Hasidism, a movement of Jewish
@@ -3246,37 +4975,61 @@ mysticism. Hoffman and Schachter pursue the intersection of Hasidism
 with contemporary psychology. The other books discuss the Kabbalah, a
 symbolic system of Jewish mysticism and occultism.
 
--   Buber, M. I and thou. Charles Scribner’s Sons, 1970 (Walter Kaufman
+</div>
+
+<div class="ulist">
+
+  - Buber, M. I and thou. Charles Scribner’s Sons, 1970 (Walter Kaufman
     translator.).
 
--   Fortune, D. The mystical Qabalah. Ernest Benn, 1935.
+  - Fortune, D. The mystical Qabalah. Ernest Benn, 1935.
 
--   Gonzalez-Wippler, M. A Kabbalah for the modern world. Bantam
-    Book, 1977.
+  - Gonzalez-Wippler, M. A Kabbalah for the modern world. Bantam Book,
+    1977.
 
--   Hoffman, E. The way of splendor. Shambhala, 1981.
+  - Hoffman, E. The way of splendor. Shambhala, 1981.
 
--   Ponce, C. Kabbalah. Quest Books, 1986.
+  - Ponce, C. Kabbalah. Quest Books, 1986.
 
--   Schachter, Z.M. & E. Hoffman, Sparks of light. Sham bhala, 1983.
+  - Schachter, Z.M. & E. Hoffman, Sparks of light. Sham bhala, 1983.
 
--   Waite, A.E. The holy Kabbalah. University Books, 1960.
+  - Waite, A.E. The holy Kabbalah. University Books, 1960.
 
--   Williams, J.G. Judaism. Quest Books, 1980.
+  - Williams, J.G. Judaism. Quest Books, 1980.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Love
 
+<div class="paragraph">
+
 Various perspectives on the nature and cultivation of love.
 
--   Buscaglia, L. Love. Fawcett Crest, 1972.
+</div>
 
--   Fromm, G. The art of loving. Harper & Row, 1956.
+<div class="ulist">
 
--   Hendricks, G. Learning to love yourself. Prentice-Hall, 1982.
+  - Buscaglia, L. Love. Fawcett Crest, 1972.
 
--   Welwood, J. (ed.). Challenge of the heart. Shambhala, 1985.
+  - Fromm, G. The art of loving. Harper & Row, 1956.
+
+  - Hendricks, G. Learning to love yourself. Prentice-Hall, 1982.
+
+  - Welwood, J. (ed.). Challenge of the heart. Shambhala, 1985.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Meditation: Practice
+
+<div class="paragraph">
 
 Le Shan’s book is a good general introduction to meditation. Ellwood
 tells the beginner about quieting the mind via meditation. Solé-Leris
@@ -3288,37 +5041,61 @@ and Christian meditation (e.g., the St. Ignatius exercises). Other books
 on Buddhist meditation can be found under “Buddhism: Zen” and
 “Mindfulness/ Vipassana.”
 
--   de Mello, A. Sadhana: A way to God. Institute of Jesuit
-    Sources, 1978.
+</div>
 
--   Ellwood, R. Finding the quiet mind. Quest Books, 1983.
+<div class="ulist">
 
--   Fleming, D.L. The spiritual exercises of St. Ignatius. Institute of
+  - de Mello, A. Sadhana: A way to God. Institute of Jesuit Sources,
+    1978.
+
+  - Ellwood, R. Finding the quiet mind. Quest Books, 1983.
+
+  - Fleming, D.L. The spiritual exercises of St. Ignatius. Institute of
     Jesuit Sources, 1978. Kelsey, M. The other side of silence. Paulist
     Press, 1976.
 
--   Le Shan, L. How to meditate. Bantam Book, 1975.
+  - Le Shan, L. How to meditate. Bantam Book, 1975.
 
--   Solé-Leris, A. Tranquility and insight. Shambhala, 1986.
+  - Solé-Leris, A. Tranquility and insight. Shambhala, 1986.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Meditation: Theory and Research
+
+<div class="paragraph">
 
 Goleman surveys the many different approaches to meditation within the
 major world systems. White’s book is a collection of articles on
 different aspects of meditation. Carrington and Shapiro & Walsh deal
 with contemporary Western research approaches to meditation.
 
--   Carrington, P. Freedom in meditation. Anchor Press, 1978.
+</div>
 
--   Goleman, D. The varieties of the meditative experience. E. P.
+<div class="ulist">
+
+  - Carrington, P. Freedom in meditation. Anchor Press, 1978.
+
+  - Goleman, D. The varieties of the meditative experience. E. P.
     Dutton, 1977.
 
--   Shapiro, D.H. & R.N. Walsh (eds.). Meditation: Classic and
+  - Shapiro, D.H. & R.N. Walsh (eds.). Meditation: Classic and
     contemporary perspectives. Aldine, 1984.
 
--   White, J. (ed.). What is meditation? Anchor Books, 1974.
+  - White, J. (ed.). What is meditation? Anchor Books, 1974.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Mindfulness/Vipassana
+
+<div class="paragraph">
 
 Books dealing with mindfulness and vipassana based on classic Theravadin
 Buddhist teachings and practices. Dhiravamsa, Nyanaponika Thera, and
@@ -3329,29 +5106,41 @@ a set of talks and instructions from a meditation retreat. The other
 books are from respected contemporary Eastern teachers (Mahasi Sayadaw,
 S. N. Goenka, Achaan Chah).
 
--   Buddhaghosa. Visuddi Magga (The path of purification). Buddhist
+</div>
+
+<div class="ulist">
+
+  - Buddhaghosa. Visuddi Magga (The path of purification). Buddhist
     Publication Society, 1975. Translator Bhikkhu Nanamoli.
 
--   Dhiravamsa. The way of non-attachment. Schocken Books, 1977.
+  - Dhiravamsa. The way of non-attachment. Schocken Books, 1977.
 
--   Goldstein, J. The experience of insight. Shambhala, 1983.
+  - Goldstein, J. The experience of insight. Shambhala, 1983.
 
--   Hart, W. The art of living: Vipassana meditation as taught by S. N.
+  - Hart, W. The art of living: Vipassana meditation as taught by S. N.
     Goenka. Harper & Row, 1987.
 
--   Kornfield, J. & P. Breiter. A still forest pool: The in sight
+  - Kornfield, J. & P. Breiter. A still forest pool: The in sight
     meditation of Achaan Chah. Quest Books, 1985.
 
--   Sayadaw, Mahasi. Practical insight meditation. Followed by The
+  - Sayadaw, Mahasi. Practical insight meditation. Followed by The
     progress of insight. Buddhist Publication Society, 1980 & 1978.
 
--   Thera, Nyanaponika. The heart of Buddhist meditation. Rider &
-    Co., 1962.
+  - Thera, Nyanaponika. The heart of Buddhist meditation. Rider & Co.,
+    1962.
 
--   Thera, Soma. The way of mindfulness. Buddhist Publication Society,
+  - Thera, Soma. The way of mindfulness. Buddhist Publication Society,
     fourth edition, 1975.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Mysticism/Enlightenment
+
+<div class="paragraph">
 
 White’s book is a good collection of articles about enlightenment. Stace
 provides a collection of writings from the great mystics of various
@@ -3360,46 +5149,71 @@ MerrellWolff describes a philosophical model of the highest level of
 consciousness. Bucke’s and Underhill’s books are early classics in the
 field. Related material can be found under the category “consciousness.”
 
--   Bucke, M. Cosmic consciousness. E. P. Dutton, 1969.
+</div>
 
--   Merrell-Wolff, F. The philosophy of consciousness without an object.
+<div class="ulist">
+
+  - Bucke, M. Cosmic consciousness. E. P. Dutton, 1969.
+
+  - Merrell-Wolff, F. The philosophy of consciousness without an object.
     Julian Press, 1973.
 
--   Roberts, B. The path to no-self. Shambhala, 1985.
+  - Roberts, B. The path to no-self. Shambhala, 1985.
 
--   Stace, W.T. The teachings of the mystics. Mentor Books, 1960.
+  - Stace, W.T. The teachings of the mystics. Mentor Books, 1960.
 
--   Underhill, E. Mysticism. E. P. Dutton, 1961.
+  - Underhill, E. Mysticism. E. P. Dutton, 1961.
 
--   White, J. (ed.). What is enlightenment? J. P. Tarcher, 1985.
+  - White, J. (ed.). What is enlightenment? J. P. Tarcher, 1985.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### References
 
-The dictionaries by Jack and Reese help define spiritual terms.
-Popenoe’s book is a massive annotated bibliography of the types of books
-in this suggested reading section. The New Consciousness Sourcebook,
-previously The Spiritual Community Guide, is a book that comes out every
-few years listing spiritual groups, training centers, classified ads,
-etc. Henderson surveys many of the personal and transpersonal growth
-groups of the 1970s. The last half of Ram Dass’s book is a directory of
-American retreat centers and places of meditation instruction.
+<div class="paragraph">
 
--   Dass, Ram. Journey of awakening: A meditator’s guidebook. Bantam
+The dictionaries by Jack and Reese help define spiritual terms.
+Popenoe’s book is a massive annotated bibliography of the types of
+books in this suggested reading section. The New Consciousness
+Sourcebook, previously The Spiritual Community Guide, is a book that
+comes out every few years listing spiritual groups, training centers,
+classified ads, etc. Henderson surveys many of the personal and
+transpersonal growth groups of the 1970s. The last half of Ram Dass’s
+book is a directory of American retreat centers and places of meditation
+instruction.
+
+</div>
+
+<div class="ulist">
+
+  - Dass, Ram. Journey of awakening: A meditator’s guidebook. Bantam
     Book, 1978.
 
--   Henderson, C.W. Awakening. Prentice-Hall, 1975.
+  - Henderson, C.W. Awakening. Prentice-Hall, 1975.
 
--   Jack, A. The new age dictionary. Kanthaka Press, 1976.
+  - Jack, A. The new age dictionary. Kanthaka Press, 1976.
 
--   Khalsa, P.S. (ed.). The new consciousness sourcebook. Spiritual
+  - Khalsa, P.S. (ed.). The new consciousness sourcebook. Spiritual
     Community Publications.
 
--   Popenoe, C. Inner development. Yes! Inc., 1979.
+  - Popenoe, C. Inner development. Yes\! Inc., 1979.
 
--   Reese, W.L. Dictionary of philosophy and religion. Humanities
-    Press, 1980.
+  - Reese, W.L. Dictionary of philosophy and religion. Humanities Press,
+    1980.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Religion
+
+<div class="paragraph">
 
 Schuon and Smith discuss the fundamental spiritual commonalities of
 religions, including the perennial philosophy. Wilber relates religion
@@ -3410,33 +5224,45 @@ Stapleton’s science fiction story tells of an evolving God who creates a
 succession of universes. Spilka, Hood, and Gorsuch provide a current
 textbook on the psychology of religion.
 
--   James, W. The varieties of religious experience. Mentor Books, 1958.
+</div>
 
--   Lilly, J.C. Simulations of God. Bantam Books, 1976.
+<div class="ulist">
 
--   Schuon, F. The transcendent unity of religions. Quest Books, 1984.
+  - James, W. The varieties of religious experience. Mentor Books, 1958.
 
--   Smith, H. Forgotten truth: The primordial tradition. Harper
+  - Lilly, J.C. Simulations of God. Bantam Books, 1976.
+
+  - Schuon, F. The transcendent unity of religions. Quest Books, 1984.
+
+  - Smith, H. Forgotten truth: The primordial tradition. Harper
     Colophon, 1977.
 
--   Spilka, B., R.W. Hood, & R.L. Gorsuch. The psychology of religion.
+  - Spilka, B., R.W. Hood, & R.L. Gorsuch. The psychology of religion.
     Prentice-Hall, 1985.
 
--   Stapleton, 0. Star maker. Penguin Books, 1972.
+  - Stapleton, 0. Star maker. Penguin Books, 1972.
 
--   Wilber, K. A sociable God. Shambhala, 1983.
+  - Wilber, K. A sociable God. Shambhala, 1983.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Religious Classics
 
--   Bhagavad-Gita. One of the world’s most loved spiritual works.
-    Instruction in yoga within the context of a great epic story. J.
-    Mascaro, Penguin Books, 1962. Swami Prabhavananda, Mentor
-    Books, 1944. Shri Purohit Swami, Vintage Books, 1977.
+<div class="ulist">
 
--   The Dhammapada. Some sayings of the Buddha. P. Lal, Farrar, Straus &
+  - Bhagavad-Gita. One of the world’s most loved spiritual works.
+    Instruction in yoga within the context of a great epic story. J.
+    Mascaro, Penguin Books, 1962. Swami Prabhavananda, Mentor Books,
+    1944. Shri Purohit Swami, Vintage Books, 1977.
+
+  - The Dhammapada. Some sayings of the Buddha. P. Lal, Farrar, Straus &
     Giroux, 1967. T. Byrom, Vin tage Books, 1976.
 
--   Holy Bible. The basic text of the Judeo-Christian religions. A
+  - Holy Bible. The basic text of the Judeo-Christian religions. A
     collection of folklore, history, letters, laws, ceremonies, hymns,
     prayers, sermons, odes, proverbs, and essays. The King James version
     is still preferred by many, though the Revised Standard Version is
@@ -3444,80 +5270,136 @@ textbook on the psychology of religion.
     the gospel closest to the perennial philosophy; it is the most
     “mystical” of the gospels.
 
--   The Koran (Quran). The holy scripture of Islam, the record of
+  - The Koran (Quran). The holy scripture of Islam, the record of
     Mohammed’s oral teachings. J. M. Rodwell, translator, Everyman’s
     Library, 1974.
 
--   Tao Teh Ching (The way of life). The basic scripture of Taoism
+  - Tao Teh Ching (The way of life). The basic scripture of Taoism
     attributed to Lao Tzu. R. B. Blakney, Mentor Books, 1955. W. Bynner,
     Capricorn Books, 1944. G. Feng & J. English, Vintage Books, 1972.
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Self-Improvement
+
+<div class="paragraph">
 
 Books for “cleaning house” (Chapter 11), dealing with common practical
 psychological problems.
 
--   Martin, R.A. & Poland, E.Y. Learning to change. McGraw-Hill, 1980.
+</div>
 
--   Mikulas, W.L. Skills of living. University Press of America, 1983.
+<div class="ulist">
 
--   Shapiro, D.H. Precision Nirvana. Prentice-Hall, 1978.
+  - Martin, R.A. & Poland, E.Y. Learning to change. McGraw-Hill, 1980.
 
--   Watson, D.L. & R.G. Tharp. Self-directed behavior. Brooks/Cole,
+  - Mikulas, W.L. Skills of living. University Press of America, 1983.
+
+  - Shapiro, D.H. Precision Nirvana. Prentice-Hall, 1978.
+
+  - Watson, D.L. & R.G. Tharp. Self-directed behavior. Brooks/Cole,
     fourth edition, 1985.
 
--   Williams, R.L. & J.D. Long. Toward a self-managed life style.
+  - Williams, R.L. & J.D. Long. Toward a self-managed life style.
     Houghton Mifflin, third edition, 1983.
 
--   Yates, B.T. Self-management. Wadsworth, 1985.
+  - Yates, B.T. Self-management. Wadsworth, 1985.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Stories
+
+<div class="paragraph">
 
 These books are all collections of short stories intended to stimulate
 spiritual understanding. Jataka stories are legends of former lives of
 the Buddha, often as an animal. Shah’s book is a collection of Sufi
 stories.
 
--   de Mello, A. The song of the bird. Image Books, 1984. Kahn, N.I.
+</div>
+
+<div class="ulist">
+
+  - de Mello, A. The song of the bird. Image Books, 1984. Kahn, N.I.
     Twenty Jataka tales. Inner Traditions Inter national, 1985.
 
--   Reps, P. Zen flesh, Zen bones. Anchor Books, 1957. Salajan, I. Zen
+  - Reps, P. Zen flesh, Zen bones. Anchor Books, 1957. Salajan, I. Zen
     comics. Charles E. Tuttle, I in 1974, II in 1982.
 
--   Shah, I. The pleasantries of the incredible Mulla Nasrudin. E. P.
+  - Shah, I. The pleasantries of the incredible Mulla Nasrudin. E. P.
     Dutton, 1971. (The first of four such collections.).
 
--   Van Over, R. Taoist tales. Mentor, 1973.
+  - Van Over, R. Taoist tales. Mentor, 1973.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Sufism
 
+<div class="paragraph">
+
 Books about Sufism, the mystical side of Islam.
 
--   Lings, M. What is sufism? University of California Press, 1977.
+</div>
 
--   Schuon, F. Sufism: Veil and quintessence. World Wis dom Books, 1981.
+<div class="ulist">
 
--   Shah, I. The Sufis. Anchor Books, 1971.
+  - Lings, M. What is sufism? University of California Press, 1977.
+
+  - Schuon, F. Sufism: Veil and quintessence. World Wis dom Books, 1981.
+
+  - Shah, I. The Sufis. Anchor Books, 1971.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Taoism
+
+<div class="paragraph">
 
 The basic work here is the Tao Teh Ching (see “Religious Classics”)
 followed by Chuang Tsu ‘s Inner Chapters. Wei’s translation and
 commentary on the Tao Teh Ching is in terms of meditation and mysticism.
 
--   Blofeld, J. Gateway to wisdom. Shambhala, 1980. (Taoist and Mahayana
+</div>
+
+<div class="ulist">
+
+  - Blofeld, J. Gateway to wisdom. Shambhala, 1980. (Taoist and Mahayana
     Buddhist practices).
 
--   Blofeld, J. Taoism: The road to immortality. Shambhala,1978.
+  - Blofeld, J. Taoism: The road to immortality. Shambhala,1978.
 
--   Feng, G. & J. English (translators). Chuang Tsu Inner Chapters.
+  - Feng, G. & J. English (translators). Chuang Tsu Inner Chapters.
     Vintage Books, 1974.
 
--   Watts, A. Tao: The watercourse way. Pantheon Books, 1975.
+  - Watts, A. Tao: The watercourse way. Pantheon Books, 1975.
 
--   Wei, H. The guiding light of Lao Tzu. Quest Books, 1982.
+  - Wei, H. The guiding light of Lao Tzu. Quest Books, 1982.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Teachers: Contemporary
+
+<div class="paragraph">
 
 Below is a sample of books from teachers who have been influential in
 American spirituality in the last twenty-five years. Da Free John
@@ -3531,43 +5413,59 @@ explainer of Eastern perspectives. All have autobiographies listed in
 that category, except Krishnamurti for whom Mary Lutyens and Pupul
 Jayakar have written biographies.
 
+</div>
+
+<div class="paragraph">
+
 Contemporary Buddhist teachers can be found under the Tantric/Tibetan,
 Zen, and Mindfulness/Vipassana categories. Contemporary yoga teachers
 include Sri Nisargadatta Maharaj, Swami Muktananda, Swami Narayanda,
 Swami Rama, and Swami Satchidananda.
 
--   Da Free John. The Dawn Horse testament of Heart- Master Da Free
+</div>
+
+<div class="ulist">
+
+  - Da Free John. The Dawn Horse testament of Heart- Master Da Free
     John. Dawn Horse Press, 1985.
 
--   Dass, Ram. The only dance there is. Anchor Books, 1974.
+  - Dass, Ram. The only dance there is. Anchor Books, 1974.
 
--   Dass, Ram. Grist for the mill. Bantam Books, 1979.
+  - Dass, Ram. Grist for the mill. Bantam Books, 1979.
 
--   Krishnamurti, J. The first and last freedom. Harper & Row, 1954.
+  - Krishnamurti, J. The first and last freedom. Harper & Row, 1954.
 
--   Krishnamurti, J. Think on these things. Harper & Row, 1964.
+  - Krishnamurti, J. Think on these things. Harper & Row, 1964.
 
--   Krishnamurti, J. The second Penguin Krishnamurti reader. Penguin
+  - Krishnamurti, J. The second Penguin Krishnamurti reader. Penguin
     Books, 1970 (M. Lutyens, editor).
 
--   Krishnamurti, J. The awakening of intelligence. Harper & Row, 1973.
+  - Krishnamurti, J. The awakening of intelligence. Harper & Row, 1973.
 
--   Krishnamurti, J. The flame of attention. Harper & Row, 1984.
+  - Krishnamurti, J. The flame of attention. Harper & Row, 1984.
 
--   Merton, T. No man is an island. Harcourt, Brace Jovanovich, 1955.
+  - Merton, T. No man is an island. Harcourt, Brace Jovanovich, 1955.
 
--   Merton, T. Mystics and Zen masters. Delta Book, 1961.
+  - Merton, T. Mystics and Zen masters. Delta Book, 1961.
 
--   Merton, T. A Thomas Merton reader. Image Book, 1974. (T. P.
+  - Merton, T. A Thomas Merton reader. Image Book, 1974. (T. P.
     McDonnell, editor).
 
--   Watts, A.W. The book. Collier Books, 1966.
+  - Watts, A.W. The book. Collier Books, 1966.
 
--   Watts, A.W. Cloud-hidden, whereabouts unknown. Vintage Books, 1974.
+  - Watts, A.W. Cloud-hidden, whereabouts unknown. Vintage Books, 1974.
 
--   Watts, A.W. The essence of Alan Watts. Celestial Arts, 1977.
+  - Watts, A.W. The essence of Alan Watts. Celestial Arts, 1977.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Transpersonal Psychology: General
+
+<div class="paragraph">
 
 Maslow and Van Dusen wrote two of the earlier books in Western
 transpersonal psychology. Assagioli’s psychosynthesis was one of the
@@ -3580,60 +5478,84 @@ discussion of people in the helping professions and related personal and
 spiritual issues. The other books are collections of articles about
 transpersonal theory and research.
 
--   Assagioli, R. Psychosynthesis. Penguin Books, 1976. Boorstein, S.
-    (ed.). Transpersonal psychotherapy. Science and Behavior
-    Books, 1980.
+</div>
 
--   Dass, Ram & P. Gorman. How can I help? Knopf, 1985.
+<div class="ulist">
 
--   Dean, S.R. (ed.). Psychiatry & mysticism. Nelson-Hall, 1975.
+  - Assagioli, R. Psychosynthesis. Penguin Books, 1976. Boorstein, S.
+    (ed.). Transpersonal psychotherapy. Science and Behavior Books,
+    1980.
 
--   Ferrucci, P. What we may be. J. P. Tarcher, 1982.
+  - Dass, Ram & P. Gorman. How can I help? Knopf, 1985.
 
--   Maslow, A. The farther reaches of human nature. Penguin Books, 1976.
+  - Dean, S.R. (ed.). Psychiatry & mysticism. Nelson-Hall, 1975.
 
--   Metzner, R. Opening to inner light. J. P.Tarcher, 1986.
+  - Ferrucci, P. What we may be. J. P. Tarcher, 1982.
 
--   Tart, C. T. (ed.). Transpersonal psychologies. Harper & Row, 1975.
+  - Maslow, A. The farther reaches of human nature. Penguin Books, 1976.
 
--   Van Dusen, W. The natural depth in man. Harper & Row, 1972.
+  - Metzner, R. Opening to inner light. J. P.Tarcher, 1986.
 
--   Walsh, R.N. & F. Vaughan (eds.). Beyond ego. J. P. Tarcher, 1980.
+  - Tart, C. T. (ed.). Transpersonal psychologies. Harper & Row, 1975.
 
--   Welwood, J. (ed.). The meeting of the ways. Schocken Books, 1979.
+  - Van Dusen, W. The natural depth in man. Harper & Row, 1972.
 
--   Wilber, K. The Atman project. Quest Books, 1980.
+  - Walsh, R.N. & F. Vaughan (eds.). Beyond ego. J. P. Tarcher, 1980.
 
--   Wilber, K. Up from Eden. Shambhala, 1983.
+  - Welwood, J. (ed.). The meeting of the ways. Schocken Books, 1979.
 
--   Wilber, K. Eye to eye. Anchor Books, 1983 (This book is the best
+  - Wilber, K. The Atman project. Quest Books, 1980.
+
+  - Wilber, K. Up from Eden. Shambhala, 1983.
+
+  - Wilber, K. Eye to eye. Anchor Books, 1983 (This book is the best
     overview by Wilber).
 
+</div>
+
+</div>
+
+<div class="sect3">
+
 #### Transpersonal Psychology: East and West
+
+<div class="paragraph">
 
 These books deal with the interfacing of Western and Eastern
 psychological/spiritual perspectives. Watts is fairly general, Swami
 Rama and Swami Ajaya emphasize yoga, and the other three emphasize
 Buddhism.
 
--   Ajaya, Swami. Psychotherapy East and West. Himalayan
-    Publishers, 1983.
+</div>
 
--   Fromm, E., D.T. Suzuki & R. DeMartino. Zen Buddhism and
+<div class="ulist">
+
+  - Ajaya, Swami. Psychotherapy East and West. Himalayan Publishers,
+    1983.
+
+  - Fromm, E., D.T. Suzuki & R. DeMartino. Zen Buddhism and
     psychoanalysis. Harper & Row, 1960.
 
--   Katz, N. (ed.). Buddhist and Western psychology. Pra jna
-    Press, 1983.
+  - Katz, N. (ed.). Buddhist and Western psychology. Pra jna Press,
+    1983.
 
--   Rama, Swami, R. Ballentine, & Swami Ajaya. Yoga and psychotherapy.
+  - Rama, Swami, R. Ballentine, & Swami Ajaya. Yoga and psychotherapy.
     Himalayan Institute, 1976.
 
--   Spiegelman, J.M. & M. Miyuki. Buddhism and Jungiafl psychology.
+  - Spiegelman, J.M. & M. Miyuki. Buddhism and Jungiafl psychology.
     Falcon Press, 1985.
 
--   Watts, A.W. Psychotherapy East and West. Ballantine Books, 1969.
+  - Watts, A.W. Psychotherapy East and West. Ballantine Books, 1969.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Yoga: General
+
+<div class="paragraph">
 
 The books by Eliade, by Prabhavananda and Isher wood (1969), and by
 Taimni deal with yoga in general and the work of Patanjali. The books by
@@ -3642,57 +5564,88 @@ Chapter 13). The other three books introduce three classic yogis,
 Aurobindo, Ramana Maharshi, and Shankara. See also the category “Chakras
 and Kundalini.”
 
--   Eliade, M. Patanjali and yoga. Schocken Books, 1975.
+</div>
 
--   Eliade, M. Yoga: Immortality and freedom. Princeton University
+<div class="ulist">
+
+  - Eliade, M. Patanjali and yoga. Schocken Books, 1975.
+
+  - Eliade, M. Yoga: Immortality and freedom. Princeton University
     Press, second edition, 1970.
 
--   Maharshi, Ramana. The spiritual teaching of Ramana Maharshi.
+  - Maharshi, Ramana. The spiritual teaching of Ramana Maharshi.
     Shambhala, 1972.
 
--   McDermott, R. The essential Aurobindo. Schocken Books, 1973.
+  - McDermott, R. The essential Aurobindo. Schocken Books, 1973.
 
--   Prabhavananda, Swami & C. Isherwood. How to know God: The yoga
+  - Prabhavananda, Swami & C. Isherwood. How to know God: The yoga
     aphorisms of Patanjali. Mentor, 1969.
 
--   Prabhavananda, Swami. Shankara‘s crest-jewel of discrimination.
+  - Prabhavananda, Swami. Shankara‘s crest-jewel of discrimination.
     Mentor Books, 1970.
 
--   Rama, Swami. Choosing a path. Himalayan Publishers, 1982.
+  - Rama, Swami. Choosing a path. Himalayan Publishers, 1982.
 
--   Taimni, I.K. The science of yoga. Quest Books, 1967.
+  - Taimni, I.K. The science of yoga. Quest Books, 1967.
 
--   Wood, E. Seven schools of yoga. Quest Books, 1973.
+  - Wood, E. Seven schools of yoga. Quest Books, 1973.
+
+</div>
+
+</div>
+
+<div class="sect3">
 
 #### Yoga: Hatha
+
+<div class="paragraph">
 
 Books on hatha yoga including the postures (asanas) and working with the
 breath and vital energy (pranayama).
 
--   Hittleman, R. Introduction to yoga. Bantam Books, 1969.
+</div>
 
--   Iyengar, B.K.S. Light on yoga. Schocken Books, revised
-    edition, 1977.
+<div class="ulist">
 
--   Iyengar, B.K.S. The concise light on yoga. Schocken Books,1982.
+  - Hittleman, R. Introduction to yoga. Bantam Books, 1969.
 
--   Narayanananda, Swami. The secrets of prana, pranayama, and
+  - Iyengar, B.K.S. Light on yoga. Schocken Books, revised edition,
+    1977.
+
+  - Iyengar, B.K.S. The concise light on yoga. Schocken Books,1982.
+
+  - Narayanananda, Swami. The secrets of prana, pranayama, and
     yoga-asanas. N.U. Yoga Trust, 5th edition, 1979.
 
--   Samskrti & Veda. Hatha yoga. Himalayan Institute, second edition,
+  - Samskrti & Veda. Hatha yoga. Himalayan Institute, second edition,
     1987 (first of two manuals).
 
--   Rama, Swami. Path of fire and light: Advanced practices of yoga.
+  - Rama, Swami. Path of fire and light: Advanced practices of yoga.
     Himalayan Publishers, 1986.
 
--   Rama, Swami, R. Ballentine, & A. Hymes. Science of breath. Himalayan
+  - Rama, Swami, R. Ballentine, & A. Hymes. Science of breath. Himalayan
     Institute, 1979.
 
--   Vishnudevananda, Swami. The complete illustrated book of yoga.
+  - Vishnudevananda, Swami. The complete illustrated book of yoga.
     Pocket Book, 1972.
 
-About the Author
-----------------
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="sect1">
+
+## About the Author
+
+<div class="sectionbody">
+
+<div class="paragraph">
 
 William M. Mikulas is Professor of Psychology at the University of West
 Florida at Pensacola, where he teaches courses in transpersonal
@@ -3702,6 +5655,10 @@ Living*, a precursor to this book. He has published numerous articles,
 including ones on such subjects as “Buddhism and Behavior Modification”
 and “Four Noble Truths of Buddhism as Related to Behavior Therapy.”
 
+</div>
+
+<div class="paragraph">
+
 Dr. Mikulas received his Ph.D. in General Psychology and Behavior
 Modification at the University of Michigan, where he also earned his
 M.A. and B.A. degrees. He has served as Visiting Professor at the
@@ -3709,4 +5666,20 @@ University of Nevada and in Thailand. He was chosen for the
 distinguished research award and also for the distinguished teaching
 award at West Florida.
 
-Last updated 2019-05-11 18:53:51 -0500
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="footer">
+
+<div id="footer-text">
+
+Last updated 2019-08-12 23:08:02 +0700
+
+</div>
+
+</div>

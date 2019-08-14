@@ -3,7 +3,7 @@ INDIR=asciidoc/
 OUTNAME=the_way_beyond
 OUTDIR=./
 
-all: html5 pdf docx md txt
+all: html5 pdf docx md txt epub
 
 clean:
 	rm -f $(OUTDIR)/$(OUTNAME).html
@@ -11,6 +11,7 @@ clean:
 	rm -f $(OUTDIR)/$(OUTNAME).docx
 	rm -f $(OUTDIR)/$(OUTNAME).md
 	rm -f $(OUTDIR)/$(OUTNAME).txt
+	rm -f $(OUTDIR)/$(OUTNAME).epub
 
 html: $(INDIR)/$(INPUT_ADOC) ./images/*
 	asciidoctor -d book $(INDIR)/$(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).html
@@ -25,7 +26,10 @@ docx: $(INDIR)/$(INPUT_ADOC) ./images/*
 	asciidoctor -b docbook -d book --out-file - $(INDIR)/$(INPUT_ADOC) | pandoc --from docbook --to docx --toc --toc-depth=2 --output $(OUTDIR)/$(OUTNAME).docx
 
 md: $(INDIR)/$(INPUT_ADOC) ./images/*
-	asciidoctor -b html --out-file - $(INDIR)/$(INPUT_ADOC) | pandoc -f html -t markdown_strict -o $(OUTDIR)/$(OUTNAME).md
+	asciidoctor -b html --out-file - $(INDIR)/$(INPUT_ADOC) | pandoc -f html -t gfm -o $(OUTDIR)/$(OUTNAME).md
 
 txt: $(OUTDIR)/$(OUTNAME).html
-	html2text -nobs -style pretty $(OUTDIR)/$(OUTNAME).html > $(OUTDIR)/$(OUTNAME).txt
+	asciidoctor -b html --out-file - $(INDIR)/$(INPUT_ADOC) | pandoc -f html -t plain -o $(OUTDIR)/$(OUTNAME).txt
+
+epub: $(INDIR)/$(INPUT_ADOC) ./images/*
+	asciidoctor -b html --out-file - $(INDIR)/$(INPUT_ADOC) | pandoc -f html -t epub3 -o $(OUTDIR)/$(OUTNAME).epub
