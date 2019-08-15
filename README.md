@@ -6,6 +6,7 @@ An Overview of Spiritual Practices
 Requirements:
 * asciidoctor
 * pandoc
+* asciidoctor-epub3
 
 Pages:
 * https://jackiewoodall.github.io/twb

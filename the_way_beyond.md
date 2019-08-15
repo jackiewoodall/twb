@@ -5,48 +5,26 @@
 <div class="details">
 
 <span id="author" class="author">William L. Mikulas</span>  
-<span id="revdate">1987</span>
-
-</div>
-
-<div id="toc" class="toc">
-
-<div id="toctitle">
-
-Table of Contents
-
-</div>
-
-  - [Dedication](#_dedication)
-  - [Overview](#_overview)
-  - [Perspectives](#_perspectives)
-      - [The Self](#_the_self)
-      - [Levels of Being](#_levels_of_being)
-      - [The Game of Life](#_the_game_of_life)
-      - [Dreaming](#_dreaming)
-  - [Basic Practices](#_basic_practices)
-      - [Meditation](#_meditation)
-      - [Concentration](#_concentration)
-      - [Mindfulness](#_mindfulness)
-      - [Opening the Heart](#_opening_the_heart)
-      - [Reducing Attachments](#_reducing_attachments)
-  - [Overall Practice](#_overall_practice)
-      - [Cleaning House](#_cleaning_house)
-      - [Readiness to Know](#_readiness_to_know)
-      - [Finding Your Way](#_finding_your_way)
-      - [Teachers](#_teachers)
-      - [Continual Practice](#_continual_practice)
-      - [Retreats](#_retreats)
-  - [Appendix](#_appendix)
-      - [Some Basic Definitions](#_some_basic_definitions)
-      - [Suggested Reading](#_suggested_reading)
-  - [About the Author](#_about_the_author)
 
 </div>
 
 </div>
 
 <div id="content">
+
+<div id="preamble">
+
+<div class="sectionbody">
+
+<div class="paragraph">
+
+:copyright 1987
+
+</div>
+
+</div>
+
+</div>
 
 <div class="sect1">
 
@@ -5678,7 +5656,7 @@ award at West Florida.
 
 <div id="footer-text">
 
-Last updated 2019-08-12 23:08:02 +0700
+Last updated 2019-08-15 16:22:46 +0700
 
 </div>
 

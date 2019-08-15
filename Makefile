@@ -3,7 +3,7 @@ INDIR=asciidoc/
 OUTNAME=the_way_beyond
 OUTDIR=./
 
-all: html5 pdf docx md txt epub
+all: html5 pdf docx md txt epub mobi
 
 clean:
 	rm -f $(OUTDIR)/$(OUTNAME).html
@@ -12,6 +12,7 @@ clean:
 	rm -f $(OUTDIR)/$(OUTNAME).md
 	rm -f $(OUTDIR)/$(OUTNAME).txt
 	rm -f $(OUTDIR)/$(OUTNAME).epub
+	rm -f $(OUTDIR)/$(OUTNAME).mobi
 
 html: $(INDIR)/$(INPUT_ADOC) ./images/*
 	asciidoctor -d book $(INDIR)/$(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).html
@@ -32,4 +33,7 @@ txt: $(OUTDIR)/$(OUTNAME).html
 	asciidoctor -b html --out-file - $(INDIR)/$(INPUT_ADOC) | pandoc -f html -t plain -o $(OUTDIR)/$(OUTNAME).txt
 
 epub: $(INDIR)/$(INPUT_ADOC) ./images/*
-	asciidoctor -b html --out-file - $(INDIR)/$(INPUT_ADOC) | pandoc -f html -t epub3 -o $(OUTDIR)/$(OUTNAME).epub
+	asciidoctor-epub3 $(INDIR)/$(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).epub
+
+mobi: $(INDIR)/$(INPUT_ADOC) ./images/*
+	asciidoctor-epub3 -v -D . -a ebook-format=kf8 $(INDIR)/$(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).mobi
