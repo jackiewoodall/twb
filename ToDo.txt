@@ -2,10 +2,9 @@ ToDo
 ====
 o fix .md links, use pandoc gfm
 x epub export
-o toolchain to create mobi
+x toolchain to create mobi
 o book cover
 o license file?
-x pandoc to create txt version?
 
 asiidoc references:
 ===================
