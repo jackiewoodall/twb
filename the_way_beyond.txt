@@ -761,8 +761,8 @@ the one that works best for you, and make that your form of meditation.
 You can always change later, but it is good not to change around too
 much, Particularly at first. In the Theravadin Buddhist tradition it is
 suggested that following the breath at the tip of the nose or at the
-diaphragm is best for quieting the mind (CHAPTER 7), while watching the
-abdomen rise and fall is best for mindfulness (CHAPTER 8).
+diaphragm is best for quieting the mind, while watching the abdomen rise
+and fall is best for mindfulness.
 
 Setting
 
@@ -2031,9 +2031,9 @@ get thrown back on unresolved issues and problems. Transpersonal
 practices may help us see and approach the problems better, but the
 problems still need to be dealt with at their level.
 
-In terms of our “levels of being” (CHAPTER 3), we need to resolve issues
-at the biological level before we can optimally work on the behavioral
-level. We need to deal with nutrition, exercise, breathing, and drugs to
+In terms of our “levels of being”, we need to resolve issues at the
+biological level before we can optimally work on the behavioral level.
+We need to deal with nutrition, exercise, breathing, and drugs to
 purify, strengthen, and come into greater harmony with the temple of the
 body. Similarly, we must deal with issues at the behavioral level before
 we can work optimally at the personal level—including psychological
@@ -2962,7 +2962,7 @@ Swami Rama, Yogananda), psychedelic drugs (Castaneda, Lilly, Ram Dass,
 Watts), and “other” (Lilly, Merrell-Wolff, Watts).
 
 -   Castaneda, C. The teachings of Don Juan. Ballantine Books, 1969. A
-    separate reality. Simon & Schuster, 1971. Journey to Ixtian. Simon &
+    separate reality. Simon & Schuster, 1971. Journey to Ixtlan. Simon &
     Schuster, 1972. Tales of power. Simon & Schuster, 1974.
 
 -   Dass, Ram. Be here now. Lama Foundation, 1971.
@@ -3260,7 +3260,7 @@ symbolic system of Jewish mysticism and occultism.
 
 -   Ponce, C. Kabbalah. Quest Books, 1986.
 
--   Schachter, Z.M. & E. Hoffman, Sparks of light. Sham bhala, 1983.
+-   Schachter, Z.M. & E. Hoffman, Sparks of light. Shambhala, 1983.
 
 -   Waite, A.E. The holy Kabbalah. University Books, 1960.
 
@@ -3358,7 +3358,7 @@ Mysticism/Enlightenment
 White’s book is a good collection of articles about enlightenment. Stace
 provides a collection of writings from the great mystics of various
 traditions. Roberts is a contemporary American Christian mystic.
-MerrellWolff describes a philosophical model of the highest level of
+Merrell-Wolff describes a philosophical model of the highest level of
 consciousness. Bucke’s and Underhill’s books are early classics in the
 field. Related material can be found under the category “consciousness.”
 
@@ -3711,4 +3711,4 @@ University of Nevada and in Thailand. He was chosen for the
 distinguished research award and also for the distinguished teaching
 award at West Florida.
 
-Last updated 2019-08-12 23:08:02 +0700
+Last updated 2019-08-19 13:29:34 +0700

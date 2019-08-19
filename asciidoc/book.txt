@@ -13,6 +13,7 @@ For Benita
 
 
 [preface]
+[[overview]]
 Overview
 --------
 This book is a guide to help you plan the most significant journey you can take. The purpose is to provide you with a practical overview and handbook of fundamental transpersonal and spiritual practices that have been developed throughout the world. When you have such a broad overview, you can more effectively choose those practices and teachings which are best suited for your current position and goals. There is a multitude of good books that provide detailed discussions of various transpersonal theories and practices. This book is more general and provides an integration of the basic practices used in these various approaches.
@@ -45,6 +46,7 @@ The essence of the spiritual and transpersonal practices is very simple and univ
 Perspectives
 ------------
 
+[[the_self]]
 The Self
 ~~~~~~~~
 Since the journey leads beyond the self and is based on getting free from a self-defined reality, it is important to understand what the self is and how it came to be.
@@ -95,7 +97,7 @@ Similarly, Buddhist vipassana meditation practices lead to a direct experience a
 
 But all of this is getting too far ahead. This book surveys those practices which help to resolve issues at the personal stage and lead to the transpersonal. You can see the exact nature of the self and the transpersonal for “yourself” later in the journey.
 
-
+[[levels_of_being]]
 Levels of Being
 ~~~~~~~~~~~~~~~
 There are four levels of being human: the biological, the behavioral, the personal, and the transpersonal. These four levels are totally interrelated and exist in practically everyone, whether we are aware of them or not.
@@ -130,6 +132,7 @@ Although everyone exists at the transpersonal level, most people most of the tim
 
 It is difficult to describe the transpersonal in terms of traditional conceptual knowledge, for the transpersonal level is based on insights and knowledge that is of a type different from conceptual knowledge. Transpersonal knowledge is usually validated in a way that seems immediately obvious, like the “ah-ha” experience. This book provides various conceptualizations of the transpersonal. Yet the transpersonal is not adequately approached or understood conceptually, so the concepts are useful only to the extent that they lead beyond themselves to other types of knowing. There is no particular idea, concept, theory, or belief that I am arguing for. You as a reader will agree or disagree with different statements, choosing what is useful to you. Find and develop those ideas and related practices which speak to you. But be careful that clinging to particular ideas or beliefs doesn’t impair your progress into broader domains of knowing and being.
 
+[[the_game_of_life]]
 The Game of Life
 ~~~~~~~~~~~~~~~~
 Consider popular games like Monopoly, backgammon, and bridge. How well one does in these games is a combination of skill and luck. For many of us the amount of fun we have playing such games depends on whether we win or not. If we are winning, we enjoy the game much more than if we are losing. And some people gloat when they win and complain when they lose.
@@ -156,6 +159,7 @@ The game of life is a role-playing game in which you have been taught a specific
 
 For practical reasons, most people must continue to play their roles in the game, although they can significantly alter the roles. The trick is to be able to continually play the game but not be lost in it. This is the great spiritual teaching that one should be “in the world but not of it,” emphasized by the Christ, the Buddha, the Sufis, and others.
 
+[[dreaming]]
 Dreaming
 ~~~~~~~~
 When you are asleep and dreaming, the dream can seem very real; you are living in a different reality, a different state of consciousness. The rules of reality in the dream are different from the rules of the normal non-sleep consensus reality. In the dream, people may pop in and out of existence or change into other people or other beings. In the dream, you may be able to do miraculous things or be many different people. The sense of self can be very different from the sense of self in the normal non-sleep conscious state.
@@ -186,6 +190,7 @@ The key here is not to get caught up in the drama of the “progress” of awake
 Basic Practices
 ---------------
 
+[[meditation]]
 Meditation
 ~~~~~~~~~~
 The word “meditation” is used to refer to many different things. For some it means to think about or ponder over something (“I’ll meditate on that”). For others it means to fantasize or daydream. For still others meditation is necessarily a religious or occult practice. None of these interpretations is what is meant here.
@@ -218,7 +223,7 @@ Now what do you do while sitting like this? Simply observe your breath. Worldwid
 
 A second way to follow the breath is to watch the rising and falling of the diaphragm, the partition of muscles and sinews between your chest cavity and stomach cavity. Whereas shallow or frightened breathing mostly involves the chest muscles, healthy relaxed breathing is based on the diaphragm. When the diaphragm rises, it forces air out of the lungs. When the diaphragm falls, air comes into the lungs and the stomach is pushed out. Thus, a third way to follow the breath is by watching the rising and falling of the abdomen itself.
 
-In the next few days practice sitting a number of times as described above, and try watching your breath in the three different ways. Find the one that works best for you, and make that your form of meditation. You can always change later, but it is good not to change around too much, Particularly at first. In the Theravadin Buddhist tradition it is suggested that following the breath at the tip of the nose or at the diaphragm is best for quieting the mind [red]*(Chapter 7)*, while watching the abdomen rise and fall is best for mindfulness [red]*(Chapter 8)*.
+In the next few days practice sitting a number of times as described above, and try watching your breath in the three different ways. Find the one that works best for you, and make that your form of meditation. You can always change later, but it is good not to change around too much, Particularly at first. In the Theravadin Buddhist tradition it is suggested that following the breath at the tip of the nose or at the diaphragm is best for <<concentration,quieting the mind>>, while watching the abdomen rise and fall is best for <<mindfulness,mindfulness>>.
 
 Setting
 ^^^^^^^
@@ -275,7 +280,7 @@ Finally, it is important to note that these attitudes of meditation apply to man
 
 Meditation is a very simple and very powerful practice for personal and transpersonal growth. But just reading about it is of little value. One must do it regularly for some time. The results can be dramatic, but they often come slowly and subtly. Patience and practice are highly rewarded.
 
-
+[[concentration]]
 Concentration
 ~~~~~~~~~~~~~
 
@@ -316,6 +321,7 @@ The Buddhist/yogic literature describes eight jhanas, levels of samadhi (concent
 Such meditative levels need not concern us now, nor should they be taken as necessary for optimal spiritual work. Rather, seek to gradually increase your concentration and discover how it aids your personal and transpersonal growth.
 
 
+[[mindfulness]]
 Mindfulness
 ~~~~~~~~~~~
 
@@ -373,6 +379,7 @@ Mindfulness of mental factors involves developing awareness of those aspects of 
 
 Most meditation traditions emphasize concentration/absorption over mindfulness. Buddhism’s great contribution is the emphasis given to mindfulness, particularly as practiced in the Theravadin (Hinayana) branch of Buddhism. Within the Theravadin tradition are the highly developed vipassana (insight) meditations. Vipassana practices include a carefully detailed sequence of mindfulness meditations that leads to ever subtler aspects of consciousness. This reveals insights into the fundamental nature of one’s self and existence in general (e.g., impermanence, suffering, and egolessness). Beyond this, the practices lead to the ultimate spiritual awakening, including various levels of enlightenment.
 
+[[opening_the_heart]]
 Opening the Heart
 ~~~~~~~~~~~~~~~~~
 
@@ -414,6 +421,7 @@ Bhatki yoga, Mahayana Buddhism, and Christianity, in their purest forms, all enc
 
 Opening the heart is a fundamental and critical part of the universal spiritual path. It can be cultivated within a religious context, but it need not be. Opening the heart will increase happiness, improve interpersonal relations, and lead to transpersonal domains.
 
+[[reducing_attachments]]
 Reducing Attachments
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -540,11 +548,12 @@ Every day is filled with attachments that you can practice being mindful of and 
 Overall Practice
 ----------------
 
+[[cleaning_house]]
 Cleaning House
 ~~~~~~~~~~~~~~
 As is made clear in all the major spiritual disciplines, for us to make optimal progress at the personal level and toward the transpersonal, we must first order our life along moral and practical guidelines. We must clean up daily living before we can optimally transcend it. Many people hope that spiritual work will somehow absolve them from the mess they have created in their personal and interpersonal lives. Although there are considerable grace and “miracles” in the game, we will continually get thrown back on unresolved issues and problems. Transpersonal practices may help us see and approach the problems better, but the problems still need to be dealt with at their level.
 
-In terms of our “levels of being” [red]*(Chapter 3)*, we need to resolve issues at the biological level before we can optimally work on the behavioral level. We need to deal with nutrition, exercise, breathing, and drugs to purify, strengthen, and come into greater harmony with the temple of the body. Similarly, we must deal with issues at the behavioral level before we can work optimally at the personal level—including psychological concerns related to thoughts, emotions, interpersonal interactions, and personal skills. We must confront practical issues, such as those related to vocation and social problems. Finally, we must deal with matters at the personal level before we can most effectively move toward the transpersonal. We must resolve problems related to self-concept, self-esteem, and fragmentation of the self.
+In terms of our “<<levels_of_being,levels of being>>”, we need to resolve issues at the biological level before we can optimally work on the behavioral level. We need to deal with nutrition, exercise, breathing, and drugs to purify, strengthen, and come into greater harmony with the temple of the body. Similarly, we must deal with issues at the behavioral level before we can work optimally at the personal level—including psychological concerns related to thoughts, emotions, interpersonal interactions, and personal skills. We must confront practical issues, such as those related to vocation and social problems. Finally, we must deal with matters at the personal level before we can most effectively move toward the transpersonal. We must resolve problems related to self-concept, self-esteem, and fragmentation of the self.
 
 The transpersonal is always present and available and is not “achievable” by changes at the biological, behavioral, and personal levels. However, by removing problems at these three levels, we clear the way for transpersonal realizations and transformation of being. Zen is filled with stories of “instant enlightenment.” But what is not stressed enough in the West is the many years of training the Zen practitioner went through to prepare for the sudden experience of enlightenment.
 
@@ -574,7 +583,7 @@ When the Buddha was asked metaphysical questions, about such matters as previous
 
 Of course, all of this interacts with other aspects of transpersonal practice, such as opening the heart, quieting the mind, and reducing attachments. In Buddhism it is said that morality (_sila_), concentration (_samadhi_), and insight (_prajna_) all influence each other. An improvement in one leads to improvement in the others. For example, cleaning up ethical issues in one’s daily life makes it easier to develop concentration during meditation, for the meditation is less disrupted by ethical concerns and their consequences. And conversely, as you quiet your mind, it is easier to see and work with moral concerns.
 
-
+[[readiness_to_know]]
 Readiness to Know
 ~~~~~~~~~~~~~~~~~
 In the domains of personal and transpersonal knowledge, we are continually bombarded by teachings and information. But most people miss most of this because they are not ready to see and hear the teachings. Their attachments limit their ability to perceive and understand those things they want and/or need to know. Often the more basic and important the teaching, the harder it is to hear.
@@ -606,6 +615,7 @@ So how can you tell when you are understanding clearly as opposed to being caugh
 After the last supper when Jesus was leaving his disciples, they were concerned about what they would do when their teacher was gone. Jesus told them not to worry for he would send the Holy Spirit to be their inner guide.
 
 
+[[finding_your_way]]
 Finding Your Way
 ~~~~~~~~~~~~~~~~
 When a person decides to pursue a spiritual path, the question is often which path to follow. Sometimes circumstances dictate a particular path. But often one is confronted by a variety of paths with associated stories and promises. Which path to take? What are some general guidelines for making such decisions?
@@ -640,6 +650,7 @@ But this teaching is very difficult to hear and has not been particularly useful
 
 It is important to be able to relax into a spiritual path and not make it unnecessarily unpleasant or heavy. So, follow the path with precision, compassion, and clarity. But relax and enjoy it.
 
+[[teachers]]
 Teachers
 ~~~~~~~~
 Most people on a spiritual path can profit from the input of spiritual teachers (gurus), and many spiritual traditions consider this necessary, although many people have done well without one.
@@ -663,6 +674,7 @@ Many people involved in spiritual work seek and value associating with others wi
 Finally, teachers can occur in many forms including animals, phenomena in nature, guides within consciousness, books, and everything else. When the student is ready, the teacher will appear. The form of the teacher is not as important as the essence of the teaching.
 
 
+[[continual_practice]]
 Continual Practice
 ~~~~~~~~~~~~~~~~~~
 At first, spiritual practice is something one does every now and then, such as going to church once a week, meditating periodically, or working for a charity on some afternoons. There is a sense that there is a real difference between the sacred and the profane.
@@ -694,6 +706,7 @@ The act of writing down things relating to problems may help you better define t
 So the serious practitioner of a spiritual/transpersonal path recognizes that the overall practice is applicable all the time. This is not instead of whatever else one does, but in addition to it and inclusive of it. Formal sitting meditation, mini- meditations, retrospection, and journal-keeping are some of the ways gradually to cultivate a more general and more continual spiritual perspective.
 
 
+[[retreats]]
 Retreats
 ~~~~~~~~
 It is very helpful for most people periodically to step out of their lives, to take a time-out from the game. This helps us get a better perspective on our life, to see and think more clearly about what we are doing. Meditation is a good and easy way to do this, but we occasionally need a bigger change of scene. We need periodically to get out of town, or some equivalent.
@@ -739,25 +752,25 @@ General Principles
 ^^^^^^^^^^^^^^^^^^
 (Chapters in parentheses discuss principles)
 
-Make friends with yourself (2, 6, 9, 10, 15) +
-Accept unconditionally (2, 4, 6, 9, 10, 11, 13, 15) +
-Relax (9, 13, 15) +
-Be in the here and now (6, 7, 8, 9, 13, 15, 16) +
-Have a good time (4, 6, 8, 9, 12, 13, 15) +
+Make friends with yourself (<<the_self,2>>, <<meditation,6>>, <<opening_the_heart,9>>, <<reducing_attachments,10>>, <<continual_practice,15>>) +
+Accept unconditionally (<<the_self,2>>, <<the_game_of_life,4>>, <<meditation,6>>, <<opening_the_heart,9>>, <<reducing_attachments,10>>, <<cleaning_house,11>>, <<finding_your_way,13>>, <<continual_practice,15>>) +
+Relax (<<opening_the_heart,9>>, <<finding_your_way,13>>, <<continual_practice,15>>) +
+Be in the here and now (<<meditation,6>>, <<concentration,7>>, <<mindfulness,8>>, <<opening_the_heart,9>>, <<finding_your_way,13>>, <<continual_practice,15>>, <<retreats,16>>) +
+Have a good time (<<the_game_of_life,4>>, <<meditation,6>>, <<mindfulness,8>>, <<opening_the_heart,9>>, <<readiness_to_know,12>>, <<finding_your_way,13>>, <<continual_practice,15>>) +
 
 Common Traps
 ^^^^^^^^^^^^
 (Chapters in parentheses discuss principles)
 
-Form vs. essence (1, 9, 13, 14, 15) +
-Reality vs. mind model (4, 5, 9, 10, 15) +
-Person vs. behavior (4, 9, 10, 15) +
-More is never enough (9, 10, 13) +
+Form vs. essence (<<overview,1>>, <<opening_the_heart,9>>, <<finding_your_way,13>>, <<teachers,14>>, <<continual_practice,15>>) +
+Reality vs. mind model (<<the_game_of_life,4>>, <<dreaming,5>>, <<opening_the_heart,9>>, <<reducing_attachments,10>>, <<continual_practice,15>>) +
+Person vs. behavior (<<the_game_of_life,4>>, <<opening_the_heart,9>>, <<reducing_attachments,10>>, <<continual_practice,15>>) +
+More is never enough (<<opening_the_heart,9>>, <<reducing_attachments,10>>, <<finding_your_way,13>>) +
 
 Four Noble Truths (The Buddha)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 . Life is filled with dukkha (suffering/unsatisfactoriness).
-. The source of dukkha is craving (Chapter 10).
+. The source of dukkha is craving (<<reducing_attachments,Chapter 10>>).
 . Dukkha ends when craving ceases.
 . The way to end dukkha and craving is the Eight fold Path.
 
@@ -769,8 +782,8 @@ Eight-Fold Path (The Buddha)
 . Right action (moral, precise, aware)
 . Right livelihood (doesn’t cause suffering)
 . Right effort (do it; the middle way)
-. Right mindfulness (Chapters 8 and 15)
-. Right concentration (Chapters 7 and 15)
+. Right mindfulness (Chapters <<mindfulness,8>> and <<continual_practice,15>>)
+. Right concentration (Chapters <<concentration,7>> and <<continual_practice,15>>)
 
 “Right” = perfect, harmonious, in balance, conscious
 
@@ -890,7 +903,7 @@ Autobiographies
 ^^^^^^^^^^^^^^^
 The personal stories of people involved with pursuing a spiritual path and/or consciousness expansion within the contexts of Christianity (Merton, Roberts), American Indian (Castaneda), Buddhism (HamiltonMerritt, Trungpa, Watts), yoga (Jones, Muktananda, Ram Dass, Swami Rama, Yogananda), psychedelic drugs (Castaneda, Lilly, Ram Dass, Watts), and “other” (Lilly, Merrell-Wolff, Watts). 
 
-- Castaneda, C. The teachings of Don Juan. Ballantine Books, 1969. A separate reality. Simon & Schuster, 1971. Journey to Ixtian. Simon & Schuster, 1972. Tales of power. Simon & Schuster, 1974. 
+- Castaneda, C. The teachings of Don Juan. Ballantine Books, 1969. A separate reality. Simon & Schuster, 1971. Journey to Ixtlan. Simon & Schuster, 1972. Tales of power. Simon & Schuster, 1974. 
 - Dass, Ram. Be here now. Lama Foundation, 1971. 
 - Hamilton-Merritt, J. A meditator’s diary. Pelican Books, 1979. 
 - Jones, F. The knee of listening. Dawn Horse Press, 1972. Garbage and the goddess. Dawn Horse Press, 1974. (Jones later calls himself “Bubba Free John.”) 
@@ -1030,7 +1043,7 @@ Williams provides a history of the Jewish people from 538 B.C. to 1500 A.D. Bube
 - Gonzalez-Wippler, M. A Kabbalah for the modern world. Bantam Book, 1977. 
 - Hoffman, E. The way of splendor. Shambhala, 1981. 
 - Ponce, C. Kabbalah. Quest Books, 1986. 
-- Schachter, Z.M. & E. Hoffman, Sparks of light. Sham bhala, 1983. 
+- Schachter, Z.M. & E. Hoffman, Sparks of light. Shambhala, 1983. 
 - Waite, A.E. The holy Kabbalah. University Books, 1960. 
 - Williams, J.G. Judaism. Quest Books, 1980.
 
@@ -1077,7 +1090,7 @@ Books dealing with mindfulness and vipassana based on classic Theravadin Buddhis
 
 Mysticism/Enlightenment
 ^^^^^^^^^^^^^^^^^^^^^^^
-White’s book is a good collection of articles about enlightenment. Stace provides a collection of writings from the great mystics of various traditions. Roberts is a contemporary American Christian mystic. MerrellWolff describes a philosophical model of the highest level of consciousness. Bucke’s and Underhill’s books are early classics in the field. Related material can be found under the category “consciousness.” 
+White’s book is a good collection of articles about enlightenment. Stace provides a collection of writings from the great mystics of various traditions. Roberts is a contemporary American Christian mystic. Merrell-Wolff describes a philosophical model of the highest level of consciousness. Bucke’s and Underhill’s books are early classics in the field. Related material can be found under the category “consciousness.” 
 
 - Bucke, M. Cosmic consciousness. E. P. Dutton, 1969. 
 - Merrell-Wolff, F. The philosophy of consciousness without an object. Julian Press, 1973. 

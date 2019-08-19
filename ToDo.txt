@@ -1,6 +1,6 @@
 ToDo
 ====
-o fix .md links, use pandoc gfm
+x fix .md links, use pandoc gfm
 x epub export
 x toolchain to create mobi
 o book cover

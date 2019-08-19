@@ -18,25 +18,25 @@ Table of Contents
 </div>
 
   - [Dedication](#_dedication)
-  - [Overview](#_overview)
+  - [Overview](#overview)
   - [Perspectives](#_perspectives)
-      - [The Self](#_the_self)
-      - [Levels of Being](#_levels_of_being)
-      - [The Game of Life](#_the_game_of_life)
-      - [Dreaming](#_dreaming)
+      - [The Self](#the_self)
+      - [Levels of Being](#levels_of_being)
+      - [The Game of Life](#the_game_of_life)
+      - [Dreaming](#dreaming)
   - [Basic Practices](#_basic_practices)
-      - [Meditation](#_meditation)
-      - [Concentration](#_concentration)
-      - [Mindfulness](#_mindfulness)
-      - [Opening the Heart](#_opening_the_heart)
-      - [Reducing Attachments](#_reducing_attachments)
+      - [Meditation](#meditation)
+      - [Concentration](#concentration)
+      - [Mindfulness](#mindfulness)
+      - [Opening the Heart](#opening_the_heart)
+      - [Reducing Attachments](#reducing_attachments)
   - [Overall Practice](#_overall_practice)
-      - [Cleaning House](#_cleaning_house)
-      - [Readiness to Know](#_readiness_to_know)
-      - [Finding Your Way](#_finding_your_way)
-      - [Teachers](#_teachers)
-      - [Continual Practice](#_continual_practice)
-      - [Retreats](#_retreats)
+      - [Cleaning House](#cleaning_house)
+      - [Readiness to Know](#readiness_to_know)
+      - [Finding Your Way](#finding_your_way)
+      - [Teachers](#teachers)
+      - [Continual Practice](#continual_practice)
+      - [Retreats](#retreats)
   - [Appendix](#_appendix)
       - [Some Basic Definitions](#_some_basic_definitions)
       - [Suggested Reading](#_suggested_reading)
@@ -1206,8 +1206,9 @@ the one that works best for you, and make that your form of meditation.
 You can always change later, but it is good not to change around too
 much, Particularly at first. In the Theravadin Buddhist tradition it is
 suggested that following the breath at the tip of the nose or at the
-diaphragm is best for quieting the mind **(Chapter 7)**, while watching
-the abdomen rise and fall is best for mindfulness **(Chapter 8)**.
+diaphragm is best for [quieting the mind](#concentration), while
+watching the abdomen rise and fall is best for
+[mindfulness](#mindfulness).
 
 </div>
 
@@ -3085,12 +3086,12 @@ problems still need to be dealt with at their level.
 
 <div class="paragraph">
 
-In terms of our “levels of being” **(Chapter 3)**, we need to resolve
-issues at the biological level before we can optimally work on the
-behavioral level. We need to deal with nutrition, exercise, breathing,
-and drugs to purify, strengthen, and come into greater harmony with the
-temple of the body. Similarly, we must deal with issues at the
-behavioral level before we can work optimally at the personal
+In terms of our “[levels of being](#levels_of_being)”, we need to
+resolve issues at the biological level before we can optimally work on
+the behavioral level. We need to deal with nutrition, exercise,
+breathing, and drugs to purify, strengthen, and come into greater
+harmony with the temple of the body. Similarly, we must deal with issues
+at the behavioral level before we can work optimally at the personal
 level—including psychological concerns related to thoughts, emotions,
 interpersonal interactions, and personal skills. We must confront
 practical issues, such as those related to vocation and social problems.
@@ -4187,11 +4188,21 @@ way.
 
 <div class="paragraph">
 
-Make friends with yourself (2, 6, 9, 10, 15)  
-Accept unconditionally (2, 4, 6, 9, 10, 11, 13, 15)  
-Relax (9, 13, 15)  
-Be in the here and now (6, 7, 8, 9, 13, 15, 16)  
-Have a good time (4, 6, 8, 9, 12, 13, 15)  
+Make friends with yourself ([2](#the_self), [6](#meditation),
+[9](#opening_the_heart), [10](#reducing_attachments),
+[15](#continual_practice))  
+Accept unconditionally ([2](#the_self), [4](#the_game_of_life),
+[6](#meditation), [9](#opening_the_heart), [10](#reducing_attachments),
+[11](#cleaning_house), [13](#finding_your_way),
+[15](#continual_practice))  
+Relax ([9](#opening_the_heart), [13](#finding_your_way),
+[15](#continual_practice))  
+Be in the here and now ([6](#meditation), [7](#concentration),
+[8](#mindfulness), [9](#opening_the_heart), [13](#finding_your_way),
+[15](#continual_practice), [16](#retreats))  
+Have a good time ([4](#the_game_of_life), [6](#meditation),
+[8](#mindfulness), [9](#opening_the_heart), [12](#readiness_to_know),
+[13](#finding_your_way), [15](#continual_practice))  
 
 </div>
 
@@ -4209,10 +4220,15 @@ Have a good time (4, 6, 8, 9, 12, 13, 15)
 
 <div class="paragraph">
 
-Form vs. essence (1, 9, 13, 14, 15)  
-Reality vs. mind model (4, 5, 9, 10, 15)  
-Person vs. behavior (4, 9, 10, 15)  
-More is never enough (9, 10, 13)  
+Form vs. essence ([1](#overview), [9](#opening_the_heart),
+[13](#finding_your_way), [14](#teachers), [15](#continual_practice))  
+Reality vs. mind model ([4](#the_game_of_life), [5](#dreaming),
+[9](#opening_the_heart), [10](#reducing_attachments),
+[15](#continual_practice))  
+Person vs. behavior ([4](#the_game_of_life), [9](#opening_the_heart),
+[10](#reducing_attachments), [15](#continual_practice))  
+More is never enough ([9](#opening_the_heart),
+[10](#reducing_attachments), [13](#finding_your_way))  
 
 </div>
 
@@ -4226,7 +4242,8 @@ More is never enough (9, 10, 13)
 
 1.  Life is filled with dukkha (suffering/unsatisfactoriness).
 
-2.  The source of dukkha is craving (Chapter 10).
+2.  The source of dukkha is craving ([Chapter
+    10](#reducing_attachments)).
 
 3.  Dukkha ends when craving ceases.
 
@@ -4254,9 +4271,11 @@ More is never enough (9, 10, 13)
 
 6.  Right effort (do it; the middle way)
 
-7.  Right mindfulness (Chapters 8 and 15)
+7.  Right mindfulness (Chapters [8](#mindfulness) and
+    [15](#continual_practice))
 
-8.  Right concentration (Chapters 7 and 15)
+8.  Right concentration (Chapters [7](#concentration) and
+    [15](#continual_practice))
 
 </div>
 
@@ -4545,7 +4564,7 @@ Watts), and “other” (Lilly, Merrell-Wolff, Watts).
 <div class="ulist">
 
   - Castaneda, C. The teachings of Don Juan. Ballantine Books, 1969. A
-    separate reality. Simon & Schuster, 1971. Journey to Ixtian. Simon &
+    separate reality. Simon & Schuster, 1971. Journey to Ixtlan. Simon &
     Schuster, 1972. Tales of power. Simon & Schuster, 1974.
 
   - Dass, Ram. Be here now. Lama Foundation, 1971.
@@ -4991,7 +5010,7 @@ symbolic system of Jewish mysticism and occultism.
 
   - Ponce, C. Kabbalah. Quest Books, 1986.
 
-  - Schachter, Z.M. & E. Hoffman, Sparks of light. Sham bhala, 1983.
+  - Schachter, Z.M. & E. Hoffman, Sparks of light. Shambhala, 1983.
 
   - Waite, A.E. The holy Kabbalah. University Books, 1960.
 
@@ -5145,7 +5164,7 @@ S. N. Goenka, Achaan Chah).
 White’s book is a good collection of articles about enlightenment. Stace
 provides a collection of writings from the great mystics of various
 traditions. Roberts is a contemporary American Christian mystic.
-MerrellWolff describes a philosophical model of the highest level of
+Merrell-Wolff describes a philosophical model of the highest level of
 consciousness. Bucke’s and Underhill’s books are early classics in the
 field. Related material can be found under the category “consciousness.”
 
@@ -5678,7 +5697,7 @@ award at West Florida.
 
 <div id="footer-text">
 
-Last updated 2019-08-12 23:08:02 +0700
+Last updated 2019-08-19 13:29:34 +0700
 
 </div>
 
