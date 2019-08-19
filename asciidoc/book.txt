@@ -7,6 +7,7 @@ William L. Mikulas
 
 
 [dedication]
+[[dedication]]
 Dedication
 ----------
 For Benita
@@ -742,6 +743,7 @@ Of course, there is much more that could be said on any of the topics covered he
 I wish you well on the journey and offer this book to help you along the way.
 
 
+[[appendix]]
 Appendix
 --------
 

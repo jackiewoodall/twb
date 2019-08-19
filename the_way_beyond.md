@@ -17,7 +17,7 @@ Table of Contents
 
 </div>
 
-  - [Dedication](#_dedication)
+  - [Dedication](#dedication)
   - [Overview](#overview)
   - [Perspectives](#_perspectives)
       - [The Self](#the_self)
@@ -37,7 +37,7 @@ Table of Contents
       - [Teachers](#teachers)
       - [Continual Practice](#continual_practice)
       - [Retreats](#retreats)
-  - [Appendix](#_appendix)
+  - [Appendix](#appendix)
       - [Some Basic Definitions](#_some_basic_definitions)
       - [Suggested Reading](#_suggested_reading)
   - [About the Author](#_about_the_author)
@@ -5697,7 +5697,7 @@ award at West Florida.
 
 <div id="footer-text">
 
-Last updated 2019-08-19 13:29:34 +0700
+Last updated 2019-08-19 16:34:32 +0700
 
 </div>
 
