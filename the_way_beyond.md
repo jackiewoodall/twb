@@ -24,13 +24,13 @@ Table of Contents
       - [Levels of Being](#levels-of-being)
       - [The Game of Life](#the-game-of-life)
       - [Dreaming](#dreaming)
-  - [Basic Practices](#_basic_practices)
+  - [Basic Practices](#basic-practices)
       - [Meditation](#meditation)
       - [Concentration](#concentration)
       - [Mindfulness](#mindfulness)
       - [Opening the Heart](#opening-the-heart)
       - [Reducing Attachments](#reducing-attachments)
-  - [Overall Practice](#_overall_practice)
+  - [Overall Practice](#overall-practice)
       - [Cleaning House](#cleaning-house)
       - [Readiness to Know](#readiness-to-know)
       - [Finding Your Way](#finding-your-way)
@@ -38,8 +38,8 @@ Table of Contents
       - [Continual Practice](#continual-practice)
       - [Retreats](#retreats)
   - [Appendix](#appendix)
-      - [Some Basic Definitions](#_some_basic_definitions)
-      - [Suggested Reading](#_suggested_reading)
+      - [Some Basic Definitions](#some-basic-definitions)
+      - [Suggested Reading](#suggested-reading)
   - [About the Author](#_about_the_author)
 
 </div>
@@ -5697,7 +5697,7 @@ award at West Florida.
 
 <div id="footer-text">
 
-Last updated 2019-08-20 08:09:50 +0700
+Last updated 2019-08-20 08:28:39 +0700
 
 </div>
 

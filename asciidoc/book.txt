@@ -4,6 +4,8 @@ William L. Mikulas
 1987
 :doctype: book
 :toc:
+:front-cover-image: images/0-cover-1-front.jpg
+:back-cover-image: images/0-cover-2-back.jpg
 
 
 [dedication]
@@ -188,6 +190,7 @@ Few people suddenly wake up. For most it is a case of gradually awakening, with 
 The key here is not to get caught up in the drama of the “progress” of awakening as perceived by the dreamer. This only reinforces the illusionary search within the dream. Rather, one continues the practices within the dream, learns not to equate objectives of the dream with probability of awakening, and continually reorients toward that which is superordinate to the dream.
 
 
+[[basic-practices]]
 Basic Practices
 ---------------
 
@@ -546,6 +549,7 @@ Here is a list of attachments I have collected from a group of students. As an e
 Every day is filled with attachments that you can practice being mindful of and work at reducing. Reducing attachments will improve your daily living and free you to move toward higher levels of being.
 
 
+[[overall-practice]]
 Overall Practice
 ----------------
 
@@ -747,6 +751,7 @@ I wish you well on the journey and offer this book to help you along the way.
 Appendix
 --------
 
+[[some-basic-definitions]]
 Some Basic Definitions
 ~~~~~~~~~~~~~~~~~~~~~~
 
@@ -844,6 +849,7 @@ The Perennial Philosophy (ala Aldous Huxley)
 . One’s life on earth has only one end and purpose: to identify with the eternal Self and so come to unitive knowledge of the Divine Ground.
 
 
+[[suggested-reading]]
 Suggested Reading
 ~~~~~~~~~~~~~~~~~
 Many of the books in this list go in and out of print with various publishers. There are also many different translations of some of the non-English books, particularly classic spiritual texts. I cannot say which translation is the most “accurate” or “appropriate” for any particular reader.
