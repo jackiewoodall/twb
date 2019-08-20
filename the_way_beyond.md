@@ -20,22 +20,22 @@ Table of Contents
   - [Dedication](#dedication)
   - [Overview](#overview)
   - [Perspectives](#_perspectives)
-      - [The Self](#the_self)
-      - [Levels of Being](#levels_of_being)
-      - [The Game of Life](#the_game_of_life)
+      - [The Self](#the-self)
+      - [Levels of Being](#levels-of-being)
+      - [The Game of Life](#the-game-of-life)
       - [Dreaming](#dreaming)
   - [Basic Practices](#_basic_practices)
       - [Meditation](#meditation)
       - [Concentration](#concentration)
       - [Mindfulness](#mindfulness)
-      - [Opening the Heart](#opening_the_heart)
-      - [Reducing Attachments](#reducing_attachments)
+      - [Opening the Heart](#opening-the-heart)
+      - [Reducing Attachments](#reducing-attachments)
   - [Overall Practice](#_overall_practice)
-      - [Cleaning House](#cleaning_house)
-      - [Readiness to Know](#readiness_to_know)
-      - [Finding Your Way](#finding_your_way)
+      - [Cleaning House](#cleaning-house)
+      - [Readiness to Know](#readiness-to-know)
+      - [Finding Your Way](#finding-your-way)
       - [Teachers](#teachers)
-      - [Continual Practice](#continual_practice)
+      - [Continual Practice](#continual-practice)
       - [Retreats](#retreats)
   - [Appendix](#appendix)
       - [Some Basic Definitions](#_some_basic_definitions)
@@ -3086,7 +3086,7 @@ problems still need to be dealt with at their level.
 
 <div class="paragraph">
 
-In terms of our “[levels of being](#levels_of_being)”, we need to
+In terms of our “[levels of being](#levels-of-being)”, we need to
 resolve issues at the biological level before we can optimally work on
 the behavioral level. We need to deal with nutrition, exercise,
 breathing, and drugs to purify, strengthen, and come into greater
@@ -4188,21 +4188,21 @@ way.
 
 <div class="paragraph">
 
-Make friends with yourself ([2](#the_self), [6](#meditation),
-[9](#opening_the_heart), [10](#reducing_attachments),
-[15](#continual_practice))  
-Accept unconditionally ([2](#the_self), [4](#the_game_of_life),
-[6](#meditation), [9](#opening_the_heart), [10](#reducing_attachments),
-[11](#cleaning_house), [13](#finding_your_way),
-[15](#continual_practice))  
-Relax ([9](#opening_the_heart), [13](#finding_your_way),
-[15](#continual_practice))  
+Make friends with yourself ([2](#the-self), [6](#meditation),
+[9](#opening-the-heart), [10](#reducing-attachments),
+[15](#continual-practice))  
+Accept unconditionally ([2](#the-self), [4](#the-game-of-life),
+[6](#meditation), [9](#opening-the-heart), [10](#reducing-attachments),
+[11](#cleaning-house), [13](#finding-your-way),
+[15](#continual-practice))  
+Relax ([9](#opening-the-heart), [13](#finding-your-way),
+[15](#continual-practice))  
 Be in the here and now ([6](#meditation), [7](#concentration),
-[8](#mindfulness), [9](#opening_the_heart), [13](#finding_your_way),
-[15](#continual_practice), [16](#retreats))  
-Have a good time ([4](#the_game_of_life), [6](#meditation),
-[8](#mindfulness), [9](#opening_the_heart), [12](#readiness_to_know),
-[13](#finding_your_way), [15](#continual_practice))  
+[8](#mindfulness), [9](#opening-the-heart), [13](#finding-your-way),
+[15](#continual-practice), [16](#retreats))  
+Have a good time ([4](#the-game-of-life), [6](#meditation),
+[8](#mindfulness), [9](#opening-the-heart), [12](#readiness-to-know),
+[13](#finding-your-way), [15](#continual-practice))  
 
 </div>
 
@@ -4220,15 +4220,15 @@ Have a good time ([4](#the_game_of_life), [6](#meditation),
 
 <div class="paragraph">
 
-Form vs. essence ([1](#overview), [9](#opening_the_heart),
-[13](#finding_your_way), [14](#teachers), [15](#continual_practice))  
-Reality vs. mind model ([4](#the_game_of_life), [5](#dreaming),
-[9](#opening_the_heart), [10](#reducing_attachments),
-[15](#continual_practice))  
-Person vs. behavior ([4](#the_game_of_life), [9](#opening_the_heart),
-[10](#reducing_attachments), [15](#continual_practice))  
-More is never enough ([9](#opening_the_heart),
-[10](#reducing_attachments), [13](#finding_your_way))  
+Form vs. essence ([1](#overview), [9](#opening-the-heart),
+[13](#finding-your-way), [14](#teachers), [15](#continual-practice))  
+Reality vs. mind model ([4](#the-game-of-life), [5](#dreaming),
+[9](#opening-the-heart), [10](#reducing-attachments),
+[15](#continual-practice))  
+Person vs. behavior ([4](#the-game-of-life), [9](#opening-the-heart),
+[10](#reducing-attachments), [15](#continual-practice))  
+More is never enough ([9](#opening-the-heart),
+[10](#reducing-attachments), [13](#finding-your-way))  
 
 </div>
 
@@ -4243,7 +4243,7 @@ More is never enough ([9](#opening_the_heart),
 1.  Life is filled with dukkha (suffering/unsatisfactoriness).
 
 2.  The source of dukkha is craving ([Chapter
-    10](#reducing_attachments)).
+    10](#reducing-attachments)).
 
 3.  Dukkha ends when craving ceases.
 
@@ -4272,10 +4272,10 @@ More is never enough ([9](#opening_the_heart),
 6.  Right effort (do it; the middle way)
 
 7.  Right mindfulness (Chapters [8](#mindfulness) and
-    [15](#continual_practice))
+    [15](#continual-practice))
 
 8.  Right concentration (Chapters [7](#concentration) and
-    [15](#continual_practice))
+    [15](#continual-practice))
 
 </div>
 
@@ -5697,7 +5697,7 @@ award at West Florida.
 
 <div id="footer-text">
 
-Last updated 2019-08-19 16:34:32 +0700
+Last updated 2019-08-20 08:09:50 +0700
 
 </div>
 
