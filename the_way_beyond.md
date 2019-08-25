@@ -40,7 +40,7 @@ Table of Contents
   - [Appendix](#appendix)
       - [Some Basic Definitions](#some-basic-definitions)
       - [Suggested Reading](#suggested-reading)
-  - [About the Author](#_about_the_author)
+  - [About the Author](#about-the-author)
 
 </div>
 
@@ -5697,7 +5697,7 @@ award at West Florida.
 
 <div id="footer-text">
 
-Last updated 2019-08-20 08:28:39 +0700
+Last updated 2019-08-25 10:49:10 +0700
 
 </div>
 
