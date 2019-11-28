@@ -3577,7 +3577,7 @@ somewhere else at some other time. Rather, it is a matter of being more
 fully in the here and now. All the practices described in this book are
 intended to bring you into a more direct experience of reality here and
 now. It is not an issue of getting “there”; it is an issue of being
-“here. “It is not “then,” but “now.”
+“here.“ It is not “then,” but “now.”
 
 </div>
 
@@ -5697,7 +5697,7 @@ award at West Florida.
 
 <div id="footer-text">
 
-Last updated 2019-08-25 10:49:10 +0700
+Last updated 2019-11-22 11:22:39 +0630
 
 </div>
 
