@@ -1,23 +1,22 @@
-INPUT_ADOC=book.txt
+INPUT_ADOC=book.adoc
 INDIR=asciidoc/
 OUTNAME=the_way_beyond
 OUTDIR=./
+EXTS=htm html xhtml5 pdf docx md txt epub
 
-all: html5 pdf docx md txt epub
+all: $(EXTS)
 
 clean:
-	rm -f $(OUTDIR)/$(OUTNAME).html
-	rm -f $(OUTDIR)/$(OUTNAME).pdf
-	rm -f $(OUTDIR)/$(OUTNAME).docx
-	rm -f $(OUTDIR)/$(OUTNAME).md
-	rm -f $(OUTDIR)/$(OUTNAME).txt
-	rm -f $(OUTDIR)/$(OUTNAME).epub
+	for ext in $(EXTS); do rm -f $(OUTDIR)/$(OUTNAME).$$ext; done
+
+htm: $(INDIR)/$(INPUT_ADOC) ./images/*
+	asciidoctor -d book $(INDIR)/$(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).htm
 
 html: $(INDIR)/$(INPUT_ADOC) ./images/*
-	asciidoctor -d book $(INDIR)/$(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).html
-
-html5: $(INDIR)/$(INPUT_ADOC) ./images/*
 	asciidoctor -b html5 -d book -a data-uri $(INDIR)/$(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).html
+
+xhtml5: $(INDIR)/$(INPUT_ADOC) ./images/*
+	asciidoctor -b xhtml5 -d book -a data-uri $(INDIR)/$(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).xhtml5
 
 pdf: $(INDIR)/$(INPUT_ADOC) ./images/*
 	asciidoctor-pdf $(INDIR)/$(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).pdf
