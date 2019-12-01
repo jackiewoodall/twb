@@ -1,34 +1,54 @@
 INPUT_ADOC=book.adoc
 INDIR=asciidoc/
+INFILE=$(INDIR)$(INPUT_ADOC)
 OUTNAME=the_way_beyond
 OUTDIR=./
+OUTFILE=$(OUTDIR)$(OUTNAME)
+IMAGES=./images/*.jpg
 EXTS=htm html xhtml5 pdf docx md txt epub
 
 all: $(EXTS)
 
 clean:
-	for ext in $(EXTS); do rm -f $(OUTDIR)/$(OUTNAME).$$ext; done
+	for ext in $(EXTS); do rm -f $(OUTFILE).$$ext; done
 
-htm: $(INDIR)/$(INPUT_ADOC) ./images/*
-	asciidoctor -d book $(INDIR)/$(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).htm
+htm: $(OUTFILE).htm
 
-html: $(INDIR)/$(INPUT_ADOC) ./images/*
-	asciidoctor -b html5 -d book -a data-uri $(INDIR)/$(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).html
+$(OUTFILE).htm: $(INFILE) $(IMAGES)
+	asciidoctor -d book $(INFILE) -o $(OUTFILE).htm
 
-xhtml5: $(INDIR)/$(INPUT_ADOC) ./images/*
-	asciidoctor -b xhtml5 -d book -a data-uri $(INDIR)/$(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).xhtml5
+html: $(OUTFILE).html
 
-pdf: $(INDIR)/$(INPUT_ADOC) ./images/*
-	asciidoctor-pdf $(INDIR)/$(INPUT_ADOC) -o $(OUTDIR)/$(OUTNAME).pdf
+$(OUTFILE).html: $(INFILE) $(IMAGES)
+	asciidoctor -b html5 -d book -a data-uri $(INFILE) -o $(OUTFILE).html
 
-docx: $(INDIR)/$(INPUT_ADOC) ./images/*
-	asciidoctor -b docbook -d book --out-file - $(INDIR)/$(INPUT_ADOC) | pandoc --from docbook --to docx --toc --toc-depth=2 --output $(OUTDIR)/$(OUTNAME).docx
+xhtml5: $(OUTFILE).xhtml5
 
-md: $(INDIR)/$(INPUT_ADOC) ./images/*
-	asciidoctor -b html --out-file - $(INDIR)/$(INPUT_ADOC) | pandoc -f html -t gfm -o $(OUTDIR)/$(OUTNAME).md
+$(OUTFILE).xhtml5: $(INFILE) $(IMAGES)
+	asciidoctor -b xhtml5 -d book -a data-uri $(INFILE) -o $(OUTFILE).xhtml5
 
-txt: $(OUTDIR)/$(OUTNAME).html
-	asciidoctor -b html --out-file - $(INDIR)/$(INPUT_ADOC) | pandoc -f html -t plain -o $(OUTDIR)/$(OUTNAME).txt
+pdf: $(OUTFILE).pdf
 
-epub: $(INDIR)/$(INPUT_ADOC) ./images/*
-	asciidoctor -b html --out-file - $(INDIR)/$(INPUT_ADOC) | pandoc -f html -t epub3 -o $(OUTDIR)/$(OUTNAME).epub
+$(OUTFILE).pdf: $(INFILE) $(IMAGES)
+	asciidoctor-pdf $(INFILE) -o $(OUTFILE).pdf
+
+docx: $(OUTFILE).docx
+
+$(OUTFILE).docx: $(INFILE) $(IMAGES)
+	asciidoctor -b docbook -d book --out-file - $(INFILE) | pandoc --from docbook --to docx --toc --toc-depth=2 --output $(OUTFILE).docx
+
+md: $(OUTFILE).md
+
+$(OUTFILE).md: $(OUTFILE).htm
+	pandoc -f html -t gfm -o $(OUTFILE).md $(OUTFILE).htm
+
+txt: $(OUTFILE).txt
+
+$(OUTFILE).txt: $(OUTFILE).htm
+	pandoc -f html -t plain -o $(OUTFILE).txt $(OUTFILE).htm
+
+epub: $(OUTFILE).epub
+
+$(OUTFILE).epub: $(OUTFILE).htm
+	pandoc -f html -t epub3 -o $(OUTFILE).epub $(OUTFILE).htm
+
