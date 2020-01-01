@@ -14,7 +14,7 @@ clean:
 
 htm: $(OUTFILE).htm
 
-$(OUTFILE).htm: $(INFILE) $(IMAGES)
+$(OUTFILE).htm: $(INFILE)
 	asciidoctor -d book $(INFILE) -o $(OUTFILE).htm
 
 html: $(OUTFILE).html
