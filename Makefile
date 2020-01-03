@@ -50,5 +50,5 @@ $(OUTFILE).txt: $(OUTFILE).htm
 epub: $(OUTFILE).epub
 
 $(OUTFILE).epub: $(OUTFILE).htm
-	pandoc -f html -t epub3 -o $(OUTFILE).epub $(OUTFILE).htm
+	pandoc -f html -t epub3 --epub-cover-image=images/0-cover-1-front.jpg -o $(OUTFILE).epub $(OUTFILE).htm
 
