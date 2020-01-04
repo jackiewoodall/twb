@@ -17,7 +17,7 @@ Table of Contents
 
 </div>
 
-  - [Dedication](#dedication)
+  - [Dedication](#_dedication)
   - [Overview](#overview)
   - [Perspectives](#_perspectives)
       - [The Self](#the-self)
@@ -5697,7 +5697,7 @@ award at West Florida.
 
 <div id="footer-text">
 
-Last updated 2019-11-22 11:22:39 +0630
+Last updated 2020-01-04 21:48:00 +0630
 
 </div>
 

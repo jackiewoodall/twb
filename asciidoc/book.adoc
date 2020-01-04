@@ -8,14 +8,11 @@ William L. Mikulas
 :back-cover-image: images/0-cover-2-back.jpg
 
 
-[dedication]
-[[dedication]]
 Dedication
 ----------
 For Benita
 
 
-[preface]
 [[overview]]
 Overview
 --------
