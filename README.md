@@ -6,6 +6,7 @@ An Overview of Spiritual Practices
 Requirements:
 * asciidoctor
 * pandoc
+* calibre
 
 Pages:
 * https://jackiewoodall.github.io/twb
