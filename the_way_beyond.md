@@ -4555,7 +4555,7 @@ textbook summarizes many of the barriers to personal growth.
 The personal stories of people involved with pursuing a spiritual path
 and/or consciousness expansion within the contexts of Christianity
 (Merton, Roberts), American Indian (Castaneda), Buddhism
-(HamiltonMerritt, Trungpa, Watts), yoga (Jones, Muktananda, Ram Dass,
+(Hamilton-Merritt, Trungpa, Watts), yoga (Jones, Muktananda, Ram Dass,
 Swami Rama, Yogananda), psychedelic drugs (Castaneda, Lilly, Ram Dass,
 Watts), and “other” (Lilly, Merrell-Wolff, Watts).
 
@@ -4590,7 +4590,7 @@ Watts), and “other” (Lilly, Merrell-Wolff, Watts).
 
   - Roberts, B. The experience of no-self. Shambhala, 1984.
 
-  - Trungpa, Chbgyam. Born in Tibet. Random House, 1985.
+  - Trungpa, Chögyam. Born in Tibet. Random House, 1985.
 
   - Watts, A. In my own way. Vintage Books, 1972.
 
@@ -4625,7 +4625,7 @@ compilations of some of the vast Buddhist literature.
   - Conze, E. Buddhism: Its essence and development. Harper Colophon,
     1975.
 
-  - Conze, E. & I.B. Horner, D. Sneligrove, & A. Waley. Bud dhist texts
+  - Conze, E. & I.B. Horner, D. Sneligrove, & A. Waley. Buddhist texts
     through the ages. Harper Torchbooks, 1954.
 
   - Rahula, W. What the Buddha taught. Grove Press, enlarged edition,
@@ -4651,7 +4651,7 @@ compilations of some of the vast Buddhist literature.
 
 <div class="paragraph">
 
-The book by Blofeld and the one by Guenther & Tmungpa provide an
+The book by Blofeld and the one by Guenther & Trungpa provide an
 introductory overview. Chögyam Trungpa, who died recently, and Tarthang
 Tulku, Tibetan Buddhists, have taught in the United States. The book by
 Guenther and the one by Hopkins are more academically philosophical and
@@ -4808,7 +4808,7 @@ provocative theory of the biological/spiritual evolution of man, which
 continues well beyond where we are now. Fox argues for a creation-
 centered Christian spirituality, as opposed to the dominant
 fall-redemption approach. Swami Prabhavananda discusses the Sermon on
-the Mount from a Hindu/ yogic point of view.
+the Mount from a Hindu/yogic point of view.
 
 </div>
 
@@ -4936,7 +4936,7 @@ with dreaming, and LaBerge how to “awake” while dreaming.
 <div class="paragraph">
 
 These books offer various ideas about how to cultivate happiness,
-including unconditional acceptance(Kaufman), reducing worry (Carnegie),
+including unconditional acceptance (Kaufman), reducing worry (Carnegie),
 Western perspectives (Houston), and Eastern perspectives (Watts).
 
 </div>
@@ -5058,7 +5058,7 @@ while Fleming elaborates on the classic Christian meditations of St.
 Ignatius. The book by de Mello is a unique blend of Buddhist mindfulness
 and Christian meditation (e.g., the St. Ignatius exercises). Other books
 on Buddhist meditation can be found under “Buddhism: Zen” and
-“Mindfulness/ Vipassana.”
+“Mindfulness/Vipassana.”
 
 </div>
 
@@ -5139,7 +5139,7 @@ S. N. Goenka, Achaan Chah).
   - Hart, W. The art of living: Vipassana meditation as taught by S. N.
     Goenka. Harper & Row, 1987.
 
-  - Kornfield, J. & P. Breiter. A still forest pool: The in sight
+  - Kornfield, J. & P. Breiter. A still forest pool: The insight
     meditation of Achaan Chah. Quest Books, 1985.
 
   - Sayadaw, Mahasi. Practical insight meditation. Followed by The
@@ -5279,7 +5279,7 @@ textbook on the psychology of religion.
     1944. Shri Purohit Swami, Vintage Books, 1977.
 
   - The Dhammapada. Some sayings of the Buddha. P. Lal, Farrar, Straus &
-    Giroux, 1967. T. Byrom, Vin tage Books, 1976.
+    Giroux, 1967. T. Byrom, Vintage Books, 1976.
 
   - Holy Bible. The basic text of the Judeo-Christian religions. A
     collection of folklore, history, letters, laws, ceremonies, hymns,
@@ -5376,7 +5376,7 @@ Books about Sufism, the mystical side of Islam.
 
   - Lings, M. What is sufism? University of California Press, 1977.
 
-  - Schuon, F. Sufism: Veil and quintessence. World Wis dom Books, 1981.
+  - Schuon, F. Sufism: Veil and quintessence. World Wisdom Books, 1981.
 
   - Shah, I. The Sufis. Anchor Books, 1971.
 
@@ -5391,7 +5391,7 @@ Books about Sufism, the mystical side of Islam.
 <div class="paragraph">
 
 The basic work here is the Tao Teh Ching (see “Religious Classics”)
-followed by Chuang Tsu ‘s Inner Chapters. Wei’s translation and
+followed by Chuang Tsu’s Inner Chapters. Wei’s translation and
 commentary on the Tao Teh Ching is in terms of meditation and mysticism.
 
 </div>
@@ -5488,7 +5488,7 @@ Swami Rama, and Swami Satchidananda.
 
 Maslow and Van Dusen wrote two of the earlier books in Western
 transpersonal psychology. Assagioli’s psychosynthesis was one of the
-first Western psycho- therapies to give significant weight to the
+first Western psycho-therapies to give significant weight to the
 transpersonal. Ferrucci gives many exercises within the psychosynthesis
 tradition. Metzner surveys many of the models/analogies of human growth
 and transformation. Wilber is one of the foremost contemporary theorists
@@ -5555,13 +5555,12 @@ Buddhism.
   - Fromm, E., D.T. Suzuki & R. DeMartino. Zen Buddhism and
     psychoanalysis. Harper & Row, 1960.
 
-  - Katz, N. (ed.). Buddhist and Western psychology. Pra jna Press,
-    1983.
+  - Katz, N. (ed.). Buddhist and Western psychology. Prajna Press, 1983.
 
   - Rama, Swami, R. Ballentine, & Swami Ajaya. Yoga and psychotherapy.
     Himalayan Institute, 1976.
 
-  - Spiegelman, J.M. & M. Miyuki. Buddhism and Jungiafl psychology.
+  - Spiegelman, J.M. & M. Miyuki. Buddhism and Jungian psychology.
     Falcon Press, 1985.
 
   - Watts, A.W. Psychotherapy East and West. Ballantine Books, 1969.
@@ -5697,7 +5696,7 @@ award at West Florida.
 
 <div id="footer-text">
 
-Last updated 2020-01-04 21:48:00 +0630
+Last updated 2020-01-05 12:25:34 +0630
 
 </div>
 
