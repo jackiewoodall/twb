@@ -5,6 +5,7 @@ An Overview of Spiritual Practices
 
 Requirements:
 * asciidoctor
+* asciidoctor-pdf
 * pandoc
 * calibre
 
