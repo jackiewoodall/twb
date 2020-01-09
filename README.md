@@ -3,7 +3,7 @@ The Way Beyond
 An Overview of Spiritual Practices
 ----------------------------------
 
-This is an out-of-print book made freely available online with the author's knowledge.
+This is an out-of-print book made freely available online with the author's knowledge. This book is offered for free distribution. Please do not sell this book.
 
 This is a book about what you should do, not about what you should believe. What you should do if you wish to maximize your potential; satisfy your basic yearnings; have peak experiences.
 

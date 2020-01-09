@@ -7,7 +7,9 @@ William L. Mikulas
 :front-cover-image: images/0-cover-1-front.jpg
 :back-cover-image: images/0-cover-2-back.jpg
 
+This book is offered for free distribution. Please do not sell this book.
 
+[dedication]
 Dedication
 ----------
 For Benita

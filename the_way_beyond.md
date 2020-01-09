@@ -48,6 +48,21 @@ Table of Contents
 
 <div id="content">
 
+<div id="preamble">
+
+<div class="sectionbody">
+
+<div class="paragraph">
+
+This book is offered for free distribution. Please do not sell this
+book.
+
+</div>
+
+</div>
+
+</div>
+
 <div class="sect1">
 
 ## Dedication
@@ -5696,7 +5711,7 @@ award at West Florida.
 
 <div id="footer-text">
 
-Last updated 2020-01-05 12:25:34 +0630
+Last updated 2020-01-09 12:22:22 +0630
 
 </div>
 

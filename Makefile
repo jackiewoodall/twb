@@ -20,7 +20,7 @@ $(OUTFILE).htm: $(INFILE)
 html: $(OUTFILE).html
 
 $(OUTFILE).html: $(INFILE) $(IMAGES)
-	asciidoctor -b html5 -d book $(INFILE) -o $(OUTFILE).html
+	asciidoctor -b html5 -d book -a data-uri $(INFILE) -o $(OUTFILE).html
 
 pdf: $(OUTFILE).pdf
 
