@@ -35,8 +35,7 @@ Table of Contents
     -   Suggested Reading
 -   About the Author
 
-This book is offered for free distribution. Please do not sell this
-book.
+This book is offered for free distribution.
 
 
 Dedication
@@ -3715,4 +3714,4 @@ University of Nevada and in Thailand. He was chosen for the
 distinguished research award and also for the distinguished teaching
 award at West Florida.
 
-Last updated 2020-01-10 11:22:41 +0630
+Last updated 2020-01-11 21:25:21 +0630

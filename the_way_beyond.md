@@ -54,8 +54,7 @@ Table of Contents
 
 <div class="paragraph">
 
-This book is offered for free distribution. Please do not sell this
-book.
+This book is offered for free distribution.
 
 </div>
 
@@ -5711,7 +5710,7 @@ award at West Florida.
 
 <div id="footer-text">
 
-Last updated 2020-01-10 11:22:41 +0630
+Last updated 2020-01-11 21:25:21 +0630
 
 </div>
 
