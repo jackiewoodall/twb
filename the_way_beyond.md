@@ -41,6 +41,7 @@ Table of Contents
       - [Some Basic Definitions](#some-basic-definitions)
       - [Suggested Reading](#suggested-reading)
   - [About the Author](#about-the-author)
+  - [Colophon](#_colophon)
 
 </div>
 
@@ -5704,13 +5705,40 @@ award at West Florida.
 
 </div>
 
+<div class="sect1">
+
+## Colophon
+
+<div class="sectionbody">
+
+<div class="paragraph">
+
+This book is offered for free distribution and is publicly available in
+several formats:
+
+</div>
+
+| Link                                                                        | Format Description   |
+| --------------------------------------------------------------------------- | -------------------- |
+| [.html](https://jackiewoodall.github.io/twb/the_way_beyond.html)            | HTML5 stand-alone    |
+| [.pdf](https://jackiewoodall.github.io/twb/the_way_beyond.pdf)              | Adobe Acrobat PDF    |
+| [.docx](https://jackiewoodall.github.io/twb/the_way_beyond.docx)            | Microsoft World      |
+| [.txt](https://jackiewoodall.github.io/twb/the_way_beyond.txt)              | Plain Text           |
+| [.md](https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md) | Markdown             |
+| [.epub](https://jackiewoodall.github.io/twb/the_way_beyond.epub)            | Epub3                |
+| [.mobi](https://jackiewoodall.github.io/twb/the_way_beyond.mobi)            | Amazon Kindle Reader |
+
+</div>
+
+</div>
+
 </div>
 
 <div id="footer">
 
 <div id="footer-text">
 
-Last updated 2020-01-11 21:25:21 +0630
+Last updated 2020-01-29 22:07:17 +0630
 
 </div>
 

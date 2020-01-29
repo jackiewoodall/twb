@@ -1257,3 +1257,20 @@ About the Author
 William M. Mikulas is Professor of Psychology at the University of West Florida at Pensacola, where he teaches courses in transpersonal psychology and Buddhist psychology as well as more traditional courses. He has published six books, the most recent of which is _Skills in Living_, a precursor to this book. He has published numerous articles, including ones on such subjects as “Buddhism and Behavior Modification” and “Four Noble Truths of Buddhism as Related to Behavior Therapy.”
 
 Dr. Mikulas received his Ph.D. in General Psychology and Behavior Modification at the University of Michigan, where he also earned his M.A. and B.A. degrees. He has served as Visiting Professor at the University of Nevada and in Thailand. He was chosen for the distinguished research award and also for the distinguished teaching award at West Florida.
+
+Colophon
+--------
+This book is offered for free distribution and is publicly available in several formats:
+
+[width="60%",options=header,grid=none,frame=none,cols="20%,80%"]
+|===
+| Link | Format Description
+| https://jackiewoodall.github.io/twb/the_way_beyond.html[.html] | HTML5 stand-alone
+| https://jackiewoodall.github.io/twb/the_way_beyond.pdf[.pdf] | Adobe Acrobat PDF
+| https://jackiewoodall.github.io/twb/the_way_beyond.docx[.docx] | Microsoft World
+| https://jackiewoodall.github.io/twb/the_way_beyond.txt[.txt] | Plain Text
+| https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md[.md] | Markdown
+| https://jackiewoodall.github.io/twb/the_way_beyond.epub[.epub] | Epub3
+| https://jackiewoodall.github.io/twb/the_way_beyond.mobi[.mobi] | Amazon Kindle Reader
+|===
+

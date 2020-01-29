@@ -34,6 +34,7 @@ Table of Contents
     -   Some Basic Definitions
     -   Suggested Reading
 -   About the Author
+-   Colophon
 
 This book is offered for free distribution.
 
@@ -3714,4 +3715,28 @@ University of Nevada and in Thailand. He was chosen for the
 distinguished research award and also for the distinguished teaching
 award at West Florida.
 
-Last updated 2020-01-11 21:25:21 +0630
+
+Colophon
+
+This book is offered for free distribution and is publicly available in
+several formats:
+
++-------------+--------------------------------------------------------+
+| Link        | Format Description                                     |
++=============+========================================================+
+| .html       | HTML5 stand-alone                                      |
++-------------+--------------------------------------------------------+
+| .pdf        | Adobe Acrobat PDF                                      |
++-------------+--------------------------------------------------------+
+| .docx       | Microsoft World                                        |
++-------------+--------------------------------------------------------+
+| .txt        | Plain Text                                             |
++-------------+--------------------------------------------------------+
+| .md         | Markdown                                               |
++-------------+--------------------------------------------------------+
+| .epub       | Epub3                                                  |
++-------------+--------------------------------------------------------+
+| .mobi       | Amazon Kindle Reader                                   |
++-------------+--------------------------------------------------------+
+
+Last updated 2020-01-29 22:07:17 +0630

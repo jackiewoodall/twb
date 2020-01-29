@@ -1636,4 +1636,53 @@ Yoga: Hatha<?asciidoc-br?></simpara>
 <simpara>William M. Mikulas is Professor of Psychology at the University of West Florida at Pensacola, where he teaches courses in transpersonal psychology and Buddhist psychology as well as more traditional courses. He has published six books, the most recent of which is <emphasis>Skills in Living</emphasis>, a precursor to this book. He has published numerous articles, including ones on such subjects as “Buddhism and Behavior Modification” and “Four Noble Truths of Buddhism as Related to Behavior Therapy.”</simpara>
 <simpara>Dr. Mikulas received his Ph.D. in General Psychology and Behavior Modification at the University of Michigan, where he also earned his M.A. and B.A. degrees. He has served as Visiting Professor at the University of Nevada and in Thailand. He was chosen for the distinguished research award and also for the distinguished teaching award at West Florida.</simpara>
 </chapter>
+<chapter xml:id="_colophon">
+<title>Colophon</title>
+<simpara>This book is offered for free distribution and is publicly available in several formats:</simpara>
+<informaltable frame="none" rowsep="0" colsep="0">
+<?dbhtml table-width="60%"?>
+<?dbfo table-width="60%"?>
+<?dblatex table-width="60%"?>
+<tgroup cols="2">
+<colspec colname="col_1" colwidth="51*"/>
+<colspec colname="col_2" colwidth="204*"/>
+<thead>
+<row>
+<entry align="left" valign="top">Link</entry>
+<entry align="left" valign="top">Format Description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.html">.html</link></simpara></entry>
+<entry align="left" valign="top"><simpara>HTML5 stand-alone</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.pdf">.pdf</link></simpara></entry>
+<entry align="left" valign="top"><simpara>Adobe Acrobat PDF</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.docx">.docx</link></simpara></entry>
+<entry align="left" valign="top"><simpara>Microsoft World</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.txt">.txt</link></simpara></entry>
+<entry align="left" valign="top"><simpara>Plain Text</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara><link xl:href="https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md">.md</link></simpara></entry>
+<entry align="left" valign="top"><simpara>Markdown</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.epub">.epub</link></simpara></entry>
+<entry align="left" valign="top"><simpara>Epub3</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.mobi">.mobi</link></simpara></entry>
+<entry align="left" valign="top"><simpara>Amazon Kindle Reader</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+</chapter>
 </book>
