@@ -35,7 +35,7 @@ $(OUTFILE).xml: $(INFILE) $(IMAGES)
 docx: $(OUTFILE).docx
 
 $(OUTFILE).docx: $(OUTFILE).xml
-	pandoc --from docbook --to docx --toc --toc-depth=2 --output $(OUTFILE).docx $(OUTFILE).xml
+	pandoc -f docbook -t docx --toc --toc-depth=2 -o $(OUTFILE).docx $(OUTFILE).xml
 
 md: $(OUTFILE).md
 

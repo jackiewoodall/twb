@@ -49,20 +49,6 @@ Table of Contents
 
 <div id="content">
 
-<div id="preamble">
-
-<div class="sectionbody">
-
-<div class="paragraph">
-
-This book is offered for free distribution.
-
-</div>
-
-</div>
-
-</div>
-
 <div class="sect1">
 
 ## Dedication
@@ -5718,15 +5704,15 @@ several formats:
 
 </div>
 
-| Link                                                                        | Format Description   |
-| --------------------------------------------------------------------------- | -------------------- |
-| [.html](https://jackiewoodall.github.io/twb/the_way_beyond.html)            | HTML5 stand-alone    |
-| [.pdf](https://jackiewoodall.github.io/twb/the_way_beyond.pdf)              | Adobe Acrobat PDF    |
-| [.docx](https://jackiewoodall.github.io/twb/the_way_beyond.docx)            | Microsoft World      |
-| [.txt](https://jackiewoodall.github.io/twb/the_way_beyond.txt)              | Plain Text           |
-| [.md](https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md) | Markdown             |
-| [.epub](https://jackiewoodall.github.io/twb/the_way_beyond.epub)            | Epub3                |
-| [.mobi](https://jackiewoodall.github.io/twb/the_way_beyond.mobi)            | Amazon Kindle Reader |
+| Format Description   | Link                                                                   |
+| -------------------- | ---------------------------------------------------------------------- |
+| HTML5 stand-alone    | <https://jackiewoodall.github.io/twb/the_way_beyond.html>              |
+| Adobe Acrobat PDF    | <https://jackiewoodall.github.io/twb/the_way_beyond.pdf>               |
+| Microsoft Word       | <https://jackiewoodall.github.io/twb/the_way_beyond.docx>              |
+| Plain Text           | <https://jackiewoodall.github.io/twb/the_way_beyond.txt>               |
+| Markdown             | <https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md> |
+| Epub3                | <https://jackiewoodall.github.io/twb/the_way_beyond.epub>              |
+| Amazon Kindle Reader | <https://jackiewoodall.github.io/twb/the_way_beyond.mobi>              |
 
 </div>
 
@@ -5738,7 +5724,7 @@ several formats:
 
 <div id="footer-text">
 
-Last updated 2020-01-29 22:07:17 +0630
+Last updated 2020-01-30 06:41:58 +0630
 
 </div>
 

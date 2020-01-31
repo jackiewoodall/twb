@@ -7,8 +7,6 @@ William L. Mikulas
 :front-cover-image: images/0-cover-1-front.jpg
 :back-cover-image: images/0-cover-2-back.jpg
 
-This book is offered for free distribution.
-
 Dedication
 ----------
 For Benita
@@ -1262,15 +1260,15 @@ Colophon
 --------
 This book is offered for free distribution and is publicly available in several formats:
 
-[width="60%",options=header,grid=none,frame=none,cols="20%,80%"]
+[options=header,cols="30%,70%",grid=none,frame=none]
 |===
-| Link | Format Description
-| https://jackiewoodall.github.io/twb/the_way_beyond.html[.html] | HTML5 stand-alone
-| https://jackiewoodall.github.io/twb/the_way_beyond.pdf[.pdf] | Adobe Acrobat PDF
-| https://jackiewoodall.github.io/twb/the_way_beyond.docx[.docx] | Microsoft World
-| https://jackiewoodall.github.io/twb/the_way_beyond.txt[.txt] | Plain Text
-| https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md[.md] | Markdown
-| https://jackiewoodall.github.io/twb/the_way_beyond.epub[.epub] | Epub3
-| https://jackiewoodall.github.io/twb/the_way_beyond.mobi[.mobi] | Amazon Kindle Reader
+| Format Description | Link
+| HTML5 stand-alone | https://jackiewoodall.github.io/twb/the_way_beyond.html
+| Adobe Acrobat PDF | https://jackiewoodall.github.io/twb/the_way_beyond.pdf
+| Microsoft Word | https://jackiewoodall.github.io/twb/the_way_beyond.docx
+| Plain Text | https://jackiewoodall.github.io/twb/the_way_beyond.txt
+| Markdown | https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md
+| Epub3 | https://jackiewoodall.github.io/twb/the_way_beyond.epub
+| Amazon Kindle Reader | https://jackiewoodall.github.io/twb/the_way_beyond.mobi
 |===
 

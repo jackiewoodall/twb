@@ -29,10 +29,6 @@
 </mediaobject>
 </cover>
 </info>
-<preface>
-<title></title>
-<simpara>This book is offered for free distribution.</simpara>
-</preface>
 <chapter xml:id="_dedication">
 <title>Dedication</title>
 <simpara>For Benita</simpara>
@@ -1640,46 +1636,43 @@ Yoga: Hatha<?asciidoc-br?></simpara>
 <title>Colophon</title>
 <simpara>This book is offered for free distribution and is publicly available in several formats:</simpara>
 <informaltable frame="none" rowsep="0" colsep="0">
-<?dbhtml table-width="60%"?>
-<?dbfo table-width="60%"?>
-<?dblatex table-width="60%"?>
 <tgroup cols="2">
-<colspec colname="col_1" colwidth="51*"/>
-<colspec colname="col_2" colwidth="204*"/>
+<colspec colname="col_1" colwidth="30*"/>
+<colspec colname="col_2" colwidth="70*"/>
 <thead>
 <row>
-<entry align="left" valign="top">Link</entry>
 <entry align="left" valign="top">Format Description</entry>
+<entry align="left" valign="top">Link</entry>
 </row>
 </thead>
 <tbody>
 <row>
-<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.html">.html</link></simpara></entry>
 <entry align="left" valign="top"><simpara>HTML5 stand-alone</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.html">https://jackiewoodall.github.io/twb/the_way_beyond.html</link></simpara></entry>
 </row>
 <row>
-<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.pdf">.pdf</link></simpara></entry>
 <entry align="left" valign="top"><simpara>Adobe Acrobat PDF</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.pdf">https://jackiewoodall.github.io/twb/the_way_beyond.pdf</link></simpara></entry>
 </row>
 <row>
-<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.docx">.docx</link></simpara></entry>
-<entry align="left" valign="top"><simpara>Microsoft World</simpara></entry>
+<entry align="left" valign="top"><simpara>Microsoft Word</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.docx">https://jackiewoodall.github.io/twb/the_way_beyond.docx</link></simpara></entry>
 </row>
 <row>
-<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.txt">.txt</link></simpara></entry>
 <entry align="left" valign="top"><simpara>Plain Text</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.txt">https://jackiewoodall.github.io/twb/the_way_beyond.txt</link></simpara></entry>
 </row>
 <row>
-<entry align="left" valign="top"><simpara><link xl:href="https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md">.md</link></simpara></entry>
 <entry align="left" valign="top"><simpara>Markdown</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md">https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md</link></simpara></entry>
 </row>
 <row>
-<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.epub">.epub</link></simpara></entry>
 <entry align="left" valign="top"><simpara>Epub3</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.epub">https://jackiewoodall.github.io/twb/the_way_beyond.epub</link></simpara></entry>
 </row>
 <row>
-<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.mobi">.mobi</link></simpara></entry>
 <entry align="left" valign="top"><simpara>Amazon Kindle Reader</simpara></entry>
+<entry align="left" valign="top"><simpara><link xl:href="https://jackiewoodall.github.io/twb/the_way_beyond.mobi">https://jackiewoodall.github.io/twb/the_way_beyond.mobi</link></simpara></entry>
 </row>
 </tbody>
 </tgroup>

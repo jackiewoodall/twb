@@ -36,8 +36,6 @@ Table of Contents
 -   About the Author
 -   Colophon
 
-This book is offered for free distribution.
-
 
 Dedication
 
@@ -3721,22 +3719,29 @@ Colophon
 This book is offered for free distribution and is publicly available in
 several formats:
 
-+-------------+--------------------------------------------------------+
-| Link        | Format Description                                     |
-+=============+========================================================+
-| .html       | HTML5 stand-alone                                      |
-+-------------+--------------------------------------------------------+
-| .pdf        | Adobe Acrobat PDF                                      |
-+-------------+--------------------------------------------------------+
-| .docx       | Microsoft World                                        |
-+-------------+--------------------------------------------------------+
-| .txt        | Plain Text                                             |
-+-------------+--------------------------------------------------------+
-| .md         | Markdown                                               |
-+-------------+--------------------------------------------------------+
-| .epub       | Epub3                                                  |
-+-------------+--------------------------------------------------------+
-| .mobi       | Amazon Kindle Reader                                   |
-+-------------+--------------------------------------------------------+
++--------------------+-------------------------------------------------+
+| Format Description | Link                                            |
++====================+=================================================+
+| HTML5 stand-alone  | https://jackiewoodall.github.io/twb/the_way_bey |
+|                    | ond.html                                        |
++--------------------+-------------------------------------------------+
+| Adobe Acrobat PDF  | https://jackiewoodall.github.io/twb/the_way_bey |
+|                    | ond.pdf                                         |
++--------------------+-------------------------------------------------+
+| Microsoft Word     | https://jackiewoodall.github.io/twb/the_way_bey |
+|                    | ond.docx                                        |
++--------------------+-------------------------------------------------+
+| Plain Text         | https://jackiewoodall.github.io/twb/the_way_bey |
+|                    | ond.txt                                         |
++--------------------+-------------------------------------------------+
+| Markdown           | https://github.com/jackiewoodall/twb/blob/gh-pa |
+|                    | ges/the_way_beyond.md                           |
++--------------------+-------------------------------------------------+
+| Epub3              | https://jackiewoodall.github.io/twb/the_way_bey |
+|                    | ond.epub                                        |
++--------------------+-------------------------------------------------+
+| Amazon Kindle      | https://jackiewoodall.github.io/twb/the_way_bey |
+| Reader             | ond.mobi                                        |
++--------------------+-------------------------------------------------+
 
-Last updated 2020-01-29 22:07:17 +0630
+Last updated 2020-01-30 06:41:58 +0630
