@@ -5,7 +5,7 @@ OUTNAME=the_way_beyond
 OUTDIR=./
 OUTFILE=$(OUTDIR)$(OUTNAME)
 IMAGES=./images/*.jpg
-EXTS=htm html pdf docx md txt epub mobi xml
+EXTS=htm html pdf docx md txt epub azw3 xml
 
 all: $(EXTS)
 
@@ -53,8 +53,8 @@ $(OUTFILE).epub: $(OUTFILE).xml
 	pandoc -f docbook -t epub3 --epub-cover-image=images/0-cover-1-front.jpg --toc --toc-depth=2 -o $(OUTFILE).epub $(OUTFILE).xml
 	ebook-polish -u -i -U $(OUTFILE).epub $(OUTFILE).epub
 
-mobi: $(OUTFILE).mobi
+azw3: $(OUTFILE).azw3
 
-$(OUTFILE).mobi: $(OUTFILE).epub
-	ebook-convert $(OUTFILE).epub $(OUTFILE).mobi
+$(OUTFILE).azw3: $(OUTFILE).epub
+	ebook-convert $(OUTFILE).epub $(OUTFILE).azw3
 
