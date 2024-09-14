@@ -1,10 +1,13 @@
 ---
 author: William L. Mikulas
-generator: Asciidoctor 2.0.17
+generator: Asciidoctor 2.0.23
 lang: en
 title: "The Way Beyond: An Overview of Spiritual Practices"
 viewport: width=device-width, initial-scale=1.0
 ---
+
+- [The Way Beyond: An Overview of Spiritual
+  Practices](#the-way-beyond-an-overview-of-spiritual-practices)
 
 <div id="header">
 
@@ -25,31 +28,31 @@ Table of Contents
 
 </div>
 
--   [Dedication](#_dedication)
--   [Overview](#overview)
--   [Perspectives](#_perspectives)
-    -   [The Self](#the-self)
-    -   [Levels of Being](#levels-of-being)
-    -   [The Game of Life](#the-game-of-life)
-    -   [Dreaming](#dreaming)
--   [Basic Practices](#basic-practices)
-    -   [Meditation](#meditation)
-    -   [Concentration](#concentration)
-    -   [Mindfulness](#mindfulness)
-    -   [Opening the Heart](#opening-the-heart)
-    -   [Reducing Attachments](#reducing-attachments)
--   [Overall Practice](#overall-practice)
-    -   [Cleaning House](#cleaning-house)
-    -   [Readiness to Know](#readiness-to-know)
-    -   [Finding Your Way](#finding-your-way)
-    -   [Teachers](#teachers)
-    -   [Continual Practice](#continual-practice)
-    -   [Retreats](#retreats)
--   [Appendix](#appendix)
-    -   [Some Basic Definitions](#some-basic-definitions)
-    -   [Suggested Reading](#suggested-reading)
--   [About the Author](#about-the-author)
--   [Colophon](#_colophon)
+- [Dedication](#_dedication)
+- [Overview](#overview)
+- [Perspectives](#_perspectives)
+  - [The Self](#the-self)
+  - [Levels of Being](#levels-of-being)
+  - [The Game of Life](#the-game-of-life)
+  - [Dreaming](#dreaming)
+- [Basic Practices](#basic-practices)
+  - [Meditation](#meditation)
+  - [Concentration](#concentration)
+  - [Mindfulness](#mindfulness)
+  - [Opening the Heart](#opening-the-heart)
+  - [Reducing Attachments](#reducing-attachments)
+- [Overall Practice](#overall-practice)
+  - [Cleaning House](#cleaning-house)
+  - [Readiness to Know](#readiness-to-know)
+  - [Finding Your Way](#finding-your-way)
+  - [Teachers](#teachers)
+  - [Continual Practice](#continual-practice)
+  - [Retreats](#retreats)
+- [Appendix](#appendix)
+  - [Some Basic Definitions](#some-basic-definitions)
+  - [Suggested Reading](#suggested-reading)
+- [About the Author](#about-the-author)
+- [Colophon](#_colophon)
 
 </div>
 
@@ -1232,7 +1235,7 @@ watching the abdomen rise and fall is best for
 <div class="paragraph">
 
 Where and when you meditate is important. Have a special place, perhaps
-with a special Cushion or robe. Over time these props may help get you
+with a special cushion or robe. Over time these props may help get you
 in the right “mood” for meditation. Free yourself from interruptions by
 taking the phone off the hook, putting out a “do not disturb” sign, etc.
 
@@ -1419,8 +1422,8 @@ letting be.
 
 *Making friends with yourself*. During meditation, at least at first,
 you will have many thoughts and reactions about meditation and your
-ability to meditate. You will evaluate how well you think You are doing
-and perhaps compare it to how well You think you should be doing or how
+ability to meditate. You will evaluate how well you think you are doing
+and perhaps compare it to how well you think you should be doing or how
 well you think someone else is doing. You may become dissatisfied by
 your perceived rate of progress and/or what you are experiencing. You
 may have some negative feelings toward yourself as a competent
@@ -3011,50 +3014,50 @@ attachment? What attachment of yours is similar in some way?
 
 <div class="ulist">
 
--   I get irritated when others are late, but not when I am late. When I
-    am late, I know good reasons for it.
+- I get irritated when others are late, but not when I am late. When I
+  am late, I know good reasons for it.
 
--   If I have an idea for the perfect music for a situation and others
-    disagree, it upsets me.
+- If I have an idea for the perfect music for a situation and others
+  disagree, it upsets me.
 
--   I am caught up in self-importance. If I do something foolish in
-    public, I think people pay more attention or care more than they do.
+- I am caught up in self-importance. If I do something foolish in
+  public, I think people pay more attention or care more than they do.
 
--   I interrupt others when they are studying, but I don’t like to be
-    interrupted myself.
+- I interrupt others when they are studying, but I don’t like to be
+  interrupted myself.
 
--   I want others to agree with me, to assume what I assume.
+- I want others to agree with me, to assume what I assume.
 
--   I feel like less of a person if I make a mistake.
+- I feel like less of a person if I make a mistake.
 
--   I worry before I have any reason to worry: “But what if. . . .“
+- I worry before I have any reason to worry: “But what if. . . .“
 
--   I often use the strategy of anticipating the worst so I won’t be
-    disappointed.
+- I often use the strategy of anticipating the worst so I won’t be
+  disappointed.
 
--   I can’t gracefully accept a compliment. I can’t believe it or at
-    least I respond as if I don’t.
+- I can’t gracefully accept a compliment. I can’t believe it or at least
+  I respond as if I don’t.
 
--   I degrade people with whom I feel in competition.
+- I degrade people with whom I feel in competition.
 
--   If I think a person is upset about something I did, then I get mad
-    at him or her.
+- If I think a person is upset about something I did, then I get mad at
+  him or her.
 
--   I don’t properly listen to a person who is too fat. A person’s
-    appearance affects his or her credibility.
+- I don’t properly listen to a person who is too fat. A person’s
+  appearance affects his or her credibility.
 
--   I am holding onto an old gratifying relationship.
+- I am holding onto an old gratifying relationship.
 
--   I have inertia about new relationships or redefining old
-    relationships which may not be as gratifying.
+- I have inertia about new relationships or redefining old relationships
+  which may not be as gratifying.
 
--   I often need to explain myself.
+- I often need to explain myself.
 
--   When talking with my girlfriend on the phone, I get defensive if she
-    says “I have to go now” before I do.
+- When talking with my girlfriend on the phone, I get defensive if she
+  says “I have to go now” before I do.
 
--   Bad drivers are frustrating to me, particularly slow drivers in the
-    wrong lane.
+- Bad drivers are frustrating to me, particularly slow drivers in the
+  wrong lane.
 
 </div>
 
@@ -4340,25 +4343,25 @@ More is never enough ([9](#opening-the-heart),
 
 <div class="ulist">
 
--   Non-violence
+- Non-violence
 
--   Non-stealing
+- Non-stealing
 
--   Avoiding sexual excess, control over sexual cravings
+- Avoiding sexual excess, control over sexual cravings
 
--   Non-possessiveness, non-hoarding, non-greed
+- Non-possessiveness, non-hoarding, non-greed
 
--   Truthfulness
+- Truthfulness
 
--   Cleanliness and purity of body and mind
+- Cleanliness and purity of body and mind
 
--   Practices to perfect body and mind
+- Practices to perfect body and mind
 
--   Contentment
+- Contentment
 
--   Study of self and spiritual works
+- Study of self and spiritual works
 
--   Surrender to God/ultimate truth
+- Surrender to God/ultimate truth
 
 </div>
 
@@ -4526,13 +4529,13 @@ and the medicine wheel.
 
 <div class="ulist">
 
--   Freesoul, J.R. Breath of the invisible. Quest Books, 1986.
+- Freesoul, J.R. Breath of the invisible. Quest Books, 1986.
 
--   McLuhan, T.C. Touch the earth. Outerbridge and Dienstfrey, 1971.
+- McLuhan, T.C. Touch the earth. Outerbridge and Dienstfrey, 1971.
 
--   Niehardt, J.G. Black Elk speaks. Pocket Books, 1972.
+- Niehardt, J.G. Black Elk speaks. Pocket Books, 1972.
 
--   Storm, H. Seven arrows. Ballantine, 1973.
+- Storm, H. Seven arrows. Ballantine, 1973.
 
 </div>
 
@@ -4552,16 +4555,16 @@ textbook summarizes many of the barriers to personal growth.
 
 <div class="ulist">
 
--   Goleman, D. Vital lies, simple truths. Simon & Schuster, 1985.
+- Goleman, D. Vital lies, simple truths. Simon & Schuster, 1985.
 
--   Keyes, K. Handbook to higher consciousness. Living Love Center,
-    fifth edition, 1975.
+- Keyes, K. Handbook to higher consciousness. Living Love Center, fifth
+  edition, 1975.
 
--   Keyes, K. & P. Keyes. Gathering power through insight and love.
-    Living Love Publications, 1987.
+- Keyes, K. & P. Keyes. Gathering power through insight and love. Living
+  Love Publications, 1987.
 
--   Maul, G. & T. Maul. Beyond limit: Ways to growth and freedom. Scott,
-    Foresman, 1983.
+- Maul, G. & T. Maul. Beyond limit: Ways to growth and freedom. Scott,
+  Foresman, 1983.
 
 </div>
 
@@ -4584,39 +4587,38 @@ Watts), and “other” (Lilly, Merrell-Wolff, Watts).
 
 <div class="ulist">
 
--   Castaneda, C. The teachings of Don Juan. Ballantine Books, 1969. A
-    separate reality. Simon & Schuster, 1971. Journey to Ixtlan. Simon &
-    Schuster, 1972. Tales of power. Simon & Schuster, 1974.
+- Castaneda, C. The teachings of Don Juan. Ballantine Books, 1969. A
+  separate reality. Simon & Schuster, 1971. Journey to Ixtlan. Simon &
+  Schuster, 1972. Tales of power. Simon & Schuster, 1974.
 
--   Dass, Ram. Be here now. Lama Foundation, 1971.
+- Dass, Ram. Be here now. Lama Foundation, 1971.
 
--   Hamilton-Merritt, J. A meditator’s diary. Pelican Books, 1979.
+- Hamilton-Merritt, J. A meditator’s diary. Pelican Books, 1979.
 
--   Jones, F. The knee of listening. Dawn Horse Press, 1972. Garbage and
-    the goddess. Dawn Horse Press, 1974. (Jones later calls himself
-    “Bubba Free John.”)
+- Jones, F. The knee of listening. Dawn Horse Press, 1972. Garbage and
+  the goddess. Dawn Horse Press, 1974. (Jones later calls himself “Bubba
+  Free John.”)
 
--   Lilly, J. The center of the cyclone. Bantam Books, 1973.
+- Lilly, J. The center of the cyclone. Bantam Books, 1973.
 
--   Merrell-Wolff, F. Pathways through to space. Warner Books, 1976.
+- Merrell-Wolff, F. Pathways through to space. Warner Books, 1976.
 
--   Merton, T. The seven storey mountain. Harcourt Brace Jovanovich,
-    1948.
+- Merton, T. The seven storey mountain. Harcourt Brace Jovanovich, 1948.
 
--   Muktananda Paramahansa, Swami. The play of consciousness. S.Y.D.A.
-    Foundation, 1974.
+- Muktananda Paramahansa, Swami. The play of consciousness. S.Y.D.A.
+  Foundation, 1974.
 
--   Rama, Swami. Living with the Himalayan masters. Himalayan
-    International Institute of Yoga Science & Philosophy, 1978.
+- Rama, Swami. Living with the Himalayan masters. Himalayan
+  International Institute of Yoga Science & Philosophy, 1978.
 
--   Roberts, B. The experience of no-self. Shambhala, 1984.
+- Roberts, B. The experience of no-self. Shambhala, 1984.
 
--   Trungpa, Chögyam. Born in Tibet. Random House, 1985.
+- Trungpa, Chögyam. Born in Tibet. Random House, 1985.
 
--   Watts, A. In my own way. Vintage Books, 1972.
+- Watts, A. In my own way. Vintage Books, 1972.
 
--   Yogananda, Paramahansa. Autobiography of a Yogi. Self-Realization
-    Fellowship, 1946.
+- Yogananda, Paramahansa. Autobiography of a Yogi. Self-Realization
+  Fellowship, 1946.
 
 </div>
 
@@ -4639,28 +4641,28 @@ compilations of some of the vast Buddhist literature.
 
 <div class="ulist">
 
--   Burtt, E.A. The teachings of the compassionate Buddha. Mentor, 1955.
+- Burtt, E.A. The teachings of the compassionate Buddha. Mentor, 1955.
 
--   Byles, M.B. Footprints of Gautama the Buddha. Quest Books, 1967.
+- Byles, M.B. Footprints of Gautama the Buddha. Quest Books, 1967.
 
--   Conze, E. Buddhism: Its essence and development. Harper Colophon,
-    1975.
+- Conze, E. Buddhism: Its essence and development. Harper Colophon,
+  1975.
 
--   Conze, E. & I.B. Horner, D. Sneligrove, & A. Waley. Buddhist texts
-    through the ages. Harper Torchbooks, 1954.
+- Conze, E. & I.B. Horner, D. Sneligrove, & A. Waley. Buddhist texts
+  through the ages. Harper Torchbooks, 1954.
 
--   Rahula, W. What the Buddha taught. Grove Press, enlarged edition,
-    1974.
+- Rahula, W. What the Buddha taught. Grove Press, enlarged edition,
+  1974.
 
--   Rice, S. The Buddha speaks here and now. Buddhist Publication
-    Society, 1981. (Buddhist scriptures in contemporary idiom.)
+- Rice, S. The Buddha speaks here and now. Buddhist Publication
+  Society, 1981. (Buddhist scriptures in contemporary idiom.)
 
--   Ross, N.W. Buddhism: A way of life and thought. Vintage Books, 1981.
+- Ross, N.W. Buddhism: A way of life and thought. Vintage Books, 1981.
 
--   Stryk, L. World of the Buddha. Grove Press, 1968.
+- Stryk, L. World of the Buddha. Grove Press, 1968.
 
--   Woodward, F.L. Some sayings of the Buddha. Oxford University Press,
-    1973.
+- Woodward, F.L. Some sayings of the Buddha. Oxford University Press,
+  1973.
 
 </div>
 
@@ -4682,21 +4684,20 @@ psychological.
 
 <div class="ulist">
 
--   Blofeld, J. The tantric mysticism of Tibet. E.P. Dutton, 1970.
+- Blofeld, J. The tantric mysticism of Tibet. E.P. Dutton, 1970.
 
--   Guenther, H.V. Tibetan Buddhism in Western perspective. Dharma
-    Publishing, 1977.
+- Guenther, H.V. Tibetan Buddhism in Western perspective. Dharma
+  Publishing, 1977.
 
--   Guenther, H.V. & Chögyam Trungpa. The dawn of tantra. Shambhala,
-    1975.
+- Guenther, H.V. & Chögyam Trungpa. The dawn of tantra. Shambhala, 1975.
 
--   Hopkins, J. The tantric distinction. Wisdom Publications, 1984.
+- Hopkins, J. The tantric distinction. Wisdom Publications, 1984.
 
--   Tarthang Tulku. Gesture of balance. Dharma Publishing, 1977.
+- Tarthang Tulku. Gesture of balance. Dharma Publishing, 1977.
 
--   Trungpa, Chögyam. Journey without goal. Prajna Press, 1981. The myth
-    of freedom. Shambhala, 1976. Cutting through spiritual materialism.
-    Shambhala, 1973.
+- Trungpa, Chögyam. Journey without goal. Prajna Press, 1981. The myth
+  of freedom. Shambhala, 1976. Cutting through spiritual materialism.
+  Shambhala, 1973.
 
 </div>
 
@@ -4719,17 +4720,17 @@ excellent set of talks on Zen meditation and attitude. See also
 
 <div class="ulist">
 
--   Kapleau, P. The three pillars of Zen. Anchor Books, expanded
-    edition, 1980.
+- Kapleau, P. The three pillars of Zen. Anchor Books, expanded edition,
+  1980.
 
--   Ross, N.W. The world of Zen: An East-West anthology. Vintage Books,
-    1960.
+- Ross, N.W. The world of Zen: An East-West anthology. Vintage Books,
+  1960.
 
--   Sekida, K. Zen training. Weatherhill, 1975.
+- Sekida, K. Zen training. Weatherhill, 1975.
 
--   Suzuki, S. Zen mind, beginners mind. Weatherhill, 1970.
+- Suzuki, S. Zen mind, beginners mind. Weatherhill, 1970.
 
--   Watts, A.W. The way of Zen. Vintage Books, 1957.
+- Watts, A.W. The way of Zen. Vintage Books, 1957.
 
 </div>
 
@@ -4749,16 +4750,15 @@ into the chakras and kundalini.
 
 <div class="ulist">
 
--   Motoyama, H. Theories of the chakras: Bridge to higher
-    consciousness. Quest Books, 1981.
+- Motoyama, H. Theories of the chakras: Bridge to higher consciousness.
+  Quest Books, 1981.
 
--   Pandit, M.P. Kundalini yoga. Ganesh & Co., 1968.
+- Pandit, M.P. Kundalini yoga. Ganesh & Co., 1968.
 
--   Sannella, L. Kundalini —Psychosis or transcendence? H. S. Dakin,
-    1976.
+- Sannella, L. Kundalini —Psychosis or transcendence? H. S. Dakin, 1976.
 
--   Scott, M. Kundalini in the physical world. Routledge & Kegan Paul,
-    1983.
+- Scott, M. Kundalini in the physical world. Routledge & Kegan Paul,
+  1983.
 
 </div>
 
@@ -4785,20 +4785,19 @@ Diaries.”
 
 <div class="ulist">
 
--   A course in miracles. Foundation for Inner Peace, 1975.
+- A course in miracles. Foundation for Inner Peace, 1975.
 
--   Bunyan, J. Pilgrim’s progress. Zondervan Publishing House, 1967.
+- Bunyan, J. Pilgrim’s progress. Zondervan Publishing House, 1967.
 
--   French, R.M. (trans.). The way of the pilgrim. Ballantine Books,
-    1974.
+- French, R.M. (trans.). The way of the pilgrim. Ballantine Books, 1974.
 
--   Lawrence, Brother. The practice of the presence of God. Whitaker
-    House, 1982.
+- Lawrence, Brother. The practice of the presence of God. Whitaker
+  House, 1982.
 
--   Powell, J. The Christian vision. Argus Communications, 1984.
+- Powell, J. The Christian vision. Argus Communications, 1984.
 
--   Thomas a Kempis. The imitation of Christ. Image Books, 1985
-    (Editor: H. C. Gardiner).
+- Thomas a Kempis. The imitation of Christ. Image Books, 1985
+  (Editor: H. C. Gardiner).
 
 </div>
 
@@ -4835,22 +4834,21 @@ the Mount from a Hindu/yogic point of view.
 
 <div class="ulist">
 
--   Alexander, D. & P. Alexander (eds.). Eerdmans’ concise Bible
-    handbook. Wm. B. Eerdmans, 1980.
+- Alexander, D. & P. Alexander (eds.). Eerdmans’ concise Bible handbook.
+  Wm. B. Eerdmans, 1980.
 
--   Fox, M. Original blessing. Bear & Co., 1983.
+- Fox, M. Original blessing. Bear & Co., 1983.
 
--   Lewis, C.S. Mere Christianity. Macmillan, 1943.
+- Lewis, C.S. Mere Christianity. Macmillan, 1943.
 
--   Pagels, E. The gnostic gospels. Vintage Books, 1981.
+- Pagels, E. The gnostic gospels. Vintage Books, 1981.
 
--   Prabhavananda, Swami. The Sermon on the Mount ac cording to Vedanta.
-    Mentor Book, 1972.
+- Prabhavananda, Swami. The Sermon on the Mount ac cording to Vedanta.
+  Mentor Book, 1972.
 
--   Robinson, J.M. (ed.). The Nag Hammadi library. Harper & Row, 1981.
+- Robinson, J.M. (ed.). The Nag Hammadi library. Harper & Row, 1981.
 
--   Teilhard de Chardin, P. The phenomenon of man. Harper Torchbook,
-    1961.
+- Teilhard de Chardin, P. The phenomenon of man. Harper Torchbook, 1961.
 
 </div>
 
@@ -4872,31 +4870,31 @@ about consciousness.
 
 <div class="ulist">
 
--   Goleman, D. & R.J. Davidson (eds.). Consciousness: Brain, states of
-    awareness, and mysticism. Harper & Row, 1979.
+- Goleman, D. & R.J. Davidson (eds.). Consciousness: Brain, states of
+  awareness, and mysticism. Harper & Row, 1979.
 
--   Lilly, J.C. The deep self. Warner Books, 1978.
+- Lilly, J.C. The deep self. Warner Books, 1978.
 
--   Masters, R.E.L. & J. Houston. The varieties of psychedelic
-    experience. Delta Book, 1966.
+- Masters, R.E.L. & J. Houston. The varieties of psychedelic experience.
+  Delta Book, 1966.
 
--   Ornstein, R.E. (ed.). The nature of human consciousness. W. H.
-    Freeman, 1973.
+- Ornstein, R.E. (ed.). The nature of human consciousness. W. H.
+  Freeman, 1973.
 
--   Ornstein, R.E. The psychology of consciousness. Harcourt Brace
-    Jovanovich, second edition, 1977.
+- Ornstein, R.E. The psychology of consciousness. Harcourt Brace
+  Jovanovich, second edition, 1977.
 
--   Pelletier, K.R. Toward a science of consciousness. Delta Book, 1978.
+- Pelletier, K.R. Toward a science of consciousness. Delta Book, 1978.
 
--   Tart, C.T. (ed.). Altered states of consciousness. Wiley, 1969.
+- Tart, C.T. (ed.). Altered states of consciousness. Wiley, 1969.
 
--   Tart, C.T. States of consciousness. E. P. Dutton, 1975.
+- Tart, C.T. States of consciousness. E. P. Dutton, 1975.
 
--   White, J. (ed.). The highest state of consciousness. Anchor Books,
-    1972.
+- White, J. (ed.). The highest state of consciousness. Anchor Books,
+  1972.
 
--   Wolman, B.B. & M. Ullmann (eds.). Handbook of states of
-    consciousness. Van Nostrand Reinhold, 1986.
+- Wolman, B.B. & M. Ullmann (eds.). Handbook of states of consciousness.
+  Van Nostrand Reinhold, 1986.
 
 </div>
 
@@ -4917,11 +4915,11 @@ were “clinically dead.”
 
 <div class="ulist">
 
--   Kubler-Ross, E. On death and dying. Macmillan, 1970.
+- Kubler-Ross, E. On death and dying. Macmillan, 1970.
 
--   Levine, S. Who dies? Anchor Books, 1982.
+- Levine, S. Who dies? Anchor Books, 1982.
 
--   Moody, R.A. Life after life. Bantam Book, 1976.
+- Moody, R.A. Life after life. Bantam Book, 1976.
 
 </div>
 
@@ -4940,11 +4938,11 @@ with dreaming, and LaBerge how to “awake” while dreaming.
 
 <div class="ulist">
 
--   Faraday, A. The dream game. Perennial Library, 1976.
+- Faraday, A. The dream game. Perennial Library, 1976.
 
--   Garfield, P. Creative dreaming. Ballantine Books, 1976.
+- Garfield, P. Creative dreaming. Ballantine Books, 1976.
 
--   LaBerge, S. Lucid dreaming. Ballantine Books, 1986.
+- LaBerge, S. Lucid dreaming. Ballantine Books, 1986.
 
 </div>
 
@@ -4964,14 +4962,13 @@ Western perspectives (Houston), and Eastern perspectives (Watts).
 
 <div class="ulist">
 
--   Carnegie, D. How to stop worrying and start living. Pocket Book,
-    1953.
+- Carnegie, D. How to stop worrying and start living. Pocket Book, 1953.
 
--   Houston, J.P. The pursuit of happiness. Scott Foresman, 1981.
+- Houston, J.P. The pursuit of happiness. Scott Foresman, 1981.
 
--   Kaufman, B.N. To love is to be happy with. Fawcett Crest, 1977.
+- Kaufman, B.N. To love is to be happy with. Fawcett Crest, 1977.
 
--   Watts, A.W. The meaning of happiness. Harper Colophon, 1979.
+- Watts, A.W. The meaning of happiness. Harper Colophon, 1979.
 
 </div>
 
@@ -4993,11 +4990,11 @@ journal writing.”
 
 <div class="ulist">
 
--   Kelsey, M. Adventure inward. Augsburg Publishing House, 1980.
+- Kelsey, M. Adventure inward. Augsburg Publishing House, 1980.
 
--   Progoff, I. At a journal workshop. Dialogue House Library, 1975.
+- Progoff, I. At a journal workshop. Dialogue House Library, 1975.
 
--   Rainer, T. The new diary. J. P. Tarcher, 1978.
+- Rainer, T. The new diary. J. P. Tarcher, 1978.
 
 </div>
 
@@ -5019,23 +5016,23 @@ symbolic system of Jewish mysticism and occultism.
 
 <div class="ulist">
 
--   Buber, M. I and thou. Charles Scribner’s Sons, 1970 (Walter Kaufman
-    translator.).
+- Buber, M. I and thou. Charles Scribner’s Sons, 1970 (Walter Kaufman
+  translator.).
 
--   Fortune, D. The mystical Qabalah. Ernest Benn, 1935.
+- Fortune, D. The mystical Qabalah. Ernest Benn, 1935.
 
--   Gonzalez-Wippler, M. A Kabbalah for the modern world. Bantam Book,
-    1977.
+- Gonzalez-Wippler, M. A Kabbalah for the modern world. Bantam Book,
+  1977.
 
--   Hoffman, E. The way of splendor. Shambhala, 1981.
+- Hoffman, E. The way of splendor. Shambhala, 1981.
 
--   Ponce, C. Kabbalah. Quest Books, 1986.
+- Ponce, C. Kabbalah. Quest Books, 1986.
 
--   Schachter, Z.M. & E. Hoffman, Sparks of light. Shambhala, 1983.
+- Schachter, Z.M. & E. Hoffman, Sparks of light. Shambhala, 1983.
 
--   Waite, A.E. The holy Kabbalah. University Books, 1960.
+- Waite, A.E. The holy Kabbalah. University Books, 1960.
 
--   Williams, J.G. Judaism. Quest Books, 1980.
+- Williams, J.G. Judaism. Quest Books, 1980.
 
 </div>
 
@@ -5053,13 +5050,13 @@ Various perspectives on the nature and cultivation of love.
 
 <div class="ulist">
 
--   Buscaglia, L. Love. Fawcett Crest, 1972.
+- Buscaglia, L. Love. Fawcett Crest, 1972.
 
--   Fromm, G. The art of loving. Harper & Row, 1956.
+- Fromm, G. The art of loving. Harper & Row, 1956.
 
--   Hendricks, G. Learning to love yourself. Prentice-Hall, 1982.
+- Hendricks, G. Learning to love yourself. Prentice-Hall, 1982.
 
--   Welwood, J. (ed.). Challenge of the heart. Shambhala, 1985.
+- Welwood, J. (ed.). Challenge of the heart. Shambhala, 1985.
 
 </div>
 
@@ -5085,18 +5082,17 @@ on Buddhist meditation can be found under “Buddhism: Zen” and
 
 <div class="ulist">
 
--   de Mello, A. Sadhana: A way to God. Institute of Jesuit Sources,
-    1978.
+- de Mello, A. Sadhana: A way to God. Institute of Jesuit Sources, 1978.
 
--   Ellwood, R. Finding the quiet mind. Quest Books, 1983.
+- Ellwood, R. Finding the quiet mind. Quest Books, 1983.
 
--   Fleming, D.L. The spiritual exercises of St. Ignatius. Institute of
-    Jesuit Sources, 1978. Kelsey, M. The other side of silence. Paulist
-    Press, 1976.
+- Fleming, D.L. The spiritual exercises of St. Ignatius. Institute of
+  Jesuit Sources, 1978. Kelsey, M. The other side of silence. Paulist
+  Press, 1976.
 
--   Le Shan, L. How to meditate. Bantam Book, 1975.
+- Le Shan, L. How to meditate. Bantam Book, 1975.
 
--   Solé-Leris, A. Tranquility and insight. Shambhala, 1986.
+- Solé-Leris, A. Tranquility and insight. Shambhala, 1986.
 
 </div>
 
@@ -5117,15 +5113,15 @@ with contemporary Western research approaches to meditation.
 
 <div class="ulist">
 
--   Carrington, P. Freedom in meditation. Anchor Press, 1978.
+- Carrington, P. Freedom in meditation. Anchor Press, 1978.
 
--   Goleman, D. The varieties of the meditative experience. E. P.
-    Dutton, 1977.
+- Goleman, D. The varieties of the meditative experience. E. P. Dutton,
+  1977.
 
--   Shapiro, D.H. & R.N. Walsh (eds.). Meditation: Classic and
-    contemporary perspectives. Aldine, 1984.
+- Shapiro, D.H. & R.N. Walsh (eds.). Meditation: Classic and
+  contemporary perspectives. Aldine, 1984.
 
--   White, J. (ed.). What is meditation? Anchor Books, 1974.
+- White, J. (ed.). What is meditation? Anchor Books, 1974.
 
 </div>
 
@@ -5150,27 +5146,27 @@ S. N. Goenka, Achaan Chah).
 
 <div class="ulist">
 
--   Buddhaghosa. Visuddi Magga (The path of purification). Buddhist
-    Publication Society, 1975. Translator Bhikkhu Nanamoli.
+- Buddhaghosa. Visuddi Magga (The path of purification). Buddhist
+  Publication Society, 1975. Translator Bhikkhu Nanamoli.
 
--   Dhiravamsa. The way of non-attachment. Schocken Books, 1977.
+- Dhiravamsa. The way of non-attachment. Schocken Books, 1977.
 
--   Goldstein, J. The experience of insight. Shambhala, 1983.
+- Goldstein, J. The experience of insight. Shambhala, 1983.
 
--   Hart, W. The art of living: Vipassana meditation as taught by S. N.
-    Goenka. Harper & Row, 1987.
+- Hart, W. The art of living: Vipassana meditation as taught by S. N.
+  Goenka. Harper & Row, 1987.
 
--   Kornfield, J. & P. Breiter. A still forest pool: The insight
-    meditation of Achaan Chah. Quest Books, 1985.
+- Kornfield, J. & P. Breiter. A still forest pool: The insight
+  meditation of Achaan Chah. Quest Books, 1985.
 
--   Sayadaw, Mahasi. Practical insight meditation. Followed by The
-    progress of insight. Buddhist Publication Society, 1980 & 1978.
+- Sayadaw, Mahasi. Practical insight meditation. Followed by The
+  progress of insight. Buddhist Publication Society, 1980 & 1978.
 
--   Thera, Nyanaponika. The heart of Buddhist meditation. Rider & Co.,
-    1962.
+- Thera, Nyanaponika. The heart of Buddhist meditation. Rider & Co.,
+  1962.
 
--   Thera, Soma. The way of mindfulness. Buddhist Publication Society,
-    fourth edition, 1975.
+- Thera, Soma. The way of mindfulness. Buddhist Publication Society,
+  fourth edition, 1975.
 
 </div>
 
@@ -5193,18 +5189,18 @@ field. Related material can be found under the category “consciousness.”
 
 <div class="ulist">
 
--   Bucke, M. Cosmic consciousness. E. P. Dutton, 1969.
+- Bucke, M. Cosmic consciousness. E. P. Dutton, 1969.
 
--   Merrell-Wolff, F. The philosophy of consciousness without an object.
-    Julian Press, 1973.
+- Merrell-Wolff, F. The philosophy of consciousness without an object.
+  Julian Press, 1973.
 
--   Roberts, B. The path to no-self. Shambhala, 1985.
+- Roberts, B. The path to no-self. Shambhala, 1985.
 
--   Stace, W.T. The teachings of the mystics. Mentor Books, 1960.
+- Stace, W.T. The teachings of the mystics. Mentor Books, 1960.
 
--   Underhill, E. Mysticism. E. P. Dutton, 1961.
+- Underhill, E. Mysticism. E. P. Dutton, 1961.
 
--   White, J. (ed.). What is enlightenment? J. P. Tarcher, 1985.
+- White, J. (ed.). What is enlightenment? J. P. Tarcher, 1985.
 
 </div>
 
@@ -5229,20 +5225,20 @@ American retreat centers and places of meditation instruction.
 
 <div class="ulist">
 
--   Dass, Ram. Journey of awakening: A meditator’s guidebook. Bantam
-    Book, 1978.
+- Dass, Ram. Journey of awakening: A meditator’s guidebook. Bantam Book,
+  1978.
 
--   Henderson, C.W. Awakening. Prentice-Hall, 1975.
+- Henderson, C.W. Awakening. Prentice-Hall, 1975.
 
--   Jack, A. The new age dictionary. Kanthaka Press, 1976.
+- Jack, A. The new age dictionary. Kanthaka Press, 1976.
 
--   Khalsa, P.S. (ed.). The new consciousness sourcebook. Spiritual
-    Community Publications.
+- Khalsa, P.S. (ed.). The new consciousness sourcebook. Spiritual
+  Community Publications.
 
--   Popenoe, C. Inner development. Yes! Inc., 1979.
+- Popenoe, C. Inner development. Yes! Inc., 1979.
 
--   Reese, W.L. Dictionary of philosophy and religion. Humanities Press,
-    1980.
+- Reese, W.L. Dictionary of philosophy and religion. Humanities Press,
+  1980.
 
 </div>
 
@@ -5267,21 +5263,21 @@ textbook on the psychology of religion.
 
 <div class="ulist">
 
--   James, W. The varieties of religious experience. Mentor Books, 1958.
+- James, W. The varieties of religious experience. Mentor Books, 1958.
 
--   Lilly, J.C. Simulations of God. Bantam Books, 1976.
+- Lilly, J.C. Simulations of God. Bantam Books, 1976.
 
--   Schuon, F. The transcendent unity of religions. Quest Books, 1984.
+- Schuon, F. The transcendent unity of religions. Quest Books, 1984.
 
--   Smith, H. Forgotten truth: The primordial tradition. Harper
-    Colophon, 1977.
+- Smith, H. Forgotten truth: The primordial tradition. Harper Colophon,
+  1977.
 
--   Spilka, B., R.W. Hood, & R.L. Gorsuch. The psychology of religion.
-    Prentice-Hall, 1985.
+- Spilka, B., R.W. Hood, & R.L. Gorsuch. The psychology of religion.
+  Prentice-Hall, 1985.
 
--   Stapleton, 0. Star maker. Penguin Books, 1972.
+- Stapleton, 0. Star maker. Penguin Books, 1972.
 
--   Wilber, K. A sociable God. Shambhala, 1983.
+- Wilber, K. A sociable God. Shambhala, 1983.
 
 </div>
 
@@ -5293,29 +5289,29 @@ textbook on the psychology of religion.
 
 <div class="ulist">
 
--   Bhagavad-Gita. One of the world’s most loved spiritual works.
-    Instruction in yoga within the context of a great epic story. J.
-    Mascaro, Penguin Books, 1962. Swami Prabhavananda, Mentor
-    Books, 1944. Shri Purohit Swami, Vintage Books, 1977.
+- Bhagavad-Gita. One of the world’s most loved spiritual works.
+  Instruction in yoga within the context of a great epic story. J.
+  Mascaro, Penguin Books, 1962. Swami Prabhavananda, Mentor Books, 1944.
+  Shri Purohit Swami, Vintage Books, 1977.
 
--   The Dhammapada. Some sayings of the Buddha. P. Lal, Farrar, Straus &
-    Giroux, 1967. T. Byrom, Vintage Books, 1976.
+- The Dhammapada. Some sayings of the Buddha. P. Lal, Farrar, Straus &
+  Giroux, 1967. T. Byrom, Vintage Books, 1976.
 
--   Holy Bible. The basic text of the Judeo-Christian religions. A
-    collection of folklore, history, letters, laws, ceremonies, hymns,
-    prayers, sermons, odes, proverbs, and essays. The King James version
-    is still preferred by many, though the Revised Standard Version is
-    widely used in theological studies. The gospel of John is perhaps
-    the gospel closest to the perennial philosophy; it is the most
-    “mystical” of the gospels.
+- Holy Bible. The basic text of the Judeo-Christian religions. A
+  collection of folklore, history, letters, laws, ceremonies, hymns,
+  prayers, sermons, odes, proverbs, and essays. The King James version
+  is still preferred by many, though the Revised Standard Version is
+  widely used in theological studies. The gospel of John is perhaps the
+  gospel closest to the perennial philosophy; it is the most “mystical”
+  of the gospels.
 
--   The Koran (Quran). The holy scripture of Islam, the record of
-    Mohammed’s oral teachings. J. M. Rodwell, translator, Everyman’s
-    Library, 1974.
+- The Koran (Quran). The holy scripture of Islam, the record of
+  Mohammed’s oral teachings. J. M. Rodwell, translator, Everyman’s
+  Library, 1974.
 
--   Tao Teh Ching (The way of life). The basic scripture of Taoism
-    attributed to Lao Tzu. R. B. Blakney, Mentor Books, 1955. W. Bynner,
-    Capricorn Books, 1944. G. Feng & J. English, Vintage Books, 1972.
+- Tao Teh Ching (The way of life). The basic scripture of Taoism
+  attributed to Lao Tzu. R. B. Blakney, Mentor Books, 1955. W. Bynner,
+  Capricorn Books, 1944. G. Feng & J. English, Vintage Books, 1972.
 
 </div>
 
@@ -5334,19 +5330,19 @@ psychological problems.
 
 <div class="ulist">
 
--   Martin, R.A. & Poland, E.Y. Learning to change. McGraw-Hill, 1980.
+- Martin, R.A. & Poland, E.Y. Learning to change. McGraw-Hill, 1980.
 
--   Mikulas, W.L. Skills of living. University Press of America, 1983.
+- Mikulas, W.L. Skills of living. University Press of America, 1983.
 
--   Shapiro, D.H. Precision Nirvana. Prentice-Hall, 1978.
+- Shapiro, D.H. Precision Nirvana. Prentice-Hall, 1978.
 
--   Watson, D.L. & R.G. Tharp. Self-directed behavior. Brooks/Cole,
-    fourth edition, 1985.
+- Watson, D.L. & R.G. Tharp. Self-directed behavior. Brooks/Cole, fourth
+  edition, 1985.
 
--   Williams, R.L. & J.D. Long. Toward a self-managed life style.
-    Houghton Mifflin, third edition, 1983.
+- Williams, R.L. & J.D. Long. Toward a self-managed life style. Houghton
+  Mifflin, third edition, 1983.
 
--   Yates, B.T. Self-management. Wadsworth, 1985.
+- Yates, B.T. Self-management. Wadsworth, 1985.
 
 </div>
 
@@ -5367,16 +5363,16 @@ stories.
 
 <div class="ulist">
 
--   de Mello, A. The song of the bird. Image Books, 1984. Kahn, N.I.
-    Twenty Jataka tales. Inner Traditions Inter national, 1985.
+- de Mello, A. The song of the bird. Image Books, 1984. Kahn, N.I.
+  Twenty Jataka tales. Inner Traditions Inter national, 1985.
 
--   Reps, P. Zen flesh, Zen bones. Anchor Books, 1957. Salajan, I. Zen
-    comics. Charles E. Tuttle, I in 1974, II in 1982.
+- Reps, P. Zen flesh, Zen bones. Anchor Books, 1957. Salajan, I. Zen
+  comics. Charles E. Tuttle, I in 1974, II in 1982.
 
--   Shah, I. The pleasantries of the incredible Mulla Nasrudin. E. P.
-    Dutton, 1971. (The first of four such collections.).
+- Shah, I. The pleasantries of the incredible Mulla Nasrudin. E. P.
+  Dutton, 1971. (The first of four such collections.).
 
--   Van Over, R. Taoist tales. Mentor, 1973.
+- Van Over, R. Taoist tales. Mentor, 1973.
 
 </div>
 
@@ -5394,11 +5390,11 @@ Books about Sufism, the mystical side of Islam.
 
 <div class="ulist">
 
--   Lings, M. What is sufism? University of California Press, 1977.
+- Lings, M. What is sufism? University of California Press, 1977.
 
--   Schuon, F. Sufism: Veil and quintessence. World Wisdom Books, 1981.
+- Schuon, F. Sufism: Veil and quintessence. World Wisdom Books, 1981.
 
--   Shah, I. The Sufis. Anchor Books, 1971.
+- Shah, I. The Sufis. Anchor Books, 1971.
 
 </div>
 
@@ -5418,17 +5414,17 @@ commentary on the Tao Teh Ching is in terms of meditation and mysticism.
 
 <div class="ulist">
 
--   Blofeld, J. Gateway to wisdom. Shambhala, 1980. (Taoist and Mahayana
-    Buddhist practices).
+- Blofeld, J. Gateway to wisdom. Shambhala, 1980. (Taoist and Mahayana
+  Buddhist practices).
 
--   Blofeld, J. Taoism: The road to immortality. Shambhala,1978.
+- Blofeld, J. Taoism: The road to immortality. Shambhala,1978.
 
--   Feng, G. & J. English (translators). Chuang Tsu Inner Chapters.
-    Vintage Books, 1974.
+- Feng, G. & J. English (translators). Chuang Tsu Inner Chapters.
+  Vintage Books, 1974.
 
--   Watts, A. Tao: The watercourse way. Pantheon Books, 1975.
+- Watts, A. Tao: The watercourse way. Pantheon Books, 1975.
 
--   Wei, H. The guiding light of Lao Tzu. Quest Books, 1982.
+- Wei, H. The guiding light of Lao Tzu. Quest Books, 1982.
 
 </div>
 
@@ -5465,36 +5461,36 @@ Swami Rama, and Swami Satchidananda.
 
 <div class="ulist">
 
--   Da Free John. The Dawn Horse testament of Heart- Master Da Free
-    John. Dawn Horse Press, 1985.
+- Da Free John. The Dawn Horse testament of Heart- Master Da Free John.
+  Dawn Horse Press, 1985.
 
--   Dass, Ram. The only dance there is. Anchor Books, 1974.
+- Dass, Ram. The only dance there is. Anchor Books, 1974.
 
--   Dass, Ram. Grist for the mill. Bantam Books, 1979.
+- Dass, Ram. Grist for the mill. Bantam Books, 1979.
 
--   Krishnamurti, J. The first and last freedom. Harper & Row, 1954.
+- Krishnamurti, J. The first and last freedom. Harper & Row, 1954.
 
--   Krishnamurti, J. Think on these things. Harper & Row, 1964.
+- Krishnamurti, J. Think on these things. Harper & Row, 1964.
 
--   Krishnamurti, J. The second Penguin Krishnamurti reader. Penguin
-    Books, 1970 (M. Lutyens, editor).
+- Krishnamurti, J. The second Penguin Krishnamurti reader. Penguin
+  Books, 1970 (M. Lutyens, editor).
 
--   Krishnamurti, J. The awakening of intelligence. Harper & Row, 1973.
+- Krishnamurti, J. The awakening of intelligence. Harper & Row, 1973.
 
--   Krishnamurti, J. The flame of attention. Harper & Row, 1984.
+- Krishnamurti, J. The flame of attention. Harper & Row, 1984.
 
--   Merton, T. No man is an island. Harcourt, Brace Jovanovich, 1955.
+- Merton, T. No man is an island. Harcourt, Brace Jovanovich, 1955.
 
--   Merton, T. Mystics and Zen masters. Delta Book, 1961.
+- Merton, T. Mystics and Zen masters. Delta Book, 1961.
 
--   Merton, T. A Thomas Merton reader. Image Book, 1974. (T. P.
-    McDonnell, editor).
+- Merton, T. A Thomas Merton reader. Image Book, 1974. (T. P. McDonnell,
+  editor).
 
--   Watts, A.W. The book. Collier Books, 1966.
+- Watts, A.W. The book. Collier Books, 1966.
 
--   Watts, A.W. Cloud-hidden, whereabouts unknown. Vintage Books, 1974.
+- Watts, A.W. Cloud-hidden, whereabouts unknown. Vintage Books, 1974.
 
--   Watts, A.W. The essence of Alan Watts. Celestial Arts, 1977.
+- Watts, A.W. The essence of Alan Watts. Celestial Arts, 1977.
 
 </div>
 
@@ -5521,34 +5517,33 @@ transpersonal theory and research.
 
 <div class="ulist">
 
--   Assagioli, R. Psychosynthesis. Penguin Books, 1976. Boorstein, S.
-    (ed.). Transpersonal psychotherapy. Science and Behavior Books,
-    1980.
+- Assagioli, R. Psychosynthesis. Penguin Books, 1976. Boorstein, S.
+  (ed.). Transpersonal psychotherapy. Science and Behavior Books, 1980.
 
--   Dass, Ram & P. Gorman. How can I help? Knopf, 1985.
+- Dass, Ram & P. Gorman. How can I help? Knopf, 1985.
 
--   Dean, S.R. (ed.). Psychiatry & mysticism. Nelson-Hall, 1975.
+- Dean, S.R. (ed.). Psychiatry & mysticism. Nelson-Hall, 1975.
 
--   Ferrucci, P. What we may be. J. P. Tarcher, 1982.
+- Ferrucci, P. What we may be. J. P. Tarcher, 1982.
 
--   Maslow, A. The farther reaches of human nature. Penguin Books, 1976.
+- Maslow, A. The farther reaches of human nature. Penguin Books, 1976.
 
--   Metzner, R. Opening to inner light. J. P.Tarcher, 1986.
+- Metzner, R. Opening to inner light. J. P.Tarcher, 1986.
 
--   Tart, C. T. (ed.). Transpersonal psychologies. Harper & Row, 1975.
+- Tart, C. T. (ed.). Transpersonal psychologies. Harper & Row, 1975.
 
--   Van Dusen, W. The natural depth in man. Harper & Row, 1972.
+- Van Dusen, W. The natural depth in man. Harper & Row, 1972.
 
--   Walsh, R.N. & F. Vaughan (eds.). Beyond ego. J. P. Tarcher, 1980.
+- Walsh, R.N. & F. Vaughan (eds.). Beyond ego. J. P. Tarcher, 1980.
 
--   Welwood, J. (ed.). The meeting of the ways. Schocken Books, 1979.
+- Welwood, J. (ed.). The meeting of the ways. Schocken Books, 1979.
 
--   Wilber, K. The Atman project. Quest Books, 1980.
+- Wilber, K. The Atman project. Quest Books, 1980.
 
--   Wilber, K. Up from Eden. Shambhala, 1983.
+- Wilber, K. Up from Eden. Shambhala, 1983.
 
--   Wilber, K. Eye to eye. Anchor Books, 1983 (This book is the best
-    overview by Wilber).
+- Wilber, K. Eye to eye. Anchor Books, 1983 (This book is the best
+  overview by Wilber).
 
 </div>
 
@@ -5569,21 +5564,20 @@ Buddhism.
 
 <div class="ulist">
 
--   Ajaya, Swami. Psychotherapy East and West. Himalayan Publishers,
-    1983.
+- Ajaya, Swami. Psychotherapy East and West. Himalayan Publishers, 1983.
 
--   Fromm, E., D.T. Suzuki & R. DeMartino. Zen Buddhism and
-    psychoanalysis. Harper & Row, 1960.
+- Fromm, E., D.T. Suzuki & R. DeMartino. Zen Buddhism and
+  psychoanalysis. Harper & Row, 1960.
 
--   Katz, N. (ed.). Buddhist and Western psychology. Prajna Press, 1983.
+- Katz, N. (ed.). Buddhist and Western psychology. Prajna Press, 1983.
 
--   Rama, Swami, R. Ballentine, & Swami Ajaya. Yoga and psychotherapy.
-    Himalayan Institute, 1976.
+- Rama, Swami, R. Ballentine, & Swami Ajaya. Yoga and psychotherapy.
+  Himalayan Institute, 1976.
 
--   Spiegelman, J.M. & M. Miyuki. Buddhism and Jungian psychology.
-    Falcon Press, 1985.
+- Spiegelman, J.M. & M. Miyuki. Buddhism and Jungian psychology. Falcon
+  Press, 1985.
 
--   Watts, A.W. Psychotherapy East and West. Ballantine Books, 1969.
+- Watts, A.W. Psychotherapy East and West. Ballantine Books, 1969.
 
 </div>
 
@@ -5606,27 +5600,27 @@ and Kundalini.”
 
 <div class="ulist">
 
--   Eliade, M. Patanjali and yoga. Schocken Books, 1975.
+- Eliade, M. Patanjali and yoga. Schocken Books, 1975.
 
--   Eliade, M. Yoga: Immortality and freedom. Princeton University
-    Press, second edition, 1970.
+- Eliade, M. Yoga: Immortality and freedom. Princeton University Press,
+  second edition, 1970.
 
--   Maharshi, Ramana. The spiritual teaching of Ramana Maharshi.
-    Shambhala, 1972.
+- Maharshi, Ramana. The spiritual teaching of Ramana Maharshi.
+  Shambhala, 1972.
 
--   McDermott, R. The essential Aurobindo. Schocken Books, 1973.
+- McDermott, R. The essential Aurobindo. Schocken Books, 1973.
 
--   Prabhavananda, Swami & C. Isherwood. How to know God: The yoga
-    aphorisms of Patanjali. Mentor, 1969.
+- Prabhavananda, Swami & C. Isherwood. How to know God: The yoga
+  aphorisms of Patanjali. Mentor, 1969.
 
--   Prabhavananda, Swami. Shankara‘s crest-jewel of discrimination.
-    Mentor Books, 1970.
+- Prabhavananda, Swami. Shankara‘s crest-jewel of discrimination. Mentor
+  Books, 1970.
 
--   Rama, Swami. Choosing a path. Himalayan Publishers, 1982.
+- Rama, Swami. Choosing a path. Himalayan Publishers, 1982.
 
--   Taimni, I.K. The science of yoga. Quest Books, 1967.
+- Taimni, I.K. The science of yoga. Quest Books, 1967.
 
--   Wood, E. Seven schools of yoga. Quest Books, 1973.
+- Wood, E. Seven schools of yoga. Quest Books, 1973.
 
 </div>
 
@@ -5645,27 +5639,26 @@ breath and vital energy (pranayama).
 
 <div class="ulist">
 
--   Hittleman, R. Introduction to yoga. Bantam Books, 1969.
+- Hittleman, R. Introduction to yoga. Bantam Books, 1969.
 
--   Iyengar, B.K.S. Light on yoga. Schocken Books, revised edition,
-    1977.
+- Iyengar, B.K.S. Light on yoga. Schocken Books, revised edition, 1977.
 
--   Iyengar, B.K.S. The concise light on yoga. Schocken Books,1982.
+- Iyengar, B.K.S. The concise light on yoga. Schocken Books,1982.
 
--   Narayanananda, Swami. The secrets of prana, pranayama, and
-    yoga-asanas. N.U. Yoga Trust, 5th edition, 1979.
+- Narayanananda, Swami. The secrets of prana, pranayama, and
+  yoga-asanas. N.U. Yoga Trust, 5th edition, 1979.
 
--   Samskrti & Veda. Hatha yoga. Himalayan Institute, second edition,
-    1987 (first of two manuals).
+- Samskrti & Veda. Hatha yoga. Himalayan Institute, second edition, 1987
+  (first of two manuals).
 
--   Rama, Swami. Path of fire and light: Advanced practices of yoga.
-    Himalayan Publishers, 1986.
+- Rama, Swami. Path of fire and light: Advanced practices of yoga.
+  Himalayan Publishers, 1986.
 
--   Rama, Swami, R. Ballentine, & A. Hymes. Science of breath. Himalayan
-    Institute, 1979.
+- Rama, Swami, R. Ballentine, & A. Hymes. Science of breath. Himalayan
+  Institute, 1979.
 
--   Vishnudevananda, Swami. The complete illustrated book of yoga.
-    Pocket Book, 1972.
+- Vishnudevananda, Swami. The complete illustrated book of yoga. Pocket
+  Book, 1972.
 
 </div>
 
@@ -5723,23 +5716,25 @@ several formats:
 
 </div>
 
-| Format Description   | Link                                                                                  |
-|----------------------|---------------------------------------------------------------------------------------|
-| HTML5 stand-alone    | <a href="https://jackiewoodall.github.io/twb/the_way_beyond.html"                     
-                        class="bare">https://jackiewoodall.github.io/twb/the_way_beyond.html</a>               |
-| Adobe Acrobat PDF    | <a href="https://jackiewoodall.github.io/twb/the_way_beyond.pdf"                      
-                        class="bare">https://jackiewoodall.github.io/twb/the_way_beyond.pdf</a>                |
-| Microsoft Word       | <a href="https://jackiewoodall.github.io/twb/the_way_beyond.docx"                     
-                        class="bare">https://jackiewoodall.github.io/twb/the_way_beyond.docx</a>               |
-| Plain Text           | <a href="https://jackiewoodall.github.io/twb/the_way_beyond.txt"                      
-                        class="bare">https://jackiewoodall.github.io/twb/the_way_beyond.txt</a>                |
-| Markdown             | <a                                                                                    
-                        href="https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md"            
-                        class="bare">https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md</a>  |
-| Epub3                | <a href="https://jackiewoodall.github.io/twb/the_way_beyond.epub"                     
-                        class="bare">https://jackiewoodall.github.io/twb/the_way_beyond.epub</a>               |
-| Amazon Kindle Reader | <a href="https://jackiewoodall.github.io/twb/the_way_beyond.mobi"                     
-                        class="bare">https://jackiewoodall.github.io/twb/the_way_beyond.mobi</a>               |
+| Format Description | Link |
+|----|----|
+| HTML5 stand-alone | <a href="https://jackiewoodall.github.io/twb/the_way_beyond.html"
+class="bare">https://jackiewoodall.github.io/twb/the_way_beyond.html</a> |
+| Adobe Acrobat PDF | <a href="https://jackiewoodall.github.io/twb/the_way_beyond.pdf"
+class="bare">https://jackiewoodall.github.io/twb/the_way_beyond.pdf</a> |
+| Microsoft Word | <a href="https://jackiewoodall.github.io/twb/the_way_beyond.docx"
+class="bare">https://jackiewoodall.github.io/twb/the_way_beyond.docx</a> |
+| Plain Text | <a href="https://jackiewoodall.github.io/twb/the_way_beyond.txt"
+class="bare">https://jackiewoodall.github.io/twb/the_way_beyond.txt</a> |
+| Markdown | <a
+href="https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md"
+class="bare">https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md</a> |
+| Epub3 | <a href="https://jackiewoodall.github.io/twb/the_way_beyond.epub"
+class="bare">https://jackiewoodall.github.io/twb/the_way_beyond.epub</a> |
+| mobi | <a href="https://jackiewoodall.github.io/twb/the_way_beyond.mobi"
+class="bare">https://jackiewoodall.github.io/twb/the_way_beyond.mobi</a> |
+| Amazon Kindle (azw3) | <a href="https://jackiewoodall.github.io/twb/the_way_beyond.azw3"
+class="bare">https://jackiewoodall.github.io/twb/the_way_beyond.azw3</a> |
 
 </div>
 
@@ -5751,7 +5746,7 @@ several formats:
 
 <div id="footer-text">
 
-Last updated 2022-06-28 15:52:00 -0600
+Last updated 2024-09-14 16:18:08 -0700
 
 </div>
 

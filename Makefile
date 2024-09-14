@@ -5,7 +5,7 @@ OUTNAME=the_way_beyond
 OUTDIR=./
 OUTFILE=$(OUTDIR)$(OUTNAME)
 IMAGES=./images/*.jpg
-EXTS=htm html pdf docx md txt epub mobi xml
+EXTS=htm html pdf docx md txt epub mobi azw3 xml
 
 all: $(EXTS)
 
@@ -57,4 +57,9 @@ mobi: $(OUTFILE).mobi
 
 $(OUTFILE).mobi: $(OUTFILE).epub
 	ebook-convert $(OUTFILE).epub $(OUTFILE).mobi
+
+azw3: $(OUTFILE).azw3
+
+$(OUTFILE).azw3: $(OUTFILE).epub
+	ebook-convert $(OUTFILE).epub $(OUTFILE).azw3
 

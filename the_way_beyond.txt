@@ -1,6 +1,9 @@
 The Way Beyond: An Overview of Spiritual Practices
 William L. Mikulas
 
+
+-   The Way Beyond: An Overview of Spiritual Practices
+
 The Way Beyond: An Overview of Spiritual Practices
 
 William L. Mikulas
@@ -764,7 +767,7 @@ and fall is best for mindfulness.
 Setting
 
 Where and when you meditate is important. Have a special place, perhaps
-with a special Cushion or robe. Over time these props may help get you
+with a special cushion or robe. Over time these props may help get you
 in the right “mood” for meditation. Free yourself from interruptions by
 taking the phone off the hook, putting out a “do not disturb” sign, etc.
 
@@ -879,8 +882,8 @@ letting be.
 
 Making friends with yourself. During meditation, at least at first, you
 will have many thoughts and reactions about meditation and your ability
-to meditate. You will evaluate how well you think You are doing and
-perhaps compare it to how well You think you should be doing or how well
+to meditate. You will evaluate how well you think you are doing and
+perhaps compare it to how well you think you should be doing or how well
 you think someone else is doing. You may become dissatisfied by your
 perceived rate of progress and/or what you are experiencing. You may
 have some negative feelings toward yourself as a competent meditator.
@@ -3728,8 +3731,11 @@ several formats:
 | Epub3              | https://                                        |
 |                    | jackiewoodall.github.io/twb/the_way_beyond.epub |
 +--------------------+-------------------------------------------------+
+| mobi               | https://                                        |
+|                    | jackiewoodall.github.io/twb/the_way_beyond.mobi |
++--------------------+-------------------------------------------------+
 | Amazon Kindle      | https://                                        |
-| Reader             | jackiewoodall.github.io/twb/the_way_beyond.mobi |
+| (azw3)             | jackiewoodall.github.io/twb/the_way_beyond.azw3 |
 +--------------------+-------------------------------------------------+
 
-Last updated 2022-06-28 15:52:00 -0600
+Last updated 2024-09-14 16:18:08 -0700
