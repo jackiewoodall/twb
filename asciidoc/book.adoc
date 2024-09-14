@@ -1269,6 +1269,7 @@ This book is offered for free distribution and is publicly available in several 
 | Plain Text | https://jackiewoodall.github.io/twb/the_way_beyond.txt
 | Markdown | https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md
 | Epub3 | https://jackiewoodall.github.io/twb/the_way_beyond.epub
-| Amazon Kindle Reader | https://jackiewoodall.github.io/twb/the_way_beyond.mobi
+| mobi | https://jackiewoodall.github.io/twb/the_way_beyond.mobi
+| Amazon Kindle (azw3) | https://jackiewoodall.github.io/twb/the_way_beyond.azw3
 |===
 
