@@ -26,3 +26,5 @@ Pages:
 * MD: https://github.com/jackiewoodall/twb/blob/gh-pages/the_way_beyond.md
 * EPUB: https://jackiewoodall.github.io/twb/the_way_beyond.epub
 * MOBI: https://jackiewoodall.github.io/twb/the_way_beyond.mobi
+* AZW3: https://jackiewoodall.github.io/twb/the_way_beyond.azw3
+
